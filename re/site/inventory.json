@@ -1,0 +1,1558 @@
+{
+ "/about-us": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/about-us/page-d716afee32403288.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/about-us/page-d716afee32403288.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "About Us"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 4,
+  "bytes": 30344
+ },
+ "/annual-maintenance-program": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/annual-maintenance-program/page-1b9034d1b3ac3a65.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/annual-maintenance-program/page-1b9034d1b3ac3a65.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Annual Maintenance Program",
+   "Annual Maintenance Program"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 31140
+ },
+ "/blogs": {
+  "status": 404
+ },
+ "/building-wash": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/building-wash/page-b78d8f7327776f62.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/9143-08a231b881d36291.js",
+   "/_next/static/chunks/app/building-wash/page-b78d8f7327776f62.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2F5029d507-c128-4feb-b2cb-6dc9749f839c.png",
+   "/_next/image?url=%2Fimages%2Ff44.png",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Building Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 26460
+ },
+ "/career": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/career/page-62a527c6d2ca6ed5.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/7612-7bf3e11fbed0e07c.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/career/page-62a527c6d2ca6ed5.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Start Your Career with I Got The Power Washer LLC"
+  ],
+  "forms": 1,
+  "clientOnlySlots": 3,
+  "bytes": 27884
+ },
+ "/commercial-gallery": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/commercial-gallery/page-1d4ce077e6644d5a.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/commercial-gallery/page-1d4ce077e6644d5a.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2F05%20(2).jpg",
+   "/_next/image?url=%2Fimages%2F06%20(2).jpg",
+   "/_next/image?url=%2Fimages%2F1252.jpg",
+   "/_next/image?url=%2Fimages%2F1530.png",
+   "/_next/image?url=%2Fimages%2F16.jpg",
+   "/_next/image?url=%2Fimages%2F300-1024x683-1.png",
+   "/_next/image?url=%2Fimages%2FImportedPhoto_1739380373586-1536x1152.jpg",
+   "/_next/image?url=%2Fimages%2FImportedPhoto_1740409854627.jpg",
+   "/_next/image?url=%2Fimages%2FUntitled-2.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/6-1.jpg",
+   "/images/6-1.png",
+   "/images/6s.png",
+   "/images/7.png",
+   "/images/8 (1).png",
+   "/images/9 (1).jpg",
+   "/images/ImportedPhoto_1740409654948 (1).jpg",
+   "/images/ImportedPhoto_1740409654948.jpg",
+   "/images/captured-media-3-mp4.mp4",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Our Commercial Cleaning and Washing Work"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 38198
+ },
+ "/commercial-gutter-cleaning": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/commercial-gutter-cleaning/page-582a85a4addea601.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/commercial-gutter-cleaning/page-582a85a4addea601.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FWhatsApp-Image-2025-02-10-at-9.16.29-PM-5.jpeg",
+   "/_next/image?url=%2Fimages%2FWhatsApp-Image-2025-02-10-at-9.16.29-PM-7.jpeg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Commercial Pressure Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 25225
+ },
+ "/commercial-pressure-washing": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/commercial-pressure-washing/page-1e306a93b653d7a6.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/commercial-pressure-washing/page-1e306a93b653d7a6.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2F1252.jpg",
+   "/_next/image?url=%2Fimages%2F15-1024x683-1.png",
+   "/_next/image?url=%2Fimages%2F8.png",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Commercial Pressure Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 25434
+ },
+ "/commercial-window-cleaning": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/commercial-window-cleaning/page-711b90ac8eace96c.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/commercial-window-cleaning/page-711b90ac8eace96c.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FUntitled-3.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Commercial Window Cleaning Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 26051
+ },
+ "/concrete-pressure-washing": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/concrete-pressure-washing/page-25425228b099fb23.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/9143-08a231b881d36291.js",
+   "/_next/static/chunks/app/concrete-pressure-washing/page-25425228b099fb23.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2F1252.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Concrete Pressure Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 27742
+ },
+ "/concrete-sealing": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/concrete-sealing/page-86d7fc0532c4fe03.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/9143-08a231b881d36291.js",
+   "/_next/static/chunks/app/concrete-sealing/page-86d7fc0532c4fe03.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/1.jpeg",
+   "/images/1528-768x512.png",
+   "/images/2.jpeg",
+   "/images/3.jpeg",
+   "/images/4.jpeg",
+   "/images/WhatsApp-Image-2023-08-24-at-21.43.43-768x576.jpg",
+   "/images/uft.png",
+   "/images/ujytgkj-1.mp4"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Driveway Washing and Sealing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 32060
+ },
+ "/contact-us": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/contact-us/page-7b8545b4c1889694.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/7612-7bf3e11fbed0e07c.js",
+   "/_next/static/chunks/7743-87efd38f77d379ee.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/contact-us/page-7b8545b4c1889694.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Contact Us"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 24473
+ },
+ "/efflorescence-removal": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/efflorescence-removal/page-d3a316be5cb5ac63.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/efflorescence-removal/page-d3a316be5cb5ac63.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FEfflorescence-Removal.png",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Efflorescence Removal Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 26143
+ },
+ "/fence-washing": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/fence-washing/page-33435f782cdd4f9a.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1192-13a009ac2ee0a61c.js",
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/fence-washing/page-33435f782cdd4f9a.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FAfter_fence.jpg",
+   "/_next/image?url=%2Fimages%2FBefore_fence.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Expert Fence Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 27070
+ },
+ "/gallery": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/gallery/page-2bbb9c325becdad6.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1192-13a009ac2ee0a61c.js",
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/gallery/page-2bbb9c325becdad6.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2F05%20(2).jpg",
+   "/_next/image?url=%2Fimages%2F06%20(2).jpg",
+   "/_next/image?url=%2Fimages%2F1252.jpg",
+   "/_next/image?url=%2Fimages%2F1530.png",
+   "/_next/image?url=%2Fimages%2F16.jpg",
+   "/_next/image?url=%2Fimages%2F300-1024x683-1.png",
+   "/_next/image?url=%2Fimages%2FImportedPhoto_1739380373586-1536x1152.jpg",
+   "/_next/image?url=%2Fimages%2FImportedPhoto_1740409854627.jpg",
+   "/_next/image?url=%2Fimages%2FUntitled-2.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/1.png",
+   "/images/18.jpg",
+   "/images/1s.png",
+   "/images/2.png",
+   "/images/20.jpg",
+   "/images/20.png",
+   "/images/21.png",
+   "/images/2s.png",
+   "/images/6-1.jpg",
+   "/images/6-1.png",
+   "/images/6s.png",
+   "/images/7.png",
+   "/images/8 (1).png",
+   "/images/9 (1).jpg",
+   "/images/After_Wall.jpg",
+   "/images/Before_Wall.jpg",
+   "/images/ImportedPhoto_1740409654948 (1).jpg",
+   "/images/ImportedPhoto_1740409654948.jpg",
+   "/images/captured-media-3-mp4.mp4",
+   "/images/fjdsh.png",
+   "/images/media_20250224_200900_1923208072107551546.jpg",
+   "/images/media_20250224_200900_44446008399370510.jpg",
+   "/images/ssde.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Gallery"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 48602
+ },
+ "/gas-station": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/gas-station/page-77a644cbb28bf30c.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/gas-station/page-77a644cbb28bf30c.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fgas-station.jpg",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Expert Gas Station Pressure Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 26798
+ },
+ "/get-estimate": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/get-estimate/page-42cd6b5a9ec7a2d5.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/7612-7bf3e11fbed0e07c.js",
+   "/_next/static/chunks/7743-87efd38f77d379ee.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/get-estimate/page-42cd6b5a9ec7a2d5.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Get Estimate"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 20648
+ },
+ "/graffiti-removal": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/graffiti-removal/page-9c0d46d84b40c985.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4825-a9bb1122a67929fd.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/graffiti-removal/page-9c0d46d84b40c985.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FGum-Removal.png",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Professional Graffiti Removal Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 25815
+ },
+ "/grease-removal": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/grease-removal/page-94dd6d29ed973692.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4825-a9bb1122a67929fd.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/grease-removal/page-94dd6d29ed973692.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FGrease-Removal-pressure-washer.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Expert Grease Removal Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 26176
+ },
+ "/gum-removal": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/gum-removal/page-1884ad508f3bdc9e.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4825-a9bb1122a67929fd.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/gum-removal/page-1884ad508f3bdc9e.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FGum-Removal.png",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Professional Graffiti Removal Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 25789
+ },
+ "/gutter-cleaning": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/gutter-cleaning/page-b3c8b827031243df.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/gutter-cleaning/page-b3c8b827031243df.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2F08%20(1).jpg",
+   "/_next/image?url=%2Fimages%2F21.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/151.png",
+   "/images/152.png",
+   "/images/b7823a34-ce69-4d5a-94fd-c19791c099d1 (1).png",
+   "/images/b7823a34-ce69-4d5a-94fd-c19791c099d1 (2).png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Gutter Cleaning Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 28536
+ },
+ "/": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/page-c32512ff13036244.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/5977-469e2ab57a6a7f9e.js",
+   "/_next/static/chunks/6725-d440cf8a88dd8d2d.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/7612-7bf3e11fbed0e07c.js",
+   "/_next/static/chunks/7743-87efd38f77d379ee.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/page-c32512ff13036244.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FWeb-1-1536x1152%20(1).webp",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/client1.jpg",
+   "/images/client10.jpg",
+   "/images/client11.jpg",
+   "/images/client12.jpg",
+   "/images/client13.jpg",
+   "/images/client14.jpg",
+   "/images/client15.jpg",
+   "/images/client16.jpg",
+   "/images/client17.png",
+   "/images/client18.jpg",
+   "/images/client2.jpg",
+   "/images/client3.jpg",
+   "/images/client4.jpg",
+   "/images/client5.jpg",
+   "/images/client6.jpg",
+   "/images/client7.jpg",
+   "/images/client8.jpg",
+   "/images/client9.jpg",
+   "/images/google-icon.svg",
+   "/images/uft.png",
+   "/images/unnamed (1).png",
+   "/images/unnamed (2).png",
+   "/images/unnamed (3).png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [],
+  "forms": 0,
+  "clientOnlySlots": 4,
+  "bytes": 44475
+ },
+ "/house-washing": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/house-washing/page-6b7bbfb127b3f5d4.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/5557-1450b7e25d6cbef2.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/house-washing/page-6b7bbfb127b3f5d4.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2F29740301_240778096496823_8672564260921933824_n1.jpg",
+   "/_next/image?url=%2Fimages%2Fb7823a34-ce69-4d5a-94fd-c19791c099d1.png",
+   "/_next/image?url=%2Fimages%2Fere.png",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/18.jpg",
+   "/images/20.jpg",
+   "/images/4-1.jpg",
+   "/images/5-1.jpg",
+   "/images/fjdsh.png",
+   "/images/media_20250212_221104_2401613298102951531.jpg",
+   "/images/media_20250212_221104_8229967078494439592.jpg",
+   "/images/ssde.png",
+   "/images/uft.png"
+  ],
+  "iframes": [
+   "https://www.youtube.com/embed/9HCBvY0djoQ?si=QctJReAhfIJavetc"
+  ],
+  "extScripts": [],
+  "h1": [
+   "House Washing Services in Cincinnati, OH"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 4,
+  "bytes": 34327
+ },
+ "/oil-removal": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/oil-removal/page-92376ebcef3770de.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/oil-removal/page-92376ebcef3770de.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fresturant.jpg",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Oil Stain Removal Services in Cincinnati, OH"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 25716
+ },
+ "/parking-lot-maintenance": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/parking-lot-maintenance/page-108fcdf593d1c3e4.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4446-865142a41f36c6df.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/parking-lot-maintenance/page-108fcdf593d1c3e4.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FParking-Lot-Maintenance.png",
+   "/_next/image?url=%2Fimages%2FParking-Lot-Washing.png",
+   "/_next/image?url=%2Fimages%2FSweeping-Cleaning.png",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Parking Lot Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 29946
+ },
+ "/parking-lot-washing": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/parking-lot-washing/page-812420cd93926aa9.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4446-865142a41f36c6df.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/parking-lot-washing/page-812420cd93926aa9.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FParking-Lot-Washing.png",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Parking Lot Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 25453
+ },
+ "/post-construction-clean-up": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/post-construction-clean-up/page-c4cc0ca3a63b602b.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/post-construction-clean-up/page-c4cc0ca3a63b602b.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FWhatsApp-Image-2025-02-10-at-9.16.30-PM-3-1024x768.jpeg",
+   "/_next/image?url=%2Fimages%2FWhatsApp-Image-2025-02-10-at-9.16.31-PM-1-1024x768.jpeg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Affordable Post Construction Cleanup Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 29915
+ },
+ "/pressure-washing": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/pressure-washing/page-f9e1ce1f75d6445b.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/3484-7cdd3fdc586d4670.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/pressure-washing/page-f9e1ce1f75d6445b.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/1.jpeg",
+   "/images/2.jpeg",
+   "/images/299-1024x683-1.png",
+   "/images/3.jpeg",
+   "/images/305.png",
+   "/images/4.jpeg",
+   "/images/effff.jpg",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Top-Quality Pressure Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 4,
+  "bytes": 31325
+ },
+ "/privacy-policy": {
+  "status": 404
+ },
+ "/quality-guarantee": {
+  "status": 404
+ },
+ "/residential-gallery": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/residential-gallery/page-2c6e6f93fb8c1ac9.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/residential-gallery/page-2c6e6f93fb8c1ac9.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/1.png",
+   "/images/18.jpg",
+   "/images/1s.png",
+   "/images/2.png",
+   "/images/20.jpg",
+   "/images/20.png",
+   "/images/21.png",
+   "/images/2s.png",
+   "/images/After_Wall.jpg",
+   "/images/Before_Wall.jpg",
+   "/images/captured-media-3-mp4.mp4",
+   "/images/fjdsh.png",
+   "/images/media_20250224_200900_1923208072107551546.jpg",
+   "/images/media_20250224_200900_44446008399370510.jpg",
+   "/images/ssde.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Residential"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 30593
+ },
+ "/restaurant": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/restaurant/page-95f67de0569366c3.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/restaurant/page-95f67de0569366c3.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fresturant.jpg",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Reliable Restaurant Cleaning Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 25696
+ },
+ "/reviews": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/reviews/page-3752b6d58a92c316.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6725-d440cf8a88dd8d2d.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/reviews/page-3752b6d58a92c316.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/google-icon.svg",
+   "/images/uft.png",
+   "/images/unnamed (1).png",
+   "/images/unnamed (2).png",
+   "/images/unnamed (3).png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Reviews"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 32801
+ },
+ "/roof-washing": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/roof-washing/page-28329bf24b789e5e.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/roof-washing/page-28329bf24b789e5e.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FIMG-20250116-WA0019-1536x1152.jpg",
+   "/_next/image?url=%2Fimages%2FRoofWashing-1040x520-1.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/_next/image?url=%2Fimages%2Funnamed.jpg",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Certified Roof Washing Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 24789
+ },
+ "/rust-removal": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/rust-removal/page-79d8c4c1e7b70350.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/rust-removal/page-79d8c4c1e7b70350.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FRust-Removal.png",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Expert Rust Removal Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 25880
+ },
+ "/satisfaction-guarantee-policy": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/satisfaction-guarantee-policy/page-f4fc362cb0c9192d.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6725-d440cf8a88dd8d2d.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/satisfaction-guarantee-policy/page-f4fc362cb0c9192d.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Our Satisfaction Guarantee Policy"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 24836
+ },
+ "/seal-solutions": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/seal-solutions/page-0f077c5cd767ad3a.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4446-865142a41f36c6df.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/seal-solutions/page-0f077c5cd767ad3a.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2F1528.png",
+   "/_next/image?url=%2Fimages%2FGet-your-roof-professionally-sprayed-1200x675-1-r1pjgidis5gphtkatuq55h6iid0m1acf3uxi5efups.jpg",
+   "/_next/image?url=%2Fimages%2FSelected-logo-01.png",
+   "/_next/image?url=%2Fimages%2Fconcrete-creack.jpg",
+   "/_next/image?url=%2Fimages%2Fepoxy.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fpaver.jpg",
+   "/_next/image?url=%2Fimages%2Fpvaer-seal.jpg",
+   "/_next/image?url=%2Fimages%2Fseal-solution.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/_next/image?url=%2Fimages%2Fwood.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Durable Seal Solutions for Long-Lasting Protection in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 39886
+ },
+ "/services": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/services/page-b525856fd5d50cec.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1584-cb8050b93062eb82.js",
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6725-d440cf8a88dd8d2d.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/services/page-b525856fd5d50cec.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2F1%20(1).jpg",
+   "/_next/image?url=%2Fimages%2F19.png",
+   "/_next/image?url=%2Fimages%2F300-1024x683-1.png",
+   "/_next/image?url=%2Fimages%2F302-e1738968818248.png",
+   "/_next/image?url=%2Fimages%2F5%20(1).jpg",
+   "/_next/image?url=%2Fimages%2FUntitled-3.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fgutter.png",
+   "/_next/image?url=%2Fimages%2Froofing-washing.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/google-icon.svg",
+   "/images/uft.png",
+   "/images/unnamed (1).png",
+   "/images/unnamed (2).png",
+   "/images/unnamed (3).png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Services"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 48201
+ },
+ "/stain-removal": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/stain-removal/page-b1f34dbde1d8157e.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1584-cb8050b93062eb82.js",
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/stain-removal/page-b1f34dbde1d8157e.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FEfflorescence-Removal.png",
+   "/_next/image?url=%2Fimages%2FGraffiti-removal-services.jpg",
+   "/_next/image?url=%2Fimages%2FRust-Removal.png",
+   "/_next/image?url=%2Fimages%2FStain-Removal.png",
+   "/_next/image?url=%2Fimages%2FWhatsApp-Image-2025-02-10-at-9.16.29-PM-6-1024x768.jpeg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Professional Stain Removal Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 33111
+ },
+ "/sweeping-cleaning": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/sweeping-cleaning/page-366a58570dbcf08b.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4446-865142a41f36c6df.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/sweeping-cleaning/page-366a58570dbcf08b.js",
+   "/_next/static/chunks/ee560e2c-df00a6f005f74d70.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Fcar.webp",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Sweeping and Cleaning Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 25751
+ },
+ "/terms-of-service": {
+  "status": 404
+ },
+ "/the-clean-team": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/the-clean-team/page-99e1d45d5138634c.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/the-clean-team/page-99e1d45d5138634c.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/1 (2).jpg",
+   "/images/1-min.jpg",
+   "/images/2-min.jpg",
+   "/images/3-min.jpg",
+   "/images/4-min.jpg",
+   "/images/Untitled-5.jpg",
+   "/images/andrew.jpg",
+   "/images/owner-i-got.jpeg",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "The Clean Team"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 30743
+ },
+ "/window-cleaning-cincinnati": {
+  "status": 200,
+  "title": null,
+  "pageChunks": [
+   "/_next/static/chunks/app/window-cleaning-cincinnati/page-be0e0aa0de4af481.js"
+  ],
+  "allChunks": [
+   "/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "/_next/static/chunks/6766-9c4871887e630e55.js",
+   "/_next/static/chunks/7938-5f41635661146f62.js",
+   "/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "/_next/static/chunks/app/window-cleaning-cincinnati/page-be0e0aa0de4af481.js",
+   "/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "/_next/static/chunks/polyfills-42372ed130431b0a.js",
+   "/_next/static/chunks/webpack-c688c51a6e93d510.js"
+  ],
+  "images": [
+   "/_next/image?url=%2Fimages%2FIMG-20250116-WA0037-e1738018013242.jpg",
+   "/_next/image?url=%2Fimages%2Ffooter-image.png",
+   "/_next/image?url=%2Fimages%2Fuft.png",
+   "/images/uft.png"
+  ],
+  "iframes": [],
+  "extScripts": [],
+  "h1": [
+   "Window Cleaning Services in Cincinnati, Ohio"
+  ],
+  "forms": 0,
+  "clientOnlySlots": 3,
+  "bytes": 23951
+ }
+}

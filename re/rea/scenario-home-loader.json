@@ -1,0 +1,13 @@
+{
+  "browser": { "mode": "launch", "executable_path": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", "headless": true },
+  "start_url": { "url": "https://www.igtpw.com/", "query": [] },
+  "environment": { "viewport": { "width": 1440, "height": 900, "device_scale_factor": 1 }, "locale": "en-US", "timezone": "America/New_York", "color_scheme": "light", "reduced_motion": "no-preference", "service_workers": "block" },
+  "actions": [
+    { "step_id": "t1s", "action": "wait_for_timeout", "duration_ms": 1000 },
+    { "step_id": "t3s", "action": "wait_for_timeout", "duration_ms": 2000 },
+    { "step_id": "t6s", "action": "wait_for_timeout", "duration_ms": 3000 },
+    { "step_id": "t9s", "action": "wait_for_timeout", "duration_ms": 3000 },
+    { "step_id": "t12s", "action": "wait_for_timeout", "duration_ms": 3000 }
+  ],
+  "capture": { "after_each_step": ["screenshot"], "at_end": ["url", "dom"], "events": ["network", "console"], "network": { "request_body": false, "response_body": false, "header_values": false } }
+}

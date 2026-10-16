@@ -1,0 +1,318 @@
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
+  [476],
+  {
+    1814: (e, t, s) => {
+      "use strict";
+
+      (s.r(t),
+        s.d(t, {
+          default: () => i,
+        }));
+      var a = s(5155),
+        r = s(1741),
+        l = s(4611);
+      let i = () => (
+        <div className="bg-white">
+          <div className="relative flex items-center justify-center min-h-[60vh] bg-[#00C6F9] to-white bg-center bg-no-repeat bg-cover z-0">
+            <div className="absolute inset-0 bg-[url('/images/pages-bg.jpg')] bg-center bg-no-repeat bg-cover opacity-[0.26] transition-all duration-300" />
+            <div className="relative z-10 text-center">
+              <C_r.P.h1
+                className="text-white text-5xl font-bold mb-4"
+                initial={{
+                  opacity: 0,
+                  y: -50,
+                }}
+                whileInView={{
+                  opacity: 1,
+                  y: 0,
+                }}
+                transition={{
+                  duration: 1,
+                  ease: "easeOut",
+                }}
+                viewport={{
+                  once: true,
+                }}
+              >
+                Residential
+              </C_r.P.h1>
+              <C_r.P.div
+                className="flex justify-center text-white text-md font_barlow font-semibold text-opacity-85"
+                initial={{
+                  opacity: 0,
+                  y: 50,
+                }}
+                whileInView={{
+                  opacity: 1,
+                  y: 0,
+                }}
+                transition={{
+                  duration: 1,
+                  ease: "easeOut",
+                  delay: 0.5,
+                }}
+                viewport={{
+                  once: true,
+                }}
+              >
+                <div className="flex gap-2 items-center ">
+                  <C_r.P.span
+                    initial={{
+                      opacity: 0,
+                      y: 50,
+                    }}
+                    whileInView={{
+                      opacity: 1,
+                      y: 0,
+                    }}
+                    transition={{
+                      duration: 1,
+                      ease: "easeOut",
+                      delay: 0.8,
+                    }}
+                    viewport={{
+                      once: true,
+                    }}
+                  />
+                </div>
+              </C_r.P.div>
+            </div>
+          </div>
+          <C_l.A />
+        </div>
+      );
+    },
+    4611: (e, t, s) => {
+      "use strict";
+
+      s.d(t, {
+        A: () => i,
+      });
+      var a = s(5155);
+      s(6766);
+      var r = s(1741),
+        l = s(6851);
+      let i = () => (
+        <section className="bg-gray-50 py-16 px-4 sm:px-6 lg:px-8">
+          <div className="max-w-7xl mx-auto">
+            <div className="flex flex-col lg:flex-row gap-12 mb-20">
+              <C_r.P.div
+                initial={{
+                  opacity: 0,
+                  x: -50,
+                }}
+                whileInView={{
+                  opacity: 1,
+                  x: 0,
+                }}
+                transition={{
+                  duration: 0.6,
+                }}
+                className="lg:w-1/2"
+              >
+                <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+                  Press the Bar-Button and Slide to See Before and After Result Visuals
+                </h2>
+                <p className="text-lg text-gray-600 leading-relaxed mb-6">
+                  We have created before and after result visuals for you to get an idea about our professional pressure washing services.
+                  Just press the bar button and slide to see before and after result visuals.
+                </p>
+                <div className="border-l-4 border-[#00C6F9] pl-4" />
+              </C_r.P.div>
+              <C_r.P.div
+                initial={{
+                  opacity: 0,
+                  x: 50,
+                }}
+                whileInView={{
+                  opacity: 1,
+                  x: 0,
+                }}
+                transition={{
+                  duration: 0.6,
+                }}
+                className="lg:w-1/2"
+              >
+                <div className="relative aspect-video rounded-xl overflow-hidden shadow-2xl hover:shadow-3xl transition-shadow">
+                  <video
+                    className="w-full h-full object-cover"
+                    autoPlay={true}
+                    muted={true}
+                    loop={true}
+                    playsInline={true}
+                    controls={false}
+                  >
+                    <source src="/images/captured-media-3-mp4.mp4" type="video/mp4" />
+                    Your browser does not support the video tag.
+                  </video>
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
+                </div>
+              </C_r.P.div>
+            </div>
+            <C_l.A
+              images={[
+                {
+                  before: "/images/ssde.png",
+                  after: "/images/fjdsh.png",
+                },
+                {
+                  before: "/images/Before_Wall.jpg",
+                  after: "/images/After_Wall.jpg",
+                },
+                {
+                  before: "/images/2.png",
+                  after: "/images/2s.png",
+                },
+                {
+                  before: "/images/1.png",
+                  after: "/images/1s.png",
+                },
+                {
+                  before: "/images/media_20250224_200900_44446008399370510.jpg",
+                  after: "/images/media_20250224_200900_1923208072107551546.jpg",
+                },
+                {
+                  before: "/images/20.jpg",
+                  after: "/images/18.jpg",
+                },
+                {
+                  before: "/images/20.png",
+                  after: "/images/21.png",
+                },
+              ]}
+            />
+          </div>
+        </section>
+      );
+    },
+    6851: (e, t, s) => {
+      "use strict";
+
+      s.d(t, {
+        A: () => i,
+      });
+      var a = s(5155),
+        r = s(2115);
+      let l = (e) => {
+        let { beforeImage: t, afterImage: s } = e,
+          [l, i] = (0, r.useState)(50),
+          [o, n] = (0, r.useState)(400),
+          c = (0, r.useRef)(null),
+          d = (0, r.useRef)(null),
+          u = (0, r.useRef)(null),
+          g = (0, r.useRef)(null),
+          f = () => {
+            var e;
+            let t = c.current,
+              s = (null === (e = d.current) || void 0 === e ? void 0 : e.complete) ? d.current : u.current;
+            if (t && (null == s ? void 0 : s.naturalWidth) > 0) {
+              let e = s.naturalWidth / s.naturalHeight,
+                a = t.offsetWidth / e;
+              Math.abs(o - a) > 1 && n(a);
+            }
+          };
+        (0, r.useEffect)(
+          () => (
+            f(),
+            (g.current = new ResizeObserver(() => {
+              f();
+            })),
+            c.current && g.current.observe(c.current),
+            () => {
+              g.current && g.current.disconnect();
+            }
+          ),
+          [],
+        );
+        let m = () => {
+          f();
+        };
+        return (
+          <div
+            ref={c}
+            className="relative w-full rounded-lg shadow-lg bg-gray-100 transition-all duration-300"
+            style={{
+              height: "".concat(o, "px"),
+            }}
+          >
+            <img
+              ref={d}
+              src={s}
+              alt="After transformation"
+              className="absolute inset-0 w-full h-full object-cover"
+              onLoad={m}
+              onError={(e) => {
+                (console.error("After image failed to load"), (e.target.style.display = "none"));
+              }}
+            />
+            <div
+              className="absolute inset-0 overflow-hidden"
+              style={{
+                width: "".concat(l, "%"),
+              }}
+            >
+              <img
+                ref={u}
+                src={t}
+                alt="Before transformation"
+                className="absolute inset-0 w-full h-full object-cover"
+                onLoad={m}
+                onError={(e) => {
+                  (console.error("Before image failed to load"), (e.target.style.display = "none"));
+                }}
+              />
+            </div>
+            <div className="absolute top-2 left-2 bg-[#00C6F9] text-white text-xs px-2 py-1 rounded z-10">Before</div>
+            <div className="absolute top-2 right-2 bg-[#00C6F9] text-white text-xs px-2 py-1 rounded z-10">After</div>
+            <div className="absolute inset-0 z-20">
+              <input
+                type="range"
+                min="0"
+                max="100"
+                value={l}
+                onChange={(e) => i(Number(e.target.value))}
+                className="absolute top-1/2 left-0 w-full h-full opacity-0 cursor-ew-resize"
+              />
+              <div
+                className="absolute top-0 left-0 w-1 bg-white h-full pointer-events-none"
+                style={{
+                  left: "".concat(l, "%"),
+                  transform: "translateX(-50%)",
+                  boxShadow: "0 2px 8px rgba(0,0,0,0.2)",
+                }}
+              />
+              <div
+                className="absolute top-1/2 left-0 transform -translate-y-1/2 -translate-x-1/2 bg-white w-8 h-8 rounded-full shadow-lg flex items-center justify-center pointer-events-none"
+                style={{
+                  left: "".concat(l, "%"),
+                }}
+              >
+                <span className="text-gray-700 text-lg select-none">↔</span>
+              </div>
+            </div>
+          </div>
+        );
+      };
+      s(6874);
+      let i = (e) => {
+        let { images: t } = e;
+        return (
+          <section className="p-8 bg-white">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-6">
+              {t.map((e, t) => (
+                <C_l beforeImage={e.before} afterImage={e.after} key={t} />
+              ))}
+            </div>
+          </section>
+        );
+      };
+    },
+    9920: (e, t, s) => {
+      Promise.resolve().then(s.bind(s, 1814));
+    },
+  },
+  (e) => {
+    var t = (t) => e((e.s = t));
+    (e.O(0, [1741, 6766, 6874, 8441, 1684, 7358], () => t(9920)), (_N_E = e.O()));
+  },
+]);

@@ -1,0 +1,14 @@
+{
+  "browser": { "mode": "launch", "executable_path": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", "headless": true },
+  "start_url": { "url": "https://www.igtpw.com/pressure-washing", "query": [] },
+  "environment": { "viewport": { "width": 1440, "height": 900, "device_scale_factor": 1 }, "locale": "en-US", "timezone": "America/New_York", "color_scheme": "light", "reduced_motion": "no-preference", "service_workers": "block" },
+  "actions": [
+    { "step_id": "settle", "action": "wait_for_timeout", "duration_ms": 4000 },
+    { "step_id": "open_residential", "action": "click", "locator": { "kind": "role", "role": "button", "name": "Residential" } },
+    { "step_id": "menu_visible", "action": "wait_for", "locator": { "kind": "css", "selector": "nav ul li div.absolute" }, "state": "visible", "timeout_ms": 5000 },
+    { "step_id": "open_commercial", "action": "click", "locator": { "kind": "role", "role": "button", "name": "Commercial" } },
+    { "step_id": "open_stain", "action": "click", "locator": { "kind": "role", "role": "button", "name": "Stain Removal" } },
+    { "step_id": "after_submenu", "action": "wait_for_timeout", "duration_ms": 500 }
+  ],
+  "capture": { "after_each_step": ["screenshot"], "at_end": ["url", "dom", "accessibility", "screenshot"], "events": [], "network": { "request_body": false, "response_body": false, "header_values": false } }
+}

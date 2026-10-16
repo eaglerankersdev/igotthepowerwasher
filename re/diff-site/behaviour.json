@@ -1,0 +1,222 @@
+{
+ "loader@1440": {
+  "original": {
+   "early": {
+    "overlayClass": "fixed inset-0 z-50 bg-white/90 backdrop-blur-sm",
+    "contentBlur": true
+   },
+   "lottie": {
+    "style": "width: 150vw; height: 150vh; transform: translate(-50%, -50%) scale(1.5); position: absolute; top: 50%; left: 50%; transform-origin: center center;",
+    "cls": "overflow-visible",
+    "svgVB": "0 0 1080 1080"
+   },
+   "playSeconds": 10,
+   "afterClass": "transition-all duration-500 blur-none"
+  },
+  "clone": {
+   "early": {
+    "overlayClass": "fixed inset-0 z-50 bg-white/90 backdrop-blur-sm",
+    "contentBlur": true
+   },
+   "lottie": {
+    "style": "width: 150vw; height: 150vh; transform: translate(-50%, -50%) scale(1.5); position: absolute; top: 50%; left: 50%; transform-origin: center center;",
+    "cls": "overflow-visible",
+    "svgVB": "0 0 1080 1080"
+   },
+   "playSeconds": 10,
+   "afterClass": "transition-all duration-500 blur-none"
+  }
+ },
+ "loader@390": {
+  "original": {
+   "early": {
+    "overlayClass": "fixed inset-0 z-50 bg-white/90 backdrop-blur-sm",
+    "contentBlur": true
+   },
+   "lottie": {
+    "style": "width: 150vw; height: 150vh; transform: translate(-50%, -50%) scale(1.25); position: absolute; top: 50%; left: 50%; transform-origin: center center;",
+    "cls": "overflow-visible",
+    "svgVB": "0 0 1080 1080"
+   },
+   "playSeconds": 10,
+   "afterClass": "transition-all duration-500 blur-none"
+  },
+  "clone": {
+   "early": {
+    "overlayClass": "fixed inset-0 z-50 bg-white/90 backdrop-blur-sm",
+    "contentBlur": true
+   },
+   "lottie": {
+    "style": "width: 150vw; height: 150vh; transform: translate(-50%, -50%) scale(1.25); position: absolute; top: 50%; left: 50%; transform-origin: center center;",
+    "cls": "overflow-visible",
+    "svgVB": "0 0 1080 1080"
+   },
+   "playSeconds": 10,
+   "afterClass": "transition-all duration-500 blur-none"
+  }
+ },
+ "form/get-estimate": {
+  "original": {
+   "fields": [
+    "INPUT:text:fullName",
+    "INPUT:tel:phoneNumber",
+    "INPUT:email:email",
+    "INPUT:text:address",
+    "INPUT:text:suite",
+    "TEXTAREA:textarea:message",
+    "SELECT:select-one:contactTime",
+    "INPUT:text:reference"
+   ],
+   "errors": [
+    "Full name is required",
+    "Phone number is required",
+    "Email is required",
+    "Address is required",
+    "Message is required"
+   ],
+   "beforeLen": 256
+  },
+  "clone": {
+   "fields": [
+    "INPUT:text:fullName",
+    "INPUT:tel:phoneNumber",
+    "INPUT:email:email",
+    "INPUT:text:address",
+    "INPUT:text:suite",
+    "TEXTAREA:textarea:message",
+    "SELECT:select-one:contactTime",
+    "INPUT:text:reference"
+   ],
+   "errors": [
+    "Full name is required",
+    "Phone number is required",
+    "Email is required",
+    "Address is required",
+    "Message is required"
+   ],
+   "beforeLen": 256
+  }
+ },
+ "form/contact-us": {
+  "original": {
+   "fields": [
+    "INPUT:text:fullName",
+    "INPUT:tel:phoneNumber",
+    "INPUT:email:email",
+    "INPUT:text:address",
+    "INPUT:text:suite",
+    "TEXTAREA:textarea:message",
+    "SELECT:select-one:contactTime",
+    "INPUT:text:reference"
+   ],
+   "errors": [
+    "Full name is required",
+    "Phone number is required",
+    "Email is required",
+    "Address is required",
+    "Message is required"
+   ],
+   "beforeLen": 256
+  },
+  "clone": {
+   "fields": [
+    "INPUT:text:fullName",
+    "INPUT:tel:phoneNumber",
+    "INPUT:email:email",
+    "INPUT:text:address",
+    "INPUT:text:suite",
+    "TEXTAREA:textarea:message",
+    "SELECT:select-one:contactTime",
+    "INPUT:text:reference"
+   ],
+   "errors": [
+    "Full name is required",
+    "Phone number is required",
+    "Email is required",
+    "Address is required",
+    "Message is required"
+   ],
+   "beforeLen": 256
+  }
+ },
+ "form/career": {
+  "original": {
+   "fields": [
+    "INPUT:text:firstName",
+    "INPUT:text:lastName",
+    "INPUT:email:email",
+    "INPUT:tel:phone",
+    "TEXTAREA:textarea:message",
+    "INPUT:file:resume"
+   ],
+   "errors": [
+    "First Name is required",
+    "Last Name is required",
+    "Email is required",
+    "Phone Number is required",
+    "Resume is required"
+   ],
+   "beforeLen": 168
+  },
+  "clone": {
+   "fields": [
+    "INPUT:text:firstName",
+    "INPUT:text:lastName",
+    "INPUT:email:email",
+    "INPUT:tel:phone",
+    "TEXTAREA:textarea:message",
+    "INPUT:file:resume"
+   ],
+   "errors": [
+    "First Name is required",
+    "Last Name is required",
+    "Email is required",
+    "Phone Number is required",
+    "Resume is required"
+   ],
+   "beforeLen": 168
+  }
+ },
+ "form/": {
+  "original": {
+   "fields": [
+    "INPUT:text:fullName",
+    "INPUT:tel:phoneNumber",
+    "INPUT:email:email",
+    "INPUT:text:address",
+    "INPUT:text:suite",
+    "TEXTAREA:textarea:message",
+    "SELECT:select-one:contactTime",
+    "INPUT:text:reference"
+   ],
+   "errors": [
+    "Full name is required",
+    "Phone number is required",
+    "Email is required",
+    "Address is required",
+    "Message is required"
+   ],
+   "beforeLen": 256
+  },
+  "clone": {
+   "fields": [
+    "INPUT:text:fullName",
+    "INPUT:tel:phoneNumber",
+    "INPUT:email:email",
+    "INPUT:text:address",
+    "INPUT:text:suite",
+    "TEXTAREA:textarea:message",
+    "SELECT:select-one:contactTime",
+    "INPUT:text:reference"
+   ],
+   "errors": [
+    "Full name is required",
+    "Phone number is required",
+    "Email is required",
+    "Address is required",
+    "Message is required"
+   ],
+   "beforeLen": 256
+  }
+ }
+}

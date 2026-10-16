@@ -1,0 +1,323 @@
+<nav class="bg-white relative">
+  <div class="absolute inset-0 z-0 opacity-50 overflow-hidden">
+    "!--$!-->"
+    <template >
+    "!--/$-->"
+    "!--$!-->"
+    <template >
+    "!--/$-->"
+  <div class="relative z-10 flex flex-wrap items-center justify-between max-w-screen-xl mx-auto p-4">
+    <div class="w-32 h-auto">
+      <img src="/images/uft.png" class="w-full h-full object-contain" alt="Logo">
+    <div class="flex items-center md:order-2 space-x-1 md:space-x-2 rtl:space-x-reverse">
+      <a href="/get-estimate" class="text-white bg-[#00C6F9] hover:bg-blue-500 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 md:px-5 md:py-2.5  focus">
+        "Free Estimate"
+      <button class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-sky-400 rounded-lg md:hidden hover:bg-gray-800 focus:outline-none focus:r">
+        <span class="sr-only">
+          "Open main menu"
+        <svg>
+  <div class="hidden items-center justify-between w-full md:flex md:w-auto md:order-1">
+    <ul class="flex flex-col mt-4 font-medium md:flex-row md:mt-0 md:space-x-8 rtl:space-x-reverse">
+      <li >
+        <a href="/" class="flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#80a2d4]">
+          "Home"
+      <li >
+        <button class="flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9] ">
+          <a href="/about-us">
+            "About Us"
+          <svg>
+    <li >
+      <button class="flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]">
+        "Residential"
+        <svg>
+  <li >
+    <button class="flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]">
+      "Commercial"
+      <svg>
+<li >
+  <button class="flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]">
+    "Gallery"
+    <svg>
+<li >
+  <a href="/seal-solutions" class="flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]">
+    "Seal Solutions"
+<div >
+  <div class="relative flex items-center justify-center min-h-[60vh] bg-[#00C6F9] to-white bg-center bg-no-repeat bg-cover z-0">
+    <div class="absolute inset-0 bg-[url(&#x27;/images/pages-bg.jpg&#x27;)] bg-center bg-no-repeat bg-cover opacity-[0.26] transition-all duration-300">
+    <div class="relative z-10 text-center">
+      <h1 class="text-white text-5xl font-bold mb-4" style="opacity:0;transform:translateY(-50px)">
+        "Top-Quality Pressure Washing Services in Cincinnati, Ohio"
+      <div class="flex justify-center text-white text-md font_barlow font-semibold text-opacity-85" style="opacity:0;transform:translateY(50px)">
+        <div class="flex gap-2 items-center">
+          "Residential"
+          <span style="opacity:0;transform:translateY(50px)">
+            <svg>
+        "Pressure Washing"
+<div class="bg-gradient-to-b from-gray-50 to-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div class="text-center mb-16">
+      <h2 class="text-4xl font-bold bg-gradient-to-r from-[#00C6F9] to-blue-600 bg-clip-text text-transparent mb-6">
+        "Professional Pressure Washing in Cincinnati"
+      <p class="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+        "At I Got The Power Washer, we provide more than just standard pressure washing. Our advanced techniques and high-output "
+      <div class="flex justify-center mb-12">
+        "!--$!-->"
+        <template >
+        "!--/$-->"
+    <section class="mb-20" style="opacity:0;transform:translateY(50px)">
+      <div class="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
+        <h3 class="text-3xl font-semibold text-gray-800 mb-6">
+          "Best Cincinnati Pressure Washing Company - Our Vision"
+        <p class="text-lg text-gray-700 leading-relaxed mb-8">
+          "I Got Power Washer is the name of trust and peerless services when it comes to the pressure washing business in Cincinna"
+        <div class="grid md:grid-cols-2 gap-12 items-center">
+          <div class="space-y-6">
+            <div >
+              <h4 class="text-2xl font-semibold text-gray-800 mb-4">
+                "Remote Jobs Available"
+              <p class="text-gray-700 leading-relaxed">
+                "No water source? No problem. We can haul our own water for jobs in remote areas where access is limited. Our high-capaci"
+            <img src="/images/305.png" alt="Pressure Washing" class="rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+          <div class="space-y-6">
+            <div >
+              <h4 class="text-2xl font-semibold text-gray-800 mb-4">
+                "Why Choose Us"
+              <ul class="space-y-4">
+                <li class="flex items-start space-x-3">
+                  <div class="flex-shrink-0 w-6 h-6 bg-[#00C6F9] rounded-full mt-1">
+                  <div class="text-black">
+                    <strong class="text-black">
+                      "High-Performance Equipment:"
+                    "We use industry-leading pressure washers with up to 23 GPM output, cleaning efficiently without surface damage."
+                <li class="flex items-start space-x-3">
+                  <div class="flex-shrink-0 w-6 h-6 bg-[#00C6F9] rounded-full mt-1">
+                  <div class="text-black">
+                    <strong class="text-black">
+                      "Post-Treatment Protection:"
+                    "Our specialized treatment eliminates organic growth at the root, preventing premature buildup."
+            <img src="/images/299-1024x683-1.png" alt="House Washing" class="rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+    <section class="mb-20" style="opacity:0;transform:translateY(50px)">
+      <div class="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
+        <h2 class="text-3xl font-bold text-gray-800 mb-8">
+          "Comprehensive Pressure Washing Services"
+        <div class="grid md:grid-cols-2 gap-8">
+          <div >
+            <p class="text-lg text-gray-700 leading-relaxed mb-6">
+              "We are committed to delivering perfection with our pressure wash services. From small residential jobs to large commerci"
+            <ul class="columns-2 gap-8 text-black">
+              <li class="flex items-center mb-3">
+                <svg>
+              "Roof cleaning"
+            <li class="flex items-center mb-3">
+              <svg>
+            "Fence cleaning"
+          <li class="flex items-center mb-3">
+            <svg>
+          "House clean"
+        <li class="flex items-center mb-3">
+          <svg>
+        "Solar panel cleaning"
+      <li class="flex items-center mb-3">
+        <svg>
+      "Stain removals"
+    <li class="flex items-center mb-3">
+      <svg>
+    "Sealing services"
+  <li class="flex items-center mb-3">
+    <svg>
+  "Fleet cleaning"
+<div class="space-y-6">
+  <h3 class="text-2xl font-semibold text-gray-800">
+    "Service Areas"
+  <ul class="grid grid-cols-2 gap-4 text-black">
+    <li class="flex items-center bg-gray-50 p-3 rounded-lg">
+      <span class="text-[#00C6F9] mr-2">
+        "▹"
+      "Hamilton County"
+    <li class="flex items-center bg-gray-50 p-3 rounded-lg">
+      <span class="text-[#00C6F9] mr-2">
+        "▹"
+      "Clermont County"
+    <li class="flex items-center bg-gray-50 p-3 rounded-lg">
+      <span class="text-[#00C6F9] mr-2">
+        "▹"
+      "Butler County"
+    <li class="flex items-center bg-gray-50 p-3 rounded-lg">
+      <span class="text-[#00C6F9] mr-2">
+        "▹"
+      "Warren County"
+    <li class="flex items-center bg-gray-50 p-3 rounded-lg">
+      <span class="text-[#00C6F9] mr-2">
+        "▹"
+      "Montgomery County"
+<section class="mb-20" style="opacity:0;transform:translateY(50px)">
+  <div class="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
+    <h2 class="text-3xl font-bold text-gray-800 mb-8">
+      "Advanced Cleaning Technology"
+    <div class="grid md:grid-cols-2 gap-8">
+      <div class="space-y-6">
+        <p class="text-gray-700 leading-relaxed">
+          "Our service offerings rely on cutting-edge equipment including:"
+        <ul class="space-y-4">
+          <li class="flex items-start text-black">
+            <div class="bg-[#00C6F9] text-white p-2 rounded-lg mr-4">
+              "🔥"
+            <div >
+              <strong class="text-black">
+                "Hot/Cold Washers:"
+              "For grease removal and general cleaning"
+          <li class="flex items-start">
+            <div class="bg-[#00C6F9] text-white p-2 rounded-lg mr-4">
+              "🚿"
+            <div class="text-black">
+              <strong class="text-black">
+                "High-Pressure Nozzles:"
+              "Up to 4000 PSI force"
+          <li class="flex items-start">
+            <div class="bg-[#00C6F9] text-white p-2 rounded-lg mr-4">
+              "🚚"
+            <div class="text-black">
+              <strong class="text-black">
+                "Specialized Fleet:"
+              "Mobile cleaning solutions"
+      <img src="/images/effff.jpg" alt="Cleaning Technology" class="rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+<section style="opacity:0;transform:translateY(50px)">
+  <div class="bg-gradient-to-r from-[#00C6F9] to-blue-600 p-8 rounded-2xl text-white">
+    <blockquote class="text-xl italic mb-6">
+      "“My walkway went from black and green to white—I couldn’t believe the difference! The results speak for themselves!”"
+    <p class="text-lg font-semibold">
+      "“Andrew had my filthy house looking brand new in just a couple of hours. My brick went from black to glistening red—than"
+<section class="p-8 bg-white">
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-6">
+    <div class="relative w-full rounded-lg shadow-lg bg-gray-100 transition-all duration-300" style="height:400px">
+      <img src="/images/2.jpeg" alt="After transformation" class="absolute inset-0 w-full h-full object-cover">
+      <div class="absolute inset-0 overflow-hidden" style="width:50%">
+        <img src="/images/1.jpeg" alt="Before transformation" class="absolute inset-0 w-full h-full object-cover">
+      <div class="absolute top-2 left-2 bg-[#00C6F9] text-white text-xs px-2 py-1 rounded z-10">
+        "Before"
+      <div class="absolute top-2 right-2 bg-[#00C6F9] text-white text-xs px-2 py-1 rounded z-10">
+        "After"
+      <div class="absolute inset-0 z-20">
+        <input class="absolute top-1/2 left-0 w-full h-full opacity-0 cursor-ew-resize">
+        <div class="absolute top-0 left-0 w-1 bg-white h-full pointer-events-none" style="left:50%;transform:translateX(-50%);box-shadow:0 2px 8px rgba(0,0,0,0.2)">
+        <div class="absolute top-1/2 left-0 transform -translate-y-1/2 -translate-x-1/2 bg-white w-8 h-8 rounded-full shadow-lg flex items-center justify-center" style="left:50%">
+          <span class="text-gray-700 text-lg select-none">
+            "↔"
+    <div class="relative w-full rounded-lg shadow-lg bg-gray-100 transition-all duration-300" style="height:400px">
+      <img src="/images/4.jpeg" alt="After transformation" class="absolute inset-0 w-full h-full object-cover">
+      <div class="absolute inset-0 overflow-hidden" style="width:50%">
+        <img src="/images/3.jpeg" alt="Before transformation" class="absolute inset-0 w-full h-full object-cover">
+      <div class="absolute top-2 left-2 bg-[#00C6F9] text-white text-xs px-2 py-1 rounded z-10">
+        "Before"
+      <div class="absolute top-2 right-2 bg-[#00C6F9] text-white text-xs px-2 py-1 rounded z-10">
+        "After"
+      <div class="absolute inset-0 z-20">
+        <input class="absolute top-1/2 left-0 w-full h-full opacity-0 cursor-ew-resize">
+        <div class="absolute top-0 left-0 w-1 bg-white h-full pointer-events-none" style="left:50%;transform:translateX(-50%);box-shadow:0 2px 8px rgba(0,0,0,0.2)">
+        <div class="absolute top-1/2 left-0 transform -translate-y-1/2 -translate-x-1/2 bg-white w-8 h-8 rounded-full shadow-lg flex items-center justify-center" style="left:50%">
+          <span class="text-gray-700 text-lg select-none">
+            "↔"
+<footer class="bg-sky-200 text-[black] py-8 px-4 relative overflow-hidden min-h-[500px] md:min-h-[400px] mt-3 ">
+  <div class="absolute inset-0 z-0 opacity-75">
+    "!--$!-->"
+    <template >
+    "!--/$-->"
+  <div class="relative z-10 max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-5 gap-6 h-full">
+    <div class="space-y-4">
+      <a href="/">
+        <img alt="I Got The Power Washer" width="128" height="48" class="w-32 h-auto hover:opacity-80 transition-opacity" style="color:transparent" src="/_next/image?url=%2Fimages%2Fuft.png&amp;w=256&amp;q=75">
+      <p class="text-xs text-black mb-3">
+        "Professional pressure washing services in Cincinnati with 5-star rated quality."
+      <div class="flex space-x-3 text-xl">
+        <a href="https://www.facebook.com/tony.werner.94402" class="hover:text-[#1877F2] transition-colors">
+          <svg>
+      <a href="https://www.instagram.com/igotthepowerwasher/" class="hover:text-[#E4405F] transition-colors">
+        <svg>
+    <a href="https://www.tiktok.com/@igotthepowerwasher" class="hover:text-black transition-colors">
+      <svg>
+<a href="/quality-guarantee">
+  <img alt="Quality Guarantee Badge" width="100" height="100" class="rounded-lg border-2 border-[#00C6F9]/20 mt-3 hover:scale-105 transition-transform" style="color:transparent" src="/_next/image?url=%2Fimages%2Ffooter-image.png&amp;w=256&amp;q=75">
+<div class="space-y-3">
+  <h4 class="font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black">
+    "Residential Services"
+  <div class="flex flex-col space-y-1.5 text-xs ">
+    <a href="/pressure-washing" class="hover:underline">
+      "Pressure Washing"
+    <a href="/concrete-sealing" class="hover:underline">
+      "Concrete Sealing"
+    <a href="/house-washing" class="hover:underline">
+      "House Washing"
+    <a href="/roof-washing" class="hover:underline">
+      "Roof Washing"
+    <a href="/window-cleaning-cincinnati" class="hover:underline">
+      "Window Cleaning"
+    <a href="/gutter-cleaning" class="hover:underline">
+      "Gutter Cleaning"
+<div class="space-y-3">
+  <h4 class="font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black">
+    "Commercial Services"
+  <div class="flex flex-col space-y-1.5 text-xs ">
+    <a href="/building-wash" class="hover:underline">
+      "Building Wash"
+    <a href="/commercial-pressure-washing" class="hover:underline">
+      "Commercial Pressure Washing"
+    <a href="/commercial-gutter-cleaning" class="hover:underline">
+      "Commercial Gutter Cleaning"
+    <a href="/commercial-window-cleaning" class="hover:underline">
+      "Commercial Window Cleaning"
+    <a href="/restaurant" class="hover:underline">
+      "Restaurant"
+    <a href="/stain-removal" class="hover:underline">
+      "Stain Removal"
+    <a href="/parking-lot-maintenance" class="hover:underline">
+      "Parking Lot Maintenance"
+    <a href="/post-construction-clean-up" class="hover:underline">
+      "Post Construction Clean Up"
+<div class="space-y-3">
+  <h4 class="font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black">
+    "Quick Links"
+  <div class="flex flex-col space-y-1.5 text-xs ">
+    <a href="/" class="hover:underline">
+      "Home"
+    <a href="/the-clean-team" class="hover:underline">
+      "Our Team"
+    <a href="/services" class="hover:underline">
+      "Services"
+    <a href="/gallery" class="hover:underline">
+      "Gallery"
+    <a href="/reviews" class="hover:underline">
+      "Reviews"
+    <a href="/contact-us" class="hover:underline">
+      "Contact Us"
+    <a href="/blogs" class="hover:underline">
+      "Blogs"
+    <a href="/career" class="hover:underline">
+      "Career"
+<div class="space-y-3">
+  <h4 class="font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black">
+    "Contact"
+  <div class="flex flex-col space-y-2 text-xs">
+    <div class="flex items-center gap-2">
+      <svg>
+    <a href="tel:5135700355" class="hover:underline">
+      "(513) 570-0355"
+  <div class="flex items-center gap-2">
+    <svg>
+  <a href="mailto:igotthepowerwasher@gmail.com" class="hover:underline">
+    "igotthepowerwasher@gmail.com"
+<div class="flex items-center gap-2">
+  <svg>
+<a href="https://goo.gl/maps/7v8YqX9XZzZJ8XJQ9" class="hover:underline">
+  "3640 Werk Rd."
+  <br >
+  "Cincinnati, OH 45248"
+<div class="max-w-7xl mx-auto mt-6 pt-4 border-t border-[#00C6F9]/30 text-center relative z-10">
+  <p class="text-xs">
+    "©"
+    "!-- -->2025"
+    "!-- --> I Got The Power Washer |"
+    <a href="/privacy-policy" class="ml-2 hover:underline">
+      "Privacy Policy"
+    "|"
+    <a href="/terms-of-service" class="ml-2 hover:underline">
+      "Terms of Service"

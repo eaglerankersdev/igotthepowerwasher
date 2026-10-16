@@ -1,0 +1,356 @@
+{
+ "original": {
+  "heroTimeline": {
+   "h1Duration": 1000,
+   "h1MinOpacity": 0,
+   "breadcrumbDelayMs": 500,
+   "arrowDelayMs": 800
+  },
+  "heroLate": {
+   "op": "1",
+   "tf": "none"
+  },
+  "sectionsBeforeScroll": [
+   "0",
+   "0",
+   "0"
+  ],
+  "lottie": [
+   {
+    "vb": "0 0 1080 1080",
+    "par": "xMidYMid slice",
+    "parent": "hidden md:block",
+    "speedAttr": "0.1",
+    "display": "block",
+    "parentStyle": "width: 100%; height: 100%; transform: scale(2);"
+   },
+   {
+    "vb": "0 0 1080 1080",
+    "par": "xMidYMid meet",
+    "parent": "md:hidden",
+    "speedAttr": null,
+    "display": "none",
+    "parentStyle": "width: 100%; height: 100%; transform: scale(2);"
+   },
+   {
+    "vb": "0 0 512 512",
+    "par": "xMidYMid meet",
+    "parent": "w-64 h-64 sm:w-80 sm:h-80",
+    "speedAttr": null,
+    "display": "block",
+    "parentStyle": null
+   },
+   {
+    "vb": "0 0 1080 1080",
+    "par": "xMidYMid slice",
+    "parent": "w-full h-full",
+    "speedAttr": "0.8",
+    "display": "block",
+    "parentStyle": "transform: scale(1.5); overflow: visible;"
+   }
+  ],
+  "navLottieAnimating": true,
+  "comp15Animating": true,
+  "footerLottieAnimating": true,
+  "estimateHoverBg": "oklch(0.623 0.214 259.815)",
+  "homeHoverColor": "rgb(128, 162, 212)",
+  "residentialOpen": [
+   {
+    "items": 6,
+    "r": [
+     548,
+     112,
+     148,
+     234
+    ]
+   }
+  ],
+  "residentialToggledClosed": [],
+  "commercialStainOpen": [
+   {
+    "items": 15,
+    "r": [
+     707,
+     112,
+     226,
+     342
+    ]
+   },
+   {
+    "items": 6,
+    "r": [
+     917,
+     345,
+     220,
+     234
+    ]
+   }
+  ],
+  "parkingOpen": [
+   {
+    "items": 11,
+    "r": [
+     707,
+     112,
+     226,
+     342
+    ]
+   },
+   {
+    "items": 2,
+    "r": [
+     917,
+     381,
+     220,
+     90
+    ]
+   }
+  ],
+  "galleryOpenReplacesCommercial": [
+   {
+    "items": 2,
+    "r": [
+     872,
+     112,
+     158,
+     90
+    ]
+   }
+  ],
+  "clickOutsideCloses": [],
+  "urlAfterMenus": "/pressure-washing",
+  "section2AfterScroll": [
+   "1/none",
+   "1/none",
+   "1/none"
+  ],
+  "sliderInitial": {
+   "h": "728.362px",
+   "clipW": "50%",
+   "line": "50%",
+   "handle": "50%"
+  },
+  "sliderAfterDrag": {
+   "h": "728.362px",
+   "clipW": "19%",
+   "line": "19%",
+   "handle": "19%"
+  },
+  "sliderAfterKey": {
+   "h": "728.362px",
+   "clipW": "20%",
+   "line": "20%",
+   "handle": "20%"
+  },
+  "mobileMenuClosed": {
+   "h": 184,
+   "menu": "none"
+  },
+  "mobileMenuOpen": {
+   "h": 440,
+   "menu": "block",
+   "ul": [
+    16,
+    184,
+    358,
+    240
+   ]
+  },
+  "mobileResidential": [
+   [
+    16,
+    304,
+    148,
+    234
+   ]
+  ],
+  "mobileLottie": [
+   {
+    "par": "xMidYMid slice",
+    "display": "none"
+   },
+   {
+    "par": "xMidYMid meet",
+    "display": "block"
+   }
+  ],
+  "mobileClickOutside": "none"
+ },
+ "clone": {
+  "heroTimeline": {
+   "h1Duration": 1000,
+   "h1MinOpacity": 0,
+   "breadcrumbDelayMs": 500,
+   "arrowDelayMs": 800
+  },
+  "heroLate": {
+   "op": "1",
+   "tf": "none"
+  },
+  "sectionsBeforeScroll": [
+   "0",
+   "0",
+   "0"
+  ],
+  "lottie": [
+   {
+    "vb": "0 0 1080 1080",
+    "par": "xMidYMid slice",
+    "parent": "hidden md:block",
+    "speedAttr": "0.1",
+    "display": "block",
+    "parentStyle": "width: 100%; height: 100%; transform: scale(2);"
+   },
+   {
+    "vb": "0 0 1080 1080",
+    "par": "xMidYMid meet",
+    "parent": "md:hidden",
+    "speedAttr": null,
+    "display": "none",
+    "parentStyle": "width: 100%; height: 100%; transform: scale(2);"
+   },
+   {
+    "vb": "0 0 512 512",
+    "par": "xMidYMid meet",
+    "parent": "w-64 h-64 sm:w-80 sm:h-80",
+    "speedAttr": null,
+    "display": "block",
+    "parentStyle": null
+   },
+   {
+    "vb": "0 0 1080 1080",
+    "par": "xMidYMid slice",
+    "parent": "w-full h-full",
+    "speedAttr": "0.8",
+    "display": "block",
+    "parentStyle": "transform: scale(1.5); overflow: visible;"
+   }
+  ],
+  "navLottieAnimating": true,
+  "comp15Animating": true,
+  "footerLottieAnimating": true,
+  "estimateHoverBg": "oklch(0.623 0.214 259.815)",
+  "homeHoverColor": "rgb(128, 162, 212)",
+  "residentialOpen": [
+   {
+    "items": 6,
+    "r": [
+     548,
+     112,
+     148,
+     234
+    ]
+   }
+  ],
+  "residentialToggledClosed": [],
+  "commercialStainOpen": [
+   {
+    "items": 15,
+    "r": [
+     707,
+     112,
+     226,
+     342
+    ]
+   },
+   {
+    "items": 6,
+    "r": [
+     917,
+     345,
+     220,
+     234
+    ]
+   }
+  ],
+  "parkingOpen": [
+   {
+    "items": 11,
+    "r": [
+     707,
+     112,
+     226,
+     342
+    ]
+   },
+   {
+    "items": 2,
+    "r": [
+     917,
+     381,
+     220,
+     90
+    ]
+   }
+  ],
+  "galleryOpenReplacesCommercial": [
+   {
+    "items": 2,
+    "r": [
+     872,
+     112,
+     158,
+     90
+    ]
+   }
+  ],
+  "clickOutsideCloses": [],
+  "urlAfterMenus": "/pressure-washing",
+  "section2AfterScroll": [
+   "1/none",
+   "1/none",
+   "1/none"
+  ],
+  "sliderInitial": {
+   "h": "728.362px",
+   "clipW": "50%",
+   "line": "50%",
+   "handle": "50%"
+  },
+  "sliderAfterDrag": {
+   "h": "728.362px",
+   "clipW": "19%",
+   "line": "19%",
+   "handle": "19%"
+  },
+  "sliderAfterKey": {
+   "h": "728.362px",
+   "clipW": "20%",
+   "line": "20%",
+   "handle": "20%"
+  },
+  "mobileMenuClosed": {
+   "h": 184,
+   "menu": "none"
+  },
+  "mobileMenuOpen": {
+   "h": 440,
+   "menu": "block",
+   "ul": [
+    16,
+    184,
+    358,
+    240
+   ]
+  },
+  "mobileResidential": [
+   [
+    16,
+    304,
+    148,
+    234
+   ]
+  ],
+  "mobileLottie": [
+   {
+    "par": "xMidYMid slice",
+    "display": "none"
+   },
+   {
+    "par": "xMidYMid meet",
+    "display": "block"
+   }
+  ],
+  "mobileClickOutside": "none"
+ }
+}

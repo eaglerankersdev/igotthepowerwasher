@@ -1,0 +1,217 @@
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
+  [4845],
+  {
+    1417: (e, a, s) => {
+      Promise.resolve().then(s.bind(s, 3679));
+    },
+    3679: (e, a, s) => {
+      "use strict";
+      (s.r(a), s.d(a, { default: () => o }));
+      var t = s(5155),
+        i = s(1741);
+      (s(7989), s(3267), s(5462), s(3745));
+      var l = s(6766),
+        n = s(351);
+      let r = () =>
+          (0, t.jsx)("section", {
+            className: "py-16 px-4 sm:px-6 lg:py-24 lg:px-8 bg-gradient-to-br from-gray-50 to-blue-50",
+            children: (0, t.jsxs)("div", {
+              className: "max-w-7xl mx-auto flex flex-col lg:flex-row gap-8 xl:gap-12 items-center",
+              children: [
+                (0, t.jsx)("div", {
+                  className: "w-full lg:w-1/2 relative group order-1 lg:order-none",
+                  children: (0, t.jsxs)("div", {
+                    className:
+                      "relative h-[400px] lg:h-[600px] rounded-2xl overflow-hidden shadow-xl lg:shadow-2xl transition-shadow duration-300",
+                    children: [
+                      (0, t.jsx)(l.default, {
+                        src: "/images/car.webp",
+                        alt: "Grease-Removal-pressure-washer",
+                        layout: "fill",
+                        objectFit: "cover",
+                        className: "transition-transform duration-500 group-hover:scale-105",
+                        priority: !0,
+                      }),
+                      (0, t.jsx)("div", { className: "absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" }),
+                      (0, t.jsx)("div", { className: "absolute bottom-4 left-4 text-white" }),
+                    ],
+                  }),
+                }),
+                (0, t.jsxs)("div", {
+                  className: "w-full lg:w-1/2 space-y-6 lg:space-y-8",
+                  children: [
+                    (0, t.jsx)("h2", {
+                      className: "text-3xl md:text-4xl font-bold text-gray-900 leading-tight",
+                      children: "Sweeping & Cleaning",
+                    }),
+                    (0, t.jsx)("p", {
+                      className: "text-xl text-[#00c6f9] font-semibold",
+                      children: "Keep Your Pavement Pristine With Routine Sweeping And Cleaning",
+                    }),
+                    (0, t.jsxs)("div", {
+                      className: "space-y-6",
+                      children: [
+                        (0, t.jsx)("div", {
+                          className: "space-y-4",
+                          children: [
+                            "Keeping a clean and maintained parking area involves more than simply cleaning the surface. Our sweeping and cleaning service in Cincinnati aims to eliminate dirt and debris. We also carefully remove leaves and other undesirable substances. With our specialized tools, we guarantee that every area is properly cleaned. Greatly stopping grime collection and keeping your lot tidy and appearing professional",
+                            "A disorganized parking area appears messy and can also pose safety risks, like slippery areas and obstructed drainage. Consistent sweeping and cleaning contribute to a safe, appealing environment and extend the lifespan of the pavement. Our team provides customized solutions to satisfy your requirements.",
+                            "Ensure your parking area is clean and welcoming with professional sweeping and cleaning solutions. Rely on us for the best results",
+                          ].map((e, a) =>
+                            (0, t.jsxs)(
+                              "div",
+                              {
+                                className: "flex items-start gap-4 p-4 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow",
+                                children: [
+                                  (0, t.jsx)(n.A3x, { className: "w-6 h-6 text-sky-500 flex-shrink-0 mt-1" }),
+                                  (0, t.jsx)("p", { className: "text-gray-600 text-base lg:text-lg", children: e }),
+                                ],
+                              },
+                              a,
+                            ),
+                          ),
+                        }),
+                        (0, t.jsxs)("a", {
+                          href: "tel:513-570-0355",
+                          className:
+                            "inline-flex items-center gap-3 bg-gradient-to-r from-[#00c6f9] to-cyan-600 text-white px-6 py-4 lg:px-8 lg:py-5 rounded-xl text-base lg:text-lg font-bold shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all duration-300",
+                          children: [(0, t.jsx)(n.wnV, { className: "w-5 h-5 lg:w-6 lg:h-6" }), "513-570-0355"],
+                        }),
+                      ],
+                    }),
+                  ],
+                }),
+              ],
+            }),
+          }),
+        o = () =>
+          (0, t.jsxs)("div", {
+            children: [
+              (0, t.jsxs)("div", {
+                className:
+                  "relative flex items-center justify-center min-h-[60vh] bg-[#00C6F9] to-white bg-center bg-no-repeat bg-cover z-0",
+                children: [
+                  (0, t.jsx)("div", {
+                    className:
+                      "absolute inset-0 bg-[url('/images/pages-bg.jpg')] bg-center bg-no-repeat bg-cover opacity-[0.26] transition-all duration-300",
+                  }),
+                  (0, t.jsxs)("div", {
+                    className: "relative z-10 text-center",
+                    children: [
+                      (0, t.jsx)(i.P.h1, {
+                        className: "text-white text-5xl font-bold mb-4",
+                        initial: { opacity: 0, y: -50 },
+                        whileInView: { opacity: 1, y: 0 },
+                        transition: { duration: 1, ease: "easeOut" },
+                        viewport: { once: !0 },
+                        children: "Sweeping and Cleaning Services in Cincinnati, Ohio",
+                      }),
+                      (0, t.jsx)(i.P.div, {
+                        className: "flex justify-center text-white text-md font_barlow font-semibold text-opacity-85",
+                        initial: { opacity: 0, y: 50 },
+                        whileInView: { opacity: 1, y: 0 },
+                        transition: { duration: 1, ease: "easeOut", delay: 0.5 },
+                        viewport: { once: !0 },
+                        children: (0, t.jsx)("div", {
+                          className: "flex gap-2 items-center",
+                          children: (0, t.jsx)(i.P.span, {
+                            initial: { opacity: 0, y: 50 },
+                            whileInView: { opacity: 1, y: 0 },
+                            transition: { duration: 1, ease: "easeOut", delay: 0.8 },
+                            viewport: { once: !0 },
+                          }),
+                        }),
+                      }),
+                    ],
+                  }),
+                ],
+              }),
+              (0, t.jsx)(r, {}),
+            ],
+          });
+    },
+    5462: (e, a, s) => {
+      "use strict";
+      s.d(a, { A: () => n });
+      var t = s(5155);
+      s(3745);
+      var i = s(6766),
+        l = s(351);
+      let n = () =>
+        (0, t.jsx)("section", {
+          className: "py-16 px-4 sm:px-6 lg:py-24 lg:px-8 bg-gradient-to-br from-gray-50 to-blue-50",
+          children: (0, t.jsxs)("div", {
+            className: "max-w-7xl mx-auto flex flex-col lg:flex-row gap-8 xl:gap-12 items-center",
+            children: [
+              (0, t.jsx)("div", {
+                className: "w-full lg:w-1/2 relative group order-1 lg:order-none",
+                children: (0, t.jsxs)("div", {
+                  className:
+                    "relative h-[400px] lg:h-[600px] rounded-2xl overflow-hidden shadow-xl lg:shadow-2xl transition-shadow duration-300",
+                  children: [
+                    (0, t.jsx)(i.default, {
+                      src: "/images/Parking-Lot-Washing.png",
+                      alt: "Grease-Removal-pressure-washer",
+                      layout: "fill",
+                      objectFit: "cover",
+                      className: "transition-transform duration-500 group-hover:scale-105",
+                      priority: !0,
+                    }),
+                    (0, t.jsx)("div", { className: "absolute inset-0 bg-gradient-to-t from-black/30 to-transparent" }),
+                    (0, t.jsx)("div", { className: "absolute bottom-4 left-4 text-white" }),
+                  ],
+                }),
+              }),
+              (0, t.jsxs)("div", {
+                className: "w-full lg:w-1/2 space-y-6 lg:space-y-8",
+                children: [
+                  (0, t.jsx)("h2", {
+                    className: "text-3xl md:text-4xl font-bold text-gray-900 leading-tight",
+                    children: "Parking Lot Washing",
+                  }),
+                  (0, t.jsx)("p", {
+                    className: "text-xl text-[#00c6f9] font-semibold",
+                    children: "Restore Your Parking Lot’s Clean And Polished Look",
+                  }),
+                  (0, t.jsxs)("div", {
+                    className: "space-y-6",
+                    children: [
+                      (0, t.jsx)("div", {
+                        className: "space-y-4",
+                        children: [
+                          "An orderly parking area is crucial for upholding a professional and inviting atmosphere. As time goes on, grime, oil leaks, tire tracks, and litter can accumulate, causing your lot to appear uncared for. Our parking lot cleaning service utilizes high-pressure washing methods. We use environmentally safe products to eliminate tough stains, dirt, and impurities, revitalizing a clean and shiny look.",
+                          "Dirty parking lots are not just unattractive but can also pose risks, resulting in slick surfaces and lasting pavement deterioration. Frequent cleaning prevents damage, boosts safety, and increases visual appeal. Regardless of whether you oversee a commercial property, shopping center, or apartment complex, our comprehensive cleaning services ensure your parking area remains in excellent shape.",
+                        ].map((e, a) =>
+                          (0, t.jsxs)(
+                            "div",
+                            {
+                              className: "flex items-start gap-4 p-4 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow",
+                              children: [
+                                (0, t.jsx)(l.A3x, { className: "w-6 h-6 text-sky-500 flex-shrink-0 mt-1" }),
+                                (0, t.jsx)("p", { className: "text-gray-600 text-base lg:text-lg", children: e }),
+                              ],
+                            },
+                            a,
+                          ),
+                        ),
+                      }),
+                      (0, t.jsxs)("a", {
+                        href: "tel:513-570-0355",
+                        className:
+                          "inline-flex items-center gap-3 bg-gradient-to-r from-[#00c6f9] to-cyan-600 text-white px-6 py-4 lg:px-8 lg:py-5 rounded-xl text-base lg:text-lg font-bold shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all duration-300",
+                        children: [(0, t.jsx)(l.wnV, { className: "w-5 h-5 lg:w-6 lg:h-6" }), "513-570-0355"],
+                      }),
+                    ],
+                  }),
+                ],
+              }),
+            ],
+          }),
+        });
+    },
+  },
+  (e) => {
+    var a = (a) => e((e.s = a));
+    (e.O(0, [844, 1741, 6766, 4446, 8441, 1684, 7358], () => a(1417)), (_N_E = e.O()));
+  },
+]);

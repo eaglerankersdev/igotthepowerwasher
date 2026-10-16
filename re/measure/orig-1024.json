@@ -1,0 +1,4963 @@
+{
+ "nav": [
+  {
+   "tag": "NAV",
+   "cls": "bg-white relative",
+   "text": "Free Estimate\nHome\nAbout Us\nResidential\nCommercial\nGallery\nS",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1024,
+    "h": 223.7
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgb(255, 255, 255)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "223.688px"
+   }
+  }
+ ],
+ "nav img": [
+  {
+   "tag": "IMG",
+   "cls": "w-full h-full object-contain",
+   "text": "",
+   "rect": {
+    "x": 16,
+    "y": 16,
+    "w": 128,
+    "h": 151.7
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "128px",
+    "height": "151.688px"
+   }
+  }
+ ],
+ "nav a[href=\"/get-estimate\"]": [
+  {
+   "tag": "A",
+   "cls": "text-white bg-[#00C6F9] hover:bg-blue-500 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 md:px-5 md:py-2.5  focus:outline-none ",
+   "text": "Free Estimate",
+   "rect": {
+    "x": 16,
+    "y": 167.7,
+    "w": 127.1,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "14px",
+    "font-weight": "500",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "rgb(255, 255, 255)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "10px 20px",
+    "background-color": "rgb(0, 198, 249)",
+    "background-image": "none",
+    "border-radius": "8px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "127.141px",
+    "height": "40px"
+   }
+  }
+ ],
+ "nav ul": [
+  {
+   "tag": "UL",
+   "cls": "flex flex-col mt-4 font-medium md:flex-row md:mt-0 md:space-x-8 rtl:space-x-reverse",
+   "text": "Home\nAbout Us\nResidential\nCommercial\nGallery\nSeal Solutions",
+   "rect": {
+    "x": 182,
+    "y": 71.8,
+    "w": 826,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "825.984px",
+    "height": "40px"
+   }
+  }
+ ],
+ "nav ul li a": [
+  {
+   "tag": "A",
+   "cls": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#80a2d4]",
+   "text": "Home",
+   "rect": {
+    "x": 182,
+    "y": 71.8,
+    "w": 66.7,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "8px 12px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "66.6875px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "",
+   "text": "About Us",
+   "rect": {
+    "x": 292.7,
+    "y": 79.8,
+    "w": 65.8,
+    "h": 24
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "65.8125px",
+    "height": "24px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]",
+   "text": "Seal Solutions",
+   "rect": {
+    "x": 881.7,
+    "y": 71.8,
+    "w": 126.3,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "8px 12px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "126.297px",
+    "height": "40px"
+   }
+  }
+ ],
+ "nav ul li button": [
+  {
+   "tag": "BUTTON",
+   "cls": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9] ",
+   "text": "About Us",
+   "rect": {
+    "x": 280.7,
+    "y": 71.8,
+    "w": 113.8,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "8px 12px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "113.812px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]",
+   "text": "Residential",
+   "rect": {
+    "x": 426.5,
+    "y": 71.8,
+    "w": 127.2,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "8px 12px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "127.156px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]",
+   "text": "Commercial",
+   "rect": {
+    "x": 585.7,
+    "y": 71.8,
+    "w": 133.3,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "8px 12px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "133.344px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "BUTTON",
+   "cls": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]",
+   "text": "Gallery",
+   "rect": {
+    "x": 751,
+    "y": 71.8,
+    "w": 98.7,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "8px 12px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "98.6875px",
+    "height": "40px"
+   }
+  }
+ ],
+ "nav button.md\\:hidden": [
+  {
+   "tag": "BUTTON",
+   "cls": "inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-sky-400 rounded-lg md:hidden hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-gray-600",
+   "text": "Open main menu",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 0,
+    "h": 0
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "14px",
+    "font-weight": "400",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.746 0.16 232.661)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "8px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "8px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "40px",
+    "height": "40px"
+   }
+  }
+ ],
+ "nav svg": [
+  {
+   "tag": "svg",
+   "cls": "",
+   "text": "",
+   "rect": {
+    "x": -512,
+    "y": -111.8,
+    "w": 2048,
+    "h": 447.4
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "matrix(1, 0, 0, 1, 0, 0)",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "223.688px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "",
+   "text": "",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 0,
+    "h": 0
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "100%",
+    "height": "100%"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "w-5 h-5",
+   "text": "",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 0,
+    "h": 0
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "14px",
+    "font-weight": "400",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.746 0.16 232.661)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "20px",
+    "height": "20px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "ml-2",
+   "text": "",
+   "rect": {
+    "x": 366.5,
+    "y": 83.8,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "ml-2",
+   "text": "",
+   "rect": {
+    "x": 525.7,
+    "y": 83.8,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "ml-2",
+   "text": "",
+   "rect": {
+    "x": 691,
+    "y": 83.8,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "ml-2",
+   "text": "",
+   "rect": {
+    "x": 821.7,
+    "y": 83.8,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  }
+ ],
+ "h1": [
+  {
+   "tag": "H1",
+   "cls": "text-white text-5xl font-bold mb-4",
+   "text": "Top-Quality Pressure Washing Services in Cincinnati, Ohio",
+   "rect": {
+    "x": 0,
+    "y": 425.7,
+    "w": 1024,
+    "h": 96
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "48px",
+    "font-weight": "700",
+    "line-height": "48px",
+    "letter-spacing": "normal",
+    "color": "rgb(255, 255, 255)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "16px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "96px"
+   }
+  }
+ ],
+ "h1 + div": [
+  {
+   "tag": "DIV",
+   "cls": "flex justify-center text-white text-md font_barlow font-semibold text-opacity-85",
+   "text": "Residential\nPressure Washing",
+   "rect": {
+    "x": 0,
+    "y": 537.7,
+    "w": 1024,
+    "h": 24
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "16px",
+    "font-weight": "600",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(255, 255, 255)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "24px"
+   }
+  }
+ ],
+ "h1 + div span": [
+  {
+   "tag": "SPAN",
+   "cls": "",
+   "text": "",
+   "rect": {
+    "x": 476.2,
+    "y": 540.7,
+    "w": 18,
+    "h": 18
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "16px",
+    "font-weight": "600",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(255, 255, 255)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "18px",
+    "height": "18px"
+   }
+  }
+ ],
+ "h2": [
+  {
+   "tag": "H2",
+   "cls": "text-4xl font-bold bg-gradient-to-r from-[#00C6F9] to-blue-600 bg-clip-text text-transparent mb-6",
+   "text": "Professional Pressure Washing in Cincinnati",
+   "rect": {
+    "x": 32,
+    "y": 827.7,
+    "w": 960,
+    "h": 40
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "36px",
+    "font-weight": "700",
+    "line-height": "40px",
+    "letter-spacing": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "24px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "linear-gradient(to right, rgb(0, 198, 249) 0px, oklch(0.546 0.245 262.881) 100%)",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "H2",
+   "cls": "text-3xl font-bold text-gray-800 mb-8",
+   "text": "Comprehensive Pressure Washing Services",
+   "rect": {
+    "x": 65,
+    "y": 2275.3,
+    "w": 894,
+    "h": 36
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "30px",
+    "font-weight": "700",
+    "line-height": "36px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.278 0.033 256.848)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "32px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "894px",
+    "height": "36px"
+   }
+  },
+  {
+   "tag": "H2",
+   "cls": "text-3xl font-bold text-gray-800 mb-8",
+   "text": "Advanced Cleaning Technology",
+   "rect": {
+    "x": 65,
+    "y": 2733.1,
+    "w": 894,
+    "h": 36
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "30px",
+    "font-weight": "700",
+    "line-height": "36px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.278 0.033 256.848)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "32px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "894px",
+    "height": "36px"
+   }
+  }
+ ],
+ "h3": [
+  {
+   "tag": "H3",
+   "cls": "text-3xl font-semibold text-gray-800 mb-6",
+   "text": "Best Cincinnati Pressure Washing Company - Our Vision",
+   "rect": {
+    "x": 65,
+    "y": 1406.2,
+    "w": 894,
+    "h": 36
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "30px",
+    "font-weight": "600",
+    "line-height": "36px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.278 0.033 256.848)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "24px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "894px",
+    "height": "36px"
+   }
+  },
+  {
+   "tag": "H3",
+   "cls": "text-2xl font-semibold text-gray-800",
+   "text": "Service Areas",
+   "rect": {
+    "x": 528,
+    "y": 2343.3,
+    "w": 431,
+    "h": 32
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "24px",
+    "font-weight": "600",
+    "line-height": "32px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.278 0.033 256.848)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "24px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "431px",
+    "height": "32px"
+   }
+  }
+ ],
+ "h4": [
+  {
+   "tag": "H4",
+   "cls": "text-2xl font-semibold text-gray-800 mb-4",
+   "text": "Remote Jobs Available",
+   "rect": {
+    "x": 65,
+    "y": 1630.1,
+    "w": 423,
+    "h": 32
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "24px",
+    "font-weight": "600",
+    "line-height": "32px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.278 0.033 256.848)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "16px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "423px",
+    "height": "32px"
+   }
+  },
+  {
+   "tag": "H4",
+   "cls": "text-2xl font-semibold text-gray-800 mb-4",
+   "text": "Why Choose Us",
+   "rect": {
+    "x": 536,
+    "y": 1615.2,
+    "w": 423,
+    "h": 32
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "24px",
+    "font-weight": "600",
+    "line-height": "32px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.278 0.033 256.848)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "16px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "423px",
+    "height": "32px"
+   }
+  },
+  {
+   "tag": "H4",
+   "cls": "font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black",
+   "text": "RESIDENTIAL SERVICES",
+   "rect": {
+    "x": 219.2,
+    "y": 4365,
+    "w": 179.2,
+    "h": 27
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "14px",
+    "font-weight": "700",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px 0px 6px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "27px"
+   }
+  },
+  {
+   "tag": "H4",
+   "cls": "font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black",
+   "text": "COMMERCIAL SERVICES",
+   "rect": {
+    "x": 422.4,
+    "y": 4365,
+    "w": 179.2,
+    "h": 27
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "14px",
+    "font-weight": "700",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px 0px 6px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "27px"
+   }
+  },
+  {
+   "tag": "H4",
+   "cls": "font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black",
+   "text": "QUICK LINKS",
+   "rect": {
+    "x": 625.6,
+    "y": 4365,
+    "w": 179.2,
+    "h": 27
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "14px",
+    "font-weight": "700",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px 0px 6px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "27px"
+   }
+  },
+  {
+   "tag": "H4",
+   "cls": "font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black",
+   "text": "CONTACT",
+   "rect": {
+    "x": 828.8,
+    "y": 4365,
+    "w": 179.2,
+    "h": 27
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "14px",
+    "font-weight": "700",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px 0px 6px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.188px",
+    "height": "27px"
+   }
+  }
+ ],
+ "p": [
+  {
+   "tag": "P",
+   "cls": "text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed",
+   "text": "At I Got The Power Washer, we provide more than just standar",
+   "rect": {
+    "x": 128,
+    "y": 891.7,
+    "w": 768,
+    "h": 97.5
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "20px",
+    "font-weight": "400",
+    "line-height": "32.5px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.373 0.034 259.733)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "768px",
+    "width": "768px",
+    "height": "97.5px"
+   }
+  },
+  {
+   "tag": "P",
+   "cls": "text-lg text-gray-700 leading-relaxed mb-8",
+   "text": "I Got Power Washer is the name of trust and peerless service",
+   "rect": {
+    "x": 65,
+    "y": 1466.2,
+    "w": 894,
+    "h": 117
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "18px",
+    "font-weight": "400",
+    "line-height": "29.25px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.373 0.034 259.733)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "32px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "894px",
+    "height": "117px"
+   }
+  },
+  {
+   "tag": "P",
+   "cls": "text-gray-700 leading-relaxed",
+   "text": "No water source? No problem. We can haul our own water for j",
+   "rect": {
+    "x": 65,
+    "y": 1678.1,
+    "w": 423,
+    "h": 130
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "26px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.373 0.034 259.733)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "423px",
+    "height": "130px"
+   }
+  },
+  {
+   "tag": "P",
+   "cls": "text-lg text-gray-700 leading-relaxed mb-6",
+   "text": "We are committed to delivering perfection with our pressure ",
+   "rect": {
+    "x": 65,
+    "y": 2343.3,
+    "w": 431,
+    "h": 87.8
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "18px",
+    "font-weight": "400",
+    "line-height": "29.25px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.373 0.034 259.733)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "24px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "431px",
+    "height": "87.75px"
+   }
+  },
+  {
+   "tag": "P",
+   "cls": "text-gray-700 leading-relaxed",
+   "text": "Our service offerings rely on cutting-edge equipment includi",
+   "rect": {
+    "x": 65,
+    "y": 2801.1,
+    "w": 431,
+    "h": 52
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "26px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.373 0.034 259.733)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "24px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "431px",
+    "height": "52px"
+   }
+  },
+  {
+   "tag": "P",
+   "cls": "text-lg font-semibold",
+   "text": "“Andrew had my filthy house looking brand new in just a coup",
+   "rect": {
+    "x": 64,
+    "y": 3600.7,
+    "w": 896,
+    "h": 56
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "18px",
+    "font-weight": "600",
+    "line-height": "28px",
+    "letter-spacing": "normal",
+    "color": "rgb(255, 255, 255)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "896px",
+    "height": "56px"
+   }
+  },
+  {
+   "tag": "P",
+   "cls": "text-xs text-black mb-3",
+   "text": "Professional pressure washing services in Cincinnati with 5-",
+   "rect": {
+    "x": 16,
+    "y": 4517,
+    "w": 179.2,
+    "h": 48
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.188px",
+    "height": "48px"
+   }
+  },
+  {
+   "tag": "P",
+   "cls": "text-xs",
+   "text": "© 2026 I Got The Power Washer |Privacy Policy |Terms of Serv",
+   "rect": {
+    "x": 16,
+    "y": 4692.5,
+    "w": 992,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "992px",
+    "height": "16px"
+   }
+  }
+ ],
+ "section": [
+  {
+   "tag": "SECTION",
+   "cls": "mb-20",
+   "text": "Best Cincinnati Pressure Washing Company - Our Vision\n\nI Got",
+   "rect": {
+    "x": 32,
+    "y": 1373.2,
+    "w": 960,
+    "h": 789.1
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "80px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "789.125px"
+   }
+  },
+  {
+   "tag": "SECTION",
+   "cls": "mb-20",
+   "text": "Comprehensive Pressure Washing Services\n\nWe are committed to",
+   "rect": {
+    "x": 32,
+    "y": 2242.3,
+    "w": 960,
+    "h": 377.8
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "80px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "377.75px"
+   }
+  },
+  {
+   "tag": "SECTION",
+   "cls": "mb-20",
+   "text": "Advanced Cleaning Technology\n\nOur service offerings rely on ",
+   "rect": {
+    "x": 32,
+    "y": 2700.1,
+    "w": 960,
+    "h": 708.7
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "80px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "708.656px"
+   }
+  },
+  {
+   "tag": "SECTION",
+   "cls": "",
+   "text": "“My walkway went from black and green to white—I couldn’t be",
+   "rect": {
+    "x": 32,
+    "y": 3488.7,
+    "w": 960,
+    "h": 200
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "200px"
+   }
+  },
+  {
+   "tag": "SECTION",
+   "cls": "p-8 bg-white",
+   "text": "Before\nAfter\n↔\nBefore\nAfter\n↔",
+   "rect": {
+    "x": 0,
+    "y": 3752.7,
+    "w": 1024,
+    "h": 568.3
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "32px",
+    "background-color": "rgb(255, 255, 255)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "568.25px"
+   }
+  }
+ ],
+ "section > div": [
+  {
+   "tag": "DIV",
+   "cls": "bg-white rounded-2xl p-8 shadow-lg border border-gray-100",
+   "text": "Best Cincinnati Pressure Washing Company - Our Vision\n\nI Got",
+   "rect": {
+    "x": 32,
+    "y": 1373.2,
+    "w": 960,
+    "h": 789.1
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "32px",
+    "background-color": "rgb(255, 255, 255)",
+    "background-image": "none",
+    "border-radius": "16px",
+    "box-shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "789.125px"
+   }
+  },
+  {
+   "tag": "DIV",
+   "cls": "bg-white rounded-2xl p-8 shadow-lg border border-gray-100",
+   "text": "Comprehensive Pressure Washing Services\n\nWe are committed to",
+   "rect": {
+    "x": 32,
+    "y": 2242.3,
+    "w": 960,
+    "h": 377.8
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "32px",
+    "background-color": "rgb(255, 255, 255)",
+    "background-image": "none",
+    "border-radius": "16px",
+    "box-shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "377.75px"
+   }
+  },
+  {
+   "tag": "DIV",
+   "cls": "bg-white rounded-2xl p-8 shadow-lg border border-gray-100",
+   "text": "Advanced Cleaning Technology\n\nOur service offerings rely on ",
+   "rect": {
+    "x": 32,
+    "y": 2700.1,
+    "w": 960,
+    "h": 708.7
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "32px",
+    "background-color": "rgb(255, 255, 255)",
+    "background-image": "none",
+    "border-radius": "16px",
+    "box-shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "708.656px"
+   }
+  },
+  {
+   "tag": "DIV",
+   "cls": "bg-gradient-to-r from-[#00C6F9] to-blue-600 p-8 rounded-2xl text-white",
+   "text": "“My walkway went from black and green to white—I couldn’t be",
+   "rect": {
+    "x": 32,
+    "y": 3488.7,
+    "w": 960,
+    "h": 200
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(255, 255, 255)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "32px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "linear-gradient(to right, rgb(0, 198, 249) 0px, oklch(0.546 0.245 262.881) 100%)",
+    "border-radius": "16px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "200px"
+   }
+  },
+  {
+   "tag": "DIV",
+   "cls": "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-6",
+   "text": "Before\nAfter\n↔\nBefore\nAfter\n↔",
+   "rect": {
+    "x": 32,
+    "y": 3784.7,
+    "w": 960,
+    "h": 504.3
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "960px",
+    "height": "504.25px"
+   }
+  }
+ ],
+ "blockquote": [
+  {
+   "tag": "BLOCKQUOTE",
+   "cls": "text-xl italic mb-6",
+   "text": "“My walkway went from black and green to white—I couldn’t be",
+   "rect": {
+    "x": 64,
+    "y": 3520.7,
+    "w": 896,
+    "h": 56
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "20px",
+    "font-weight": "400",
+    "line-height": "28px",
+    "letter-spacing": "normal",
+    "color": "rgb(255, 255, 255)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "24px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "896px",
+    "height": "56px"
+   }
+  }
+ ],
+ "footer": [
+  {
+   "tag": "FOOTER",
+   "cls": "bg-sky-200 text-[black] py-8 px-4 relative overflow-hidden min-h-[500px] md:min-h-[400px] mt-3 ",
+   "text": "Professional pressure washing services in Cincinnati with 5-",
+   "rect": {
+    "x": 0,
+    "y": 4333,
+    "w": 1024,
+    "h": 407.5
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "12px",
+    "margin-bottom": "0px",
+    "padding": "32px 16px",
+    "background-color": "oklch(0.901 0.058 230.902)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "400px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "407.5px"
+   }
+  }
+ ],
+ "footer h4": [
+  {
+   "tag": "H4",
+   "cls": "font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black",
+   "text": "RESIDENTIAL SERVICES",
+   "rect": {
+    "x": 219.2,
+    "y": 4365,
+    "w": 179.2,
+    "h": 27
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "14px",
+    "font-weight": "700",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px 0px 6px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "27px"
+   }
+  },
+  {
+   "tag": "H4",
+   "cls": "font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black",
+   "text": "COMMERCIAL SERVICES",
+   "rect": {
+    "x": 422.4,
+    "y": 4365,
+    "w": 179.2,
+    "h": 27
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "14px",
+    "font-weight": "700",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px 0px 6px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "27px"
+   }
+  },
+  {
+   "tag": "H4",
+   "cls": "font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black",
+   "text": "QUICK LINKS",
+   "rect": {
+    "x": 625.6,
+    "y": 4365,
+    "w": 179.2,
+    "h": 27
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "14px",
+    "font-weight": "700",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px 0px 6px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "27px"
+   }
+  },
+  {
+   "tag": "H4",
+   "cls": "font-bold uppercase text-sm border-b border-[#00C6F9] pb-1.5 text-black",
+   "text": "CONTACT",
+   "rect": {
+    "x": 828.8,
+    "y": 4365,
+    "w": 179.2,
+    "h": 27
+   },
+   "style": {
+    "font-family": "\"Space Grotesk\", sans-serif",
+    "font-size": "14px",
+    "font-weight": "700",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px 0px 6px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.188px",
+    "height": "27px"
+   }
+  }
+ ],
+ "footer a": [
+  {
+   "tag": "A",
+   "cls": "",
+   "text": "",
+   "rect": {
+    "x": 16,
+    "y": 4365,
+    "w": 179.2,
+    "h": 152
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "16px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "auto",
+    "height": "auto"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:text-[#1877F2] transition-colors",
+   "text": "",
+   "rect": {
+    "x": 16,
+    "y": 4577,
+    "w": 20,
+    "h": 20
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "20px",
+    "font-weight": "400",
+    "line-height": "28px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "20px",
+    "height": "20px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:text-[#E4405F] transition-colors",
+   "text": "",
+   "rect": {
+    "x": 48,
+    "y": 4577,
+    "w": 20,
+    "h": 20
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "20px",
+    "font-weight": "400",
+    "line-height": "28px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "20px",
+    "height": "20px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:text-black transition-colors",
+   "text": "",
+   "rect": {
+    "x": 80,
+    "y": 4577,
+    "w": 20,
+    "h": 20
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "20px",
+    "font-weight": "400",
+    "line-height": "28px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "20px",
+    "height": "20px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "",
+   "text": "",
+   "rect": {
+    "x": 16,
+    "y": 4613,
+    "w": 179.2,
+    "h": 38.5
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "auto",
+    "height": "auto"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:underline",
+   "text": "Pressure Washing",
+   "rect": {
+    "x": 219.2,
+    "y": 4404,
+    "w": 179.2,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "6px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:underline",
+   "text": "Concrete Sealing",
+   "rect": {
+    "x": 219.2,
+    "y": 4426,
+    "w": 179.2,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "6px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:underline",
+   "text": "House Washing",
+   "rect": {
+    "x": 219.2,
+    "y": 4448,
+    "w": 179.2,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "6px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:underline",
+   "text": "Roof Washing",
+   "rect": {
+    "x": 219.2,
+    "y": 4470,
+    "w": 179.2,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "6px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:underline",
+   "text": "Window Cleaning",
+   "rect": {
+    "x": 219.2,
+    "y": 4492,
+    "w": 179.2,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "6px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:underline",
+   "text": "Gutter Cleaning",
+   "rect": {
+    "x": 219.2,
+    "y": 4514,
+    "w": 179.2,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "A",
+   "cls": "hover:underline",
+   "text": "Building Wash",
+   "rect": {
+    "x": 422.4,
+    "y": 4404,
+    "w": 179.2,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "6px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "179.203px",
+    "height": "16px"
+   }
+  }
+ ],
+ "footer img": [
+  {
+   "tag": "IMG",
+   "cls": "w-32 h-auto hover:opacity-80 transition-opacity",
+   "text": "",
+   "rect": {
+    "x": 16,
+    "y": 4365,
+    "w": 128,
+    "h": 152
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "128px",
+    "height": "152px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "rounded-lg border-2 border-[#00C6F9]/20 mt-3 hover:scale-105 transition-transform",
+   "text": "",
+   "rect": {
+    "x": 16,
+    "y": 4613,
+    "w": 100,
+    "h": 38.5
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "12px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "8px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "100px",
+    "height": "38.5px"
+   }
+  }
+ ],
+ "footer p": [
+  {
+   "tag": "P",
+   "cls": "text-xs text-black mb-3",
+   "text": "Professional pressure washing services in Cincinnati with 5-",
+   "rect": {
+    "x": 16,
+    "y": 4517,
+    "w": 179.2,
+    "h": 48
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "179.188px",
+    "height": "48px"
+   }
+  },
+  {
+   "tag": "P",
+   "cls": "text-xs",
+   "text": "© 2026 I Got The Power Washer |Privacy Policy |Terms of Serv",
+   "rect": {
+    "x": 16,
+    "y": 4692.5,
+    "w": 992,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "12px",
+    "font-weight": "400",
+    "line-height": "16px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "992px",
+    "height": "16px"
+   }
+  }
+ ],
+ "main": [],
+ "body": [
+  {
+   "tag": "BODY",
+   "cls": "__variable_4d318d __variable_ea5f4b antialiased",
+   "text": "Free Estimate\nHome\nAbout Us\nResidential\nCommercial\nGallery\nS",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1024,
+    "h": 4740.5
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgb(255, 255, 255)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "4740.47px"
+   }
+  }
+ ],
+ "html": [
+  {
+   "tag": "HTML",
+   "cls": "",
+   "text": "Free Estimate\nHome\nAbout Us\nResidential\nCommercial\nGallery\nS",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 1024,
+    "h": 4740.5
+   },
+   "style": {
+    "font-family": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "4740.47px"
+   }
+  }
+ ],
+ "[class*=\"min-h-\"]": [
+  {
+   "tag": "DIV",
+   "cls": "relative flex items-center justify-center min-h-[60vh] bg-[#00C6F9] to-white bg-center bg-no-repeat bg-cover z-0",
+   "text": "Top-Quality Pressure Washing Services in Cincinnati, Ohio\nRe",
+   "rect": {
+    "x": 0,
+    "y": 223.7,
+    "w": 1024,
+    "h": 540
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgb(0, 198, 249)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "540px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "540px"
+   }
+  },
+  {
+   "tag": "FOOTER",
+   "cls": "bg-sky-200 text-[black] py-8 px-4 relative overflow-hidden min-h-[500px] md:min-h-[400px] mt-3 ",
+   "text": "Professional pressure washing services in Cincinnati with 5-",
+   "rect": {
+    "x": 0,
+    "y": 4333,
+    "w": 1024,
+    "h": 407.5
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "12px",
+    "margin-bottom": "0px",
+    "padding": "32px 16px",
+    "background-color": "oklch(0.901 0.058 230.902)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "400px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "407.5px"
+   }
+  }
+ ],
+ "input[type=range]": [
+  {
+   "tag": "INPUT",
+   "cls": "absolute top-1/2 left-0 w-full h-full opacity-0 cursor-ew-resize",
+   "text": "",
+   "rect": {
+    "x": 32,
+    "y": 4036.8,
+    "w": 468,
+    "h": 504.3
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "0",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "468px",
+    "height": "504.25px"
+   }
+  },
+  {
+   "tag": "INPUT",
+   "cls": "absolute top-1/2 left-0 w-full h-full opacity-0 cursor-ew-resize",
+   "text": "",
+   "rect": {
+    "x": 524,
+    "y": 4036.6,
+    "w": 468,
+    "h": 503.8
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "0",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "468px",
+    "height": "503.828px"
+   }
+  }
+ ],
+ "img": [
+  {
+   "tag": "IMG",
+   "cls": "w-full h-full object-contain",
+   "text": "",
+   "rect": {
+    "x": 16,
+    "y": 16,
+    "w": 128,
+    "h": 151.7
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "128px",
+    "height": "151.688px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "rounded-xl shadow-lg hover:shadow-xl transition-shadow",
+   "text": "",
+   "rect": {
+    "x": 65,
+    "y": 1832.1,
+    "w": 423,
+    "h": 282.2
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "12px",
+    "box-shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "422.969px",
+    "height": "282.203px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "rounded-xl shadow-lg hover:shadow-xl transition-shadow",
+   "text": "",
+   "rect": {
+    "x": 536,
+    "y": 1847.2,
+    "w": 423,
+    "h": 282.1
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "12px",
+    "box-shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "422.969px",
+    "height": "282.125px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "rounded-xl shadow-lg hover:shadow-xl transition-shadow",
+   "text": "",
+   "rect": {
+    "x": 528,
+    "y": 2801.1,
+    "w": 431,
+    "h": 574.7
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "12px",
+    "box-shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "100%",
+    "width": "430.984px",
+    "height": "574.656px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 w-full h-full object-cover",
+   "text": "",
+   "rect": {
+    "x": 32,
+    "y": 3784.7,
+    "w": 468,
+    "h": 504.3
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "468px",
+    "height": "504.25px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 w-full h-full object-cover",
+   "text": "",
+   "rect": {
+    "x": 32,
+    "y": 3784.7,
+    "w": 234,
+    "h": 504.3
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "234px",
+    "height": "504.25px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 w-full h-full object-cover",
+   "text": "",
+   "rect": {
+    "x": 524,
+    "y": 3784.7,
+    "w": 468,
+    "h": 503.8
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "468px",
+    "height": "503.828px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "absolute inset-0 w-full h-full object-cover",
+   "text": "",
+   "rect": {
+    "x": 524,
+    "y": 3784.7,
+    "w": 234,
+    "h": 503.8
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "234px",
+    "height": "503.828px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "w-32 h-auto hover:opacity-80 transition-opacity",
+   "text": "",
+   "rect": {
+    "x": 16,
+    "y": 4365,
+    "w": 128,
+    "h": 152
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "128px",
+    "height": "152px"
+   }
+  },
+  {
+   "tag": "IMG",
+   "cls": "rounded-lg border-2 border-[#00C6F9]/20 mt-3 hover:scale-105 transition-transform",
+   "text": "",
+   "rect": {
+    "x": 16,
+    "y": 4613,
+    "w": 100,
+    "h": 38.5
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "12px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "8px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "100%",
+    "width": "100px",
+    "height": "38.5px"
+   }
+  }
+ ],
+ "ul": [
+  {
+   "tag": "UL",
+   "cls": "flex flex-col mt-4 font-medium md:flex-row md:mt-0 md:space-x-8 rtl:space-x-reverse",
+   "text": "Home\nAbout Us\nResidential\nCommercial\nGallery\nSeal Solutions",
+   "rect": {
+    "x": 182,
+    "y": 71.8,
+    "w": 826,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "825.984px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "UL",
+   "cls": "space-y-4",
+   "text": "High-Performance Equipment: We use industry-leading pressure",
+   "rect": {
+    "x": 536,
+    "y": 1663.2,
+    "w": 423,
+    "h": 160
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "423px",
+    "height": "160px"
+   }
+  },
+  {
+   "tag": "UL",
+   "cls": "columns-2 gap-8 text-black",
+   "text": "Roof cleaning\nFence cleaning\nHouse clean\nSolar panel cleanin",
+   "rect": {
+    "x": 65,
+    "y": 2455.1,
+    "w": 431,
+    "h": 132
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "431px",
+    "height": "132px"
+   }
+  },
+  {
+   "tag": "UL",
+   "cls": "grid grid-cols-2 gap-4 text-black",
+   "text": "▹\nHamilton County\n▹\nClermont County\n▹\nButler County\n▹\nWarren",
+   "rect": {
+    "x": 528,
+    "y": 2399.3,
+    "w": 431,
+    "h": 176
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "431px",
+    "height": "176px"
+   }
+  },
+  {
+   "tag": "UL",
+   "cls": "space-y-4",
+   "text": "🔥\nHot/Cold Washers: For grease removal and general cleaning",
+   "rect": {
+    "x": 65,
+    "y": 2877.1,
+    "w": 431,
+    "h": 160
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "431px",
+    "height": "160px"
+   }
+  }
+ ],
+ "li": [
+  {
+   "tag": "LI",
+   "cls": "",
+   "text": "Home",
+   "rect": {
+    "x": 182,
+    "y": 71.8,
+    "w": 66.7,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "66.6875px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "",
+   "text": "About Us",
+   "rect": {
+    "x": 280.7,
+    "y": 71.8,
+    "w": 113.8,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "113.812px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "",
+   "text": "Residential",
+   "rect": {
+    "x": 426.5,
+    "y": 71.8,
+    "w": 127.2,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "127.156px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "",
+   "text": "Commercial",
+   "rect": {
+    "x": 585.7,
+    "y": 71.8,
+    "w": 133.3,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "133.344px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "",
+   "text": "Gallery",
+   "rect": {
+    "x": 751,
+    "y": 71.8,
+    "w": 98.7,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "98.6875px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "",
+   "text": "Seal Solutions",
+   "rect": {
+    "x": 881.7,
+    "y": 71.8,
+    "w": 126.3,
+    "h": 40
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "126.297px",
+    "height": "40px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "flex items-start space-x-3",
+   "text": "High-Performance Equipment: We use industry-leading pressure",
+   "rect": {
+    "x": 536,
+    "y": 1663.2,
+    "w": 423,
+    "h": 72
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "16px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "423px",
+    "height": "72px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "flex items-start space-x-3",
+   "text": "Post-Treatment Protection: Our specialized treatment elimina",
+   "rect": {
+    "x": 536,
+    "y": 1751.2,
+    "w": 423,
+    "h": 72
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "423px",
+    "height": "72px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "flex items-center mb-3",
+   "text": "Roof cleaning",
+   "rect": {
+    "x": 65,
+    "y": 2455.1,
+    "w": 199.5,
+    "h": 24
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "199.5px",
+    "height": "24px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "flex items-center mb-3",
+   "text": "Fence cleaning",
+   "rect": {
+    "x": 65,
+    "y": 2491.1,
+    "w": 199.5,
+    "h": 24
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "199.5px",
+    "height": "24px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "flex items-center mb-3",
+   "text": "House clean",
+   "rect": {
+    "x": 65,
+    "y": 2527.1,
+    "w": 199.5,
+    "h": 24
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "199.5px",
+    "height": "24px"
+   }
+  },
+  {
+   "tag": "LI",
+   "cls": "flex items-center mb-3",
+   "text": "Solar panel cleaning",
+   "rect": {
+    "x": 65,
+    "y": 2563.1,
+    "w": 199.5,
+    "h": 24
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "12px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "199.5px",
+    "height": "24px"
+   }
+  }
+ ],
+ "strong": [
+  {
+   "tag": "STRONG",
+   "cls": "text-black",
+   "text": "High-Performance Equipment:",
+   "rect": {
+    "x": 572,
+    "y": 1666.2,
+    "w": 231.1,
+    "h": 17
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "700",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "auto",
+    "height": "auto"
+   }
+  },
+  {
+   "tag": "STRONG",
+   "cls": "text-black",
+   "text": "Post-Treatment Protection:",
+   "rect": {
+    "x": 572,
+    "y": 1754.2,
+    "w": 205.4,
+    "h": 17
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "700",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "auto",
+    "height": "auto"
+   }
+  },
+  {
+   "tag": "STRONG",
+   "cls": "text-black",
+   "text": "Hot/Cold Washers:",
+   "rect": {
+    "x": 117,
+    "y": 2880.1,
+    "w": 142.5,
+    "h": 17
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "700",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "auto",
+    "height": "auto"
+   }
+  },
+  {
+   "tag": "STRONG",
+   "cls": "text-black",
+   "text": "High-Pressure Nozzles:",
+   "rect": {
+    "x": 117,
+    "y": 2944.1,
+    "w": 178.7,
+    "h": 17
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "700",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "auto",
+    "height": "auto"
+   }
+  },
+  {
+   "tag": "STRONG",
+   "cls": "text-black",
+   "text": "Specialized Fleet:",
+   "rect": {
+    "x": 117,
+    "y": 3000.1,
+    "w": 134.3,
+    "h": 17
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "700",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "auto",
+    "height": "auto"
+   }
+  }
+ ],
+ ".font_barlow": [
+  {
+   "tag": "DIV",
+   "cls": "flex justify-center text-white text-md font_barlow font-semibold text-opacity-85",
+   "text": "Residential\nPressure Washing",
+   "rect": {
+    "x": 0,
+    "y": 537.7,
+    "w": 1024,
+    "h": 24
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "16px",
+    "font-weight": "600",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(255, 255, 255)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "24px"
+   }
+  }
+ ],
+ "svg": [
+  {
+   "tag": "svg",
+   "cls": "",
+   "text": "",
+   "rect": {
+    "x": -512,
+    "y": -111.8,
+    "w": 2048,
+    "h": 447.4
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "matrix(1, 0, 0, 1, 0, 0)",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "223.688px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "",
+   "text": "",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 0,
+    "h": 0
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "100%",
+    "height": "100%"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "w-5 h-5",
+   "text": "",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 0,
+    "h": 0
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "14px",
+    "font-weight": "400",
+    "line-height": "20px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.746 0.16 232.661)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "20px",
+    "height": "20px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "ml-2",
+   "text": "",
+   "rect": {
+    "x": 366.5,
+    "y": 83.8,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "ml-2",
+   "text": "",
+   "rect": {
+    "x": 525.7,
+    "y": 83.8,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "ml-2",
+   "text": "",
+   "rect": {
+    "x": 691,
+    "y": 83.8,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "ml-2",
+   "text": "",
+   "rect": {
+    "x": 821.7,
+    "y": 83.8,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "500",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "text-lg text-sky-300",
+   "text": "",
+   "rect": {
+    "x": 476.2,
+    "y": 540.7,
+    "w": 18,
+    "h": 18
+   },
+   "style": {
+    "font-family": "Barlow, sans-serif",
+    "font-size": "18px",
+    "font-weight": "600",
+    "line-height": "28px",
+    "letter-spacing": "normal",
+    "color": "oklch(0.828 0.111 230.318)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "18px",
+    "height": "18px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "",
+   "text": "",
+   "rect": {
+    "x": 352,
+    "y": 989.2,
+    "w": 320,
+    "h": 320
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "center",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "matrix(1, 0, 0, 1, 0, 0)",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "320px",
+    "height": "320px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "w-4 h-4 text-[#00C6F9] mr-2",
+   "text": "",
+   "rect": {
+    "x": 65,
+    "y": 2459.1,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "w-4 h-4 text-[#00C6F9] mr-2",
+   "text": "",
+   "rect": {
+    "x": 65,
+    "y": 2495.1,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  },
+  {
+   "tag": "svg",
+   "cls": "w-4 h-4 text-[#00C6F9] mr-2",
+   "text": "",
+   "rect": {
+    "x": 65,
+    "y": 2531.1,
+    "w": 16,
+    "h": 16
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 198, 249)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "auto",
+    "max-width": "none",
+    "width": "16px",
+    "height": "16px"
+   }
+  }
+ ],
+ "canvas": [],
+ "[style*=\"scale\"]": [
+  {
+   "tag": "DIV",
+   "cls": "hidden md:block",
+   "text": "",
+   "rect": {
+    "x": -512,
+    "y": -111.8,
+    "w": 2048,
+    "h": 447.4
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "matrix(2, 0, 0, 2, 0, 0)",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "223.688px"
+   }
+  },
+  {
+   "tag": "DIV",
+   "cls": "md:hidden",
+   "text": "",
+   "rect": {
+    "x": 0,
+    "y": 0,
+    "w": 0,
+    "h": 0
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(23, 23, 23)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "none",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "100%",
+    "height": "100%"
+   }
+  },
+  {
+   "tag": "DIV",
+   "cls": "w-full h-full",
+   "text": "",
+   "rect": {
+    "x": -256,
+    "y": 4231.1,
+    "w": 1536,
+    "h": 611.3
+   },
+   "style": {
+    "font-family": "Arial, Helvetica, sans-serif",
+    "font-size": "16px",
+    "font-weight": "400",
+    "line-height": "24px",
+    "letter-spacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "text-align": "start",
+    "margin-top": "0px",
+    "margin-bottom": "0px",
+    "padding": "0px",
+    "background-color": "rgba(0, 0, 0, 0)",
+    "background-image": "none",
+    "border-radius": "0px",
+    "box-shadow": "none",
+    "opacity": "1",
+    "transform": "matrix(1.5, 0, 0, 1.5, 0, 0)",
+    "min-height": "0px",
+    "max-width": "none",
+    "width": "1024px",
+    "height": "407.5px"
+   }
+  }
+ ],
+ "__fonts": [
+  {
+   "family": "Geist",
+   "weight": "100 900",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Geist",
+   "weight": "100 900",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Geist Fallback",
+   "weight": "normal",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Geist Mono",
+   "weight": "100 900",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Geist Mono",
+   "weight": "100 900",
+   "style": "normal",
+   "status": "unloaded"
+  },
+  {
+   "family": "Geist Mono Fallback",
+   "weight": "normal",
+   "style": "normal",
+   "status": "unloaded"
+  }
+ ],
+ "__scrollHeight": 4740,
+ "__lottie": {
+  "svgs": [
+   {
+    "vb": "0 0 1080 1080",
+    "w": "1080",
+    "h": "1080",
+    "pa": "xMidYMid slice",
+    "style": "width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;",
+    "parent": "hidden md:block",
+    "parentRect": {
+     "x": -512,
+     "y": -111.8,
+     "w": 2048,
+     "h": 447.4
+    },
+    "rect": {
+     "x": -512,
+     "y": -111.8,
+     "w": 2048,
+     "h": 447.4
+    }
+   },
+   {
+    "vb": "0 0 1080 1080",
+    "w": "1080",
+    "h": "1080",
+    "pa": "xMidYMid meet",
+    "style": "width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;",
+    "parent": "md:hidden",
+    "parentRect": {
+     "x": 0,
+     "y": 0,
+     "w": 0,
+     "h": 0
+    },
+    "rect": {
+     "x": 0,
+     "y": 0,
+     "w": 0,
+     "h": 0
+    }
+   },
+   {
+    "vb": "0 0 448 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-sky-400 rounded-lg md:hidden hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-gray-600",
+    "parentRect": {
+     "x": 0,
+     "y": 0,
+     "w": 0,
+     "h": 0
+    },
+    "rect": {
+     "x": 0,
+     "y": 0,
+     "w": 0,
+     "h": 0
+    }
+   },
+   {
+    "vb": "0 0 448 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9] ",
+    "parentRect": {
+     "x": 280.7,
+     "y": 71.8,
+     "w": 113.8,
+     "h": 40
+    },
+    "rect": {
+     "x": 366.5,
+     "y": 83.8,
+     "w": 16,
+     "h": 16
+    }
+   },
+   {
+    "vb": "0 0 448 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]",
+    "parentRect": {
+     "x": 426.5,
+     "y": 71.8,
+     "w": 127.2,
+     "h": 40
+    },
+    "rect": {
+     "x": 525.7,
+     "y": 83.8,
+     "w": 16,
+     "h": 16
+    }
+   },
+   {
+    "vb": "0 0 448 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]",
+    "parentRect": {
+     "x": 585.7,
+     "y": 71.8,
+     "w": 133.3,
+     "h": 40
+    },
+    "rect": {
+     "x": 691,
+     "y": 83.8,
+     "w": 16,
+     "h": 16
+    }
+   },
+   {
+    "vb": "0 0 448 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "flex items-center py-2 px-3 text-[#00C6F9] hover:text-[#00C6F9]",
+    "parentRect": {
+     "x": 751,
+     "y": 71.8,
+     "w": 98.7,
+     "h": 40
+    },
+    "rect": {
+     "x": 821.7,
+     "y": 83.8,
+     "w": 16,
+     "h": 16
+    }
+   },
+   {
+    "vb": "0 0 512 512",
+    "w": "512",
+    "h": "512",
+    "pa": "xMidYMid meet",
+    "style": "width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;",
+    "parent": "w-64 h-64 sm:w-80 sm:h-80",
+    "parentRect": {
+     "x": 352,
+     "y": 989.2,
+     "w": 320,
+     "h": 320
+    },
+    "rect": {
+     "x": 352,
+     "y": 989.2,
+     "w": 320,
+     "h": 320
+    }
+   },
+   {
+    "vb": "0 0 1080 1080",
+    "w": "1080",
+    "h": "1080",
+    "pa": "xMidYMid slice",
+    "style": "width: 100%; height: 100%; transform: translate3d(0px, 0px, 0px); content-visibility: visible;",
+    "parent": "w-full h-full",
+    "parentRect": {
+     "x": -256,
+     "y": 4231.1,
+     "w": 1536,
+     "h": 611.3
+    },
+    "rect": {
+     "x": -256,
+     "y": 4231.1,
+     "w": 1536,
+     "h": 611.3
+    }
+   },
+   {
+    "vb": "0 0 512 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "hover:text-[#1877F2] transition-colors",
+    "parentRect": {
+     "x": 16,
+     "y": 4577,
+     "w": 20,
+     "h": 20
+    },
+    "rect": {
+     "x": 16,
+     "y": 4577,
+     "w": 20,
+     "h": 20
+    }
+   },
+   {
+    "vb": "0 0 448 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "hover:text-[#E4405F] transition-colors",
+    "parentRect": {
+     "x": 48,
+     "y": 4577,
+     "w": 20,
+     "h": 20
+    },
+    "rect": {
+     "x": 48,
+     "y": 4577,
+     "w": 20,
+     "h": 20
+    }
+   },
+   {
+    "vb": "0 0 448 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "hover:text-black transition-colors",
+    "parentRect": {
+     "x": 80,
+     "y": 4577,
+     "w": 20,
+     "h": 20
+    },
+    "rect": {
+     "x": 80,
+     "y": 4577,
+     "w": 20,
+     "h": 20
+    }
+   },
+   {
+    "vb": "0 0 512 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "flex items-center gap-2",
+    "parentRect": {
+     "x": 828.8,
+     "y": 4404,
+     "w": 179.2,
+     "h": 16
+    },
+    "rect": {
+     "x": 828.8,
+     "y": 4405,
+     "w": 14,
+     "h": 14
+    }
+   },
+   {
+    "vb": "0 0 512 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "flex items-center gap-2",
+    "parentRect": {
+     "x": 828.8,
+     "y": 4428,
+     "w": 179.2,
+     "h": 16
+    },
+    "rect": {
+     "x": 828.8,
+     "y": 4429,
+     "w": 0,
+     "h": 14
+    }
+   },
+   {
+    "vb": "0 0 512 512",
+    "w": "1em",
+    "h": "1em",
+    "pa": null,
+    "style": null,
+    "parent": "flex items-center gap-2",
+    "parentRect": {
+     "x": 828.8,
+     "y": 4452,
+     "w": 179.2,
+     "h": 32
+    },
+    "rect": {
+     "x": 828.8,
+     "y": 4461,
+     "w": 14,
+     "h": 14
+    }
+   }
+  ]
+ },
+ "__images": [
+  {
+   "src": "https://www.igtpw.com/images/uft.png",
+   "nw": 308,
+   "nh": 365,
+   "rect": {
+    "x": 16,
+    "y": 16,
+    "w": 128,
+    "h": 151.7
+   },
+   "alt": "Logo",
+   "objectFit": "contain"
+  },
+  {
+   "src": "https://www.igtpw.com/images/305.png",
+   "nw": 1313,
+   "nh": 876,
+   "rect": {
+    "x": 65,
+    "y": 1832.1,
+    "w": 423,
+    "h": 282.2
+   },
+   "alt": "Pressure Washing",
+   "objectFit": "fill"
+  },
+  {
+   "src": "https://www.igtpw.com/images/299-1024x683-1.png",
+   "nw": 1024,
+   "nh": 683,
+   "rect": {
+    "x": 536,
+    "y": 1847.2,
+    "w": 423,
+    "h": 282.1
+   },
+   "alt": "House Washing",
+   "objectFit": "fill"
+  },
+  {
+   "src": "https://www.igtpw.com/images/effff.jpg",
+   "nw": 1200,
+   "nh": 1600,
+   "rect": {
+    "x": 528,
+    "y": 2801.1,
+    "w": 431,
+    "h": 574.7
+   },
+   "alt": "Cleaning Technology",
+   "objectFit": "fill"
+  },
+  {
+   "src": "https://www.igtpw.com/images/2.jpeg",
+   "nw": 1149,
+   "nh": 1238,
+   "rect": {
+    "x": 32,
+    "y": 3784.7,
+    "w": 468,
+    "h": 504.3
+   },
+   "alt": "After transformation",
+   "objectFit": "cover"
+  },
+  {
+   "src": "https://www.igtpw.com/images/1.jpeg",
+   "nw": 1201,
+   "nh": 1293,
+   "rect": {
+    "x": 32,
+    "y": 3784.7,
+    "w": 234,
+    "h": 504.3
+   },
+   "alt": "Before transformation",
+   "objectFit": "cover"
+  },
+  {
+   "src": "https://www.igtpw.com/images/4.jpeg",
+   "nw": 875,
+   "nh": 942,
+   "rect": {
+    "x": 524,
+    "y": 3784.7,
+    "w": 468,
+    "h": 503.8
+   },
+   "alt": "After transformation",
+   "objectFit": "cover"
+  },
+  {
+   "src": "https://www.igtpw.com/images/3.jpeg",
+   "nw": 898,
+   "nh": 971,
+   "rect": {
+    "x": 524,
+    "y": 3784.7,
+    "w": 234,
+    "h": 503.8
+   },
+   "alt": "Before transformation",
+   "objectFit": "cover"
+  },
+  {
+   "src": "https://www.igtpw.com/_next/image?url=%2Fimages%2Fuft.png&w=128&q=75",
+   "nw": 128,
+   "nh": 152,
+   "rect": {
+    "x": 16,
+    "y": 4365,
+    "w": 128,
+    "h": 152
+   },
+   "alt": "I Got The Power Washer",
+   "objectFit": "fill"
+  },
+  {
+   "src": "https://www.igtpw.com/_next/image?url=%2Fimages%2Ffooter-image.png&w=128&q=75",
+   "nw": 128,
+   "nh": 46,
+   "rect": {
+    "x": 16,
+    "y": 4613,
+    "w": 100,
+    "h": 38.5
+   },
+   "alt": "Quality Guarantee Badge",
+   "objectFit": "fill"
+  }
+ ],
+ "__bgimages": [
+  {
+   "cls": "absolute inset-0 bg-[url('/images/pages-bg.jpg')] bg-center bg-no-repeat bg-cover opacity-[0.26] transition-all duration-300",
+   "bg": "url(\"https://www.igtpw.com/images/pages-bg.jpg\")",
+   "rect": {
+    "x": 0,
+    "y": 223.7,
+    "w": 1024,
+    "h": 540
+   },
+   "opacity": "0.26"
+  },
+  {
+   "cls": "bg-gradient-to-b from-gray-50 to-white",
+   "bg": "linear-gradient(oklch(0.985 0.002 247.839) 0px, rgb(255, 255, 255) 100%)",
+   "rect": {
+    "x": 0,
+    "y": 763.7,
+    "w": 1024,
+    "h": 2989
+   },
+   "opacity": "1"
+  },
+  {
+   "cls": "text-4xl font-bold bg-gradient-to-r from-[#00C6F9] to-blue-600 bg-clip-text text-transparent mb-6",
+   "bg": "linear-gradient(to right, rgb(0, 198, 249) 0px, oklch(0.546 0.245 262.881) 100%)",
+   "rect": {
+    "x": 32,
+    "y": 827.7,
+    "w": 960,
+    "h": 40
+   },
+   "opacity": "1"
+  },
+  {
+   "cls": "bg-gradient-to-r from-[#00C6F9] to-blue-600 p-8 rounded-2xl text-white",
+   "bg": "linear-gradient(to right, rgb(0, 198, 249) 0px, oklch(0.546 0.245 262.881) 100%)",
+   "rect": {
+    "x": 32,
+    "y": 3488.7,
+    "w": 960,
+    "h": 200
+   },
+   "opacity": "1"
+  }
+ ],
+ "__bodyFont": "Arial, Helvetica, sans-serif",
+ "__title": "",
+ "__requests": [
+  {
+   "url": "https://www.igtpw.com/pressure-washing",
+   "status": 200,
+   "type": "document",
+   "ct": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/css/41db7881dd6f82c1.css",
+   "status": 200,
+   "type": "stylesheet",
+   "ct": "text/css; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/media/569ce4b8f30dc480-s.p.woff2",
+   "status": 200,
+   "type": "font",
+   "ct": "font/woff2"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/media/93f479601ee12b01-s.p.woff2",
+   "status": 200,
+   "type": "font",
+   "ct": "font/woff2"
+  },
+  {
+   "url": "https://www.igtpw.com/images/uft.png",
+   "status": 200,
+   "type": "image",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://www.igtpw.com/images/305.png",
+   "status": 200,
+   "type": "image",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://www.igtpw.com/images/effff.jpg",
+   "status": 200,
+   "type": "image",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://www.igtpw.com/images/2.jpeg",
+   "status": 200,
+   "type": "image",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://www.igtpw.com/images/3.jpeg",
+   "status": 200,
+   "type": "image",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://www.igtpw.com/images/1.jpeg",
+   "status": 200,
+   "type": "image",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://www.igtpw.com/images/4.jpeg",
+   "status": 200,
+   "type": "image",
+   "ct": "image/jpeg"
+  },
+  {
+   "url": "https://www.igtpw.com/images/299-1024x683-1.png",
+   "status": 200,
+   "type": "image",
+   "ct": "image/png"
+  },
+  {
+   "url": "https://www.igtpw.com/images/pages-bg.jpg",
+   "status": 404,
+   "type": "image",
+   "ct": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/8e1d74a4-609a7c43eca95340.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/webpack-c688c51a6e93d510.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/1684-d693fd4fde385a87.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/main-app-95e2b159ebf7d3ba.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/6766-9c4871887e630e55.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/8341-adeae4915e4eb283.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/4bd1b696-ab426af00803f660.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/app/layout-d2dec3d7c7ca045c.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/6874-865d7d001404e6d7.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/3484-7cdd3fdc586d4670.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/app/pressure-washing/page-f9e1ce1f75d6445b.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/1741-4942237f59ca86ab.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/3770.95bd754a94cb2e55.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/static/chunks/dc112a36.5795b65cbbaa187e.js",
+   "status": 200,
+   "type": "script",
+   "ct": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/image?url=%2Fimages%2Ffooter-image.png&w=128&q=75",
+   "status": 200,
+   "type": "image",
+   "ct": "image/webp"
+  },
+  {
+   "url": "https://www.igtpw.com/_next/image?url=%2Fimages%2Fuft.png&w=128&q=75",
+   "status": 200,
+   "type": "image",
+   "ct": "image/webp"
+  }
+ ],
+ "__loadMs": 8897
+}

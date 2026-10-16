@@ -1,0 +1,152 @@
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
+  [7196],
+  {
+    462: (e, t, s) => {
+      "use strict";
+      (s.r(t), s.d(t, { default: () => o }));
+      var a = s(5155),
+        i = s(1741);
+      (s(6851), s(4094));
+      var r = s(6766),
+        l = s(351);
+      let n = () =>
+          (0, a.jsx)("section", {
+            className: "py-16 px-4 sm:px-6 lg:py-24 bg-gradient-to-b from-gray-50 to-white",
+            children: (0, a.jsxs)("div", {
+              className: "max-w-7xl mx-auto",
+              children: [
+                (0, a.jsxs)(i.P.div, {
+                  initial: { opacity: 0, y: 20 },
+                  whileInView: { opacity: 1, y: 0 },
+                  transition: { duration: 0.6 },
+                  className: "text-center mb-16",
+                  children: [
+                    (0, a.jsx)("h2", {
+                      className: "text-3xl lg:text-4xl font-bold text-gray-900 mb-4",
+                      children: "Got Dirty Concrete? We've Got You Covered!",
+                    }),
+                    (0, a.jsx)("p", {
+                      className: "text-lg lg:text-xl text-gray-600 max-w-2xl mx-auto mb-6",
+                      children:
+                        "Bring your concrete surfaces back to life with the help of IGotThePowerWasher! Whether it’s dirt, grime, or tough stains, our expert team in Cincinnati, OH specializes in making your concrete, sidewalks, and more look brand new.",
+                    }),
+                    (0, a.jsxs)("p", {
+                      className: "text-lg lg:text-xl text-gray-600 max-w-2xl mx-auto",
+                      children: [
+                        "Call ",
+                        (0, a.jsx)("span", { className: "text-[#00c6f9] font-semibold", children: "513-570-0355" }),
+                        " now to book your concrete pressure washing service! We proudly serve home and business owners across Cincinnati, OH, and surrounding areas.",
+                      ],
+                    }),
+                  ],
+                }),
+                (0, a.jsxs)("div", {
+                  className: "flex flex-col lg:flex-row gap-8 lg:gap-12 items-center",
+                  children: [
+                    (0, a.jsxs)(i.P.div, {
+                      initial: { opacity: 0, x: -50 },
+                      whileInView: { opacity: 1, x: 0 },
+                      transition: { duration: 0.6 },
+                      className: "w-full lg:w-1/2 space-y-6 order-2 lg:order-1",
+                      children: [
+                        (0, a.jsx)("h3", {
+                          className: "text-2xl lg:text-3xl font-semibold text-gray-900",
+                          children: "Let’s Make Your Surfaces Shine!",
+                        }),
+                        (0, a.jsx)("p", {
+                          className: "text-gray-600",
+                          children: "There’s no concrete surface we can’t tackle! Count on us for:",
+                        }),
+                        (0, a.jsx)("div", {
+                          className: "grid grid-cols-1 sm:grid-cols-2 gap-4",
+                          children: ["Driveways", "Sidewalks", "Walkways", "Patios", "Porches", "Pavers", "Brick", "Stamped Concrete"].map(
+                            (e, t) =>
+                              (0, a.jsxs)(
+                                "div",
+                                {
+                                  className: "flex items-start gap-2",
+                                  children: [
+                                    (0, a.jsx)(l.A3x, { className: "w-5 h-5 text-[#00c6f9] flex-shrink-0 mt-1" }),
+                                    (0, a.jsx)("span", { className: "text-gray-600", children: e }),
+                                  ],
+                                },
+                                t,
+                              ),
+                          ),
+                        }),
+                        (0, a.jsx)("p", {
+                          className: "text-gray-600",
+                          children: "Ready for a fresh start? Contact IGotThePowerWasher today!",
+                        }),
+                        (0, a.jsxs)("a", {
+                          href: "tel:513-570-0355",
+                          className:
+                            "inline-flex items-center gap-3 bg-gradient-to-r from-[#00c6f9] to-cyan-600 text-white px-6 py-3 lg:px-8 lg:py-4 rounded-lg lg:rounded-xl text-base lg:text-lg font-bold shadow-md hover:shadow-lg hover:-translate-y-1 transition-all",
+                          children: [(0, a.jsx)(l.wnV, { className: "w-5 h-5 lg:w-6 lg:h-6" }), "Schedule Free Consultation"],
+                        }),
+                      ],
+                    }),
+                    (0, a.jsx)(i.P.div, {
+                      initial: { opacity: 0, x: 50 },
+                      whileInView: { opacity: 1, x: 0 },
+                      transition: { duration: 0.6 },
+                      viewport: { once: !1, amount: 0.2 },
+                      className: "w-full lg:w-1/2 order-1 lg:order-2 mb-8 lg:mb-0",
+                      children: (0, a.jsxs)("div", {
+                        className: "relative h-[300px] lg:h-[500px] rounded-xl overflow-hidden shadow-xl lg:shadow-2xl",
+                        children: [
+                          (0, a.jsx)(r.default, {
+                            src: "/images/1252.jpg",
+                            alt: "Concrete power washing",
+                            fill: !0,
+                            className: "object-cover",
+                            sizes: "(max-width: 768px) 100vw, 50vw",
+                            priority: !0,
+                          }),
+                          (0, a.jsx)("div", { className: "absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" }),
+                        ],
+                      }),
+                    }),
+                  ],
+                }),
+              ],
+            }),
+          }),
+        o = () =>
+          (0, a.jsxs)("div", {
+            className: "bg-white",
+            children: [
+              (0, a.jsxs)("div", {
+                className:
+                  "relative flex items-center justify-center min-h-[60vh] bg-[#00C6F9] to-white bg-center bg-no-repeat bg-cover z-0",
+                children: [
+                  (0, a.jsx)("div", {
+                    className:
+                      "absolute inset-0 bg-[url('/images/pages-bg.jpg')] bg-center bg-no-repeat bg-cover opacity-[0.26] transition-all duration-300",
+                  }),
+                  (0, a.jsx)("div", {
+                    className: "relative z-10 text-center",
+                    children: (0, a.jsx)(i.P.h1, {
+                      className: "text-white text-5xl font-bold mb-4",
+                      initial: { opacity: 0, y: -50 },
+                      whileInView: { opacity: 1, y: 0 },
+                      transition: { duration: 1, ease: "easeOut" },
+                      viewport: { once: !0 },
+                      children: "Concrete Pressure Washing Services in Cincinnati, Ohio",
+                    }),
+                  }),
+                ],
+              }),
+              (0, a.jsx)(n, {}),
+            ],
+          });
+    },
+    4424: (e, t, s) => {
+      Promise.resolve().then(s.bind(s, 462));
+    },
+  },
+  (e) => {
+    var t = (t) => e((e.s = t));
+    (e.O(0, [844, 1741, 6766, 6874, 9143, 8441, 1684, 7358], () => t(4424)), (_N_E = e.O()));
+  },
+]);

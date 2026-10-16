@@ -1,0 +1,513 @@
+(self.webpackChunk_N_E = self.webpackChunk_N_E || []).push([
+  [6359],
+  {
+    4339: (e, t, r) => {
+      Promise.resolve().then(r.bind(r, 7459));
+    },
+    4436: (e, t, r) => {
+      "use strict";
+      r.d(t, { k5: () => d });
+      var n = r(2115),
+        a = { color: void 0, size: void 0, className: void 0, style: void 0, attr: void 0 },
+        i = n.createContext && n.createContext(a),
+        s = ["attr", "size", "title"];
+      function l() {
+        return (l = Object.assign
+          ? Object.assign.bind()
+          : function (e) {
+              for (var t = 1; t < arguments.length; t++) {
+                var r = arguments[t];
+                for (var n in r) Object.prototype.hasOwnProperty.call(r, n) && (e[n] = r[n]);
+              }
+              return e;
+            }).apply(this, arguments);
+      }
+      function o(e, t) {
+        var r = Object.keys(e);
+        if (Object.getOwnPropertySymbols) {
+          var n = Object.getOwnPropertySymbols(e);
+          (t &&
+            (n = n.filter(function (t) {
+              return Object.getOwnPropertyDescriptor(e, t).enumerable;
+            })),
+            r.push.apply(r, n));
+        }
+        return r;
+      }
+      function c(e) {
+        for (var t = 1; t < arguments.length; t++) {
+          var r = null != arguments[t] ? arguments[t] : {};
+          t % 2
+            ? o(Object(r), !0).forEach(function (t) {
+                var n, a, i;
+                ((n = e),
+                  (a = t),
+                  (i = r[t]),
+                  (a = (function (e) {
+                    var t = (function (e, t) {
+                      if ("object" != typeof e || !e) return e;
+                      var r = e[Symbol.toPrimitive];
+                      if (void 0 !== r) {
+                        var n = r.call(e, t || "default");
+                        if ("object" != typeof n) return n;
+                        throw TypeError("@@toPrimitive must return a primitive value.");
+                      }
+                      return ("string" === t ? String : Number)(e);
+                    })(e, "string");
+                    return "symbol" == typeof t ? t : t + "";
+                  })(a)) in n
+                    ? Object.defineProperty(n, a, { value: i, enumerable: !0, configurable: !0, writable: !0 })
+                    : (n[a] = i));
+              })
+            : Object.getOwnPropertyDescriptors
+              ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(r))
+              : o(Object(r)).forEach(function (t) {
+                  Object.defineProperty(e, t, Object.getOwnPropertyDescriptor(r, t));
+                });
+        }
+        return e;
+      }
+      function d(e) {
+        return (t) =>
+          n.createElement(
+            m,
+            l({ attr: c({}, e.attr) }, t),
+            (function e(t) {
+              return t && t.map((t, r) => n.createElement(t.tag, c({ key: r }, t.attr), e(t.child)));
+            })(e.child),
+          );
+      }
+      function m(e) {
+        var t = (t) => {
+          var r,
+            { attr: a, size: i, title: o } = e,
+            d = (function (e, t) {
+              if (null == e) return {};
+              var r,
+                n,
+                a = (function (e, t) {
+                  if (null == e) return {};
+                  var r = {};
+                  for (var n in e)
+                    if (Object.prototype.hasOwnProperty.call(e, n)) {
+                      if (t.indexOf(n) >= 0) continue;
+                      r[n] = e[n];
+                    }
+                  return r;
+                })(e, t);
+              if (Object.getOwnPropertySymbols) {
+                var i = Object.getOwnPropertySymbols(e);
+                for (n = 0; n < i.length; n++)
+                  ((r = i[n]), !(t.indexOf(r) >= 0) && Object.prototype.propertyIsEnumerable.call(e, r) && (a[r] = e[r]));
+              }
+              return a;
+            })(e, s),
+            m = i || t.size || "1em";
+          return (
+            t.className && (r = t.className),
+            e.className && (r = (r ? r + " " : "") + e.className),
+            n.createElement(
+              "svg",
+              l({ stroke: "currentColor", fill: "currentColor", strokeWidth: "0" }, t.attr, a, d, {
+                className: r,
+                style: c(c({ color: e.color || t.color }, t.style), e.style),
+                height: m,
+                width: m,
+                xmlns: "http://www.w3.org/2000/svg",
+              }),
+              o && n.createElement("title", null, o),
+              e.children,
+            )
+          );
+        };
+        return void 0 !== i ? n.createElement(i.Consumer, null, (e) => t(e)) : t(a);
+      }
+    },
+    7459: (e, t, r) => {
+      "use strict";
+      (r.r(t), r.d(t, { default: () => x }));
+      var n = r(5155),
+        a = r(1741),
+        i = r(9911),
+        s = r(2115);
+      let l = s.forwardRef(function (e, t) {
+          let { title: r, titleId: n, ...a } = e;
+          return s.createElement(
+            "svg",
+            Object.assign(
+              {
+                xmlns: "http://www.w3.org/2000/svg",
+                fill: "none",
+                viewBox: "0 0 24 24",
+                strokeWidth: 1.5,
+                stroke: "currentColor",
+                "aria-hidden": "true",
+                "data-slot": "icon",
+                ref: t,
+                "aria-labelledby": n,
+              },
+              a,
+            ),
+            r ? s.createElement("title", { id: n }, r) : null,
+            s.createElement("path", {
+              strokeLinecap: "round",
+              strokeLinejoin: "round",
+              d: "M12 6v12m-3-2.818.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z",
+            }),
+          );
+        }),
+        o = s.forwardRef(function (e, t) {
+          let { title: r, titleId: n, ...a } = e;
+          return s.createElement(
+            "svg",
+            Object.assign(
+              {
+                xmlns: "http://www.w3.org/2000/svg",
+                fill: "none",
+                viewBox: "0 0 24 24",
+                strokeWidth: 1.5,
+                stroke: "currentColor",
+                "aria-hidden": "true",
+                "data-slot": "icon",
+                ref: t,
+                "aria-labelledby": n,
+              },
+              a,
+            ),
+            r ? s.createElement("title", { id: n }, r) : null,
+            s.createElement("path", {
+              strokeLinecap: "round",
+              strokeLinejoin: "round",
+              d: "M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z",
+            }),
+          );
+        }),
+        c = s.forwardRef(function (e, t) {
+          let { title: r, titleId: n, ...a } = e;
+          return s.createElement(
+            "svg",
+            Object.assign(
+              {
+                xmlns: "http://www.w3.org/2000/svg",
+                fill: "none",
+                viewBox: "0 0 24 24",
+                strokeWidth: 1.5,
+                stroke: "currentColor",
+                "aria-hidden": "true",
+                "data-slot": "icon",
+                ref: t,
+                "aria-labelledby": n,
+              },
+              a,
+            ),
+            r ? s.createElement("title", { id: n }, r) : null,
+            s.createElement("path", {
+              strokeLinecap: "round",
+              strokeLinejoin: "round",
+              d: "M9 12.75 11.25 15 15 9.75m-3-7.036A11.959 11.959 0 0 1 3.598 6 11.99 11.99 0 0 0 3 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285Z",
+            }),
+          );
+        }),
+        d = s.forwardRef(function (e, t) {
+          let { title: r, titleId: n, ...a } = e;
+          return s.createElement(
+            "svg",
+            Object.assign(
+              {
+                xmlns: "http://www.w3.org/2000/svg",
+                fill: "none",
+                viewBox: "0 0 24 24",
+                strokeWidth: 1.5,
+                stroke: "currentColor",
+                "aria-hidden": "true",
+                "data-slot": "icon",
+                ref: t,
+                "aria-labelledby": n,
+              },
+              a,
+            ),
+            r ? s.createElement("title", { id: n }, r) : null,
+            s.createElement("path", {
+              strokeLinecap: "round",
+              strokeLinejoin: "round",
+              d: "M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z",
+            }),
+          );
+        }),
+        m = s.forwardRef(function (e, t) {
+          let { title: r, titleId: n, ...a } = e;
+          return s.createElement(
+            "svg",
+            Object.assign(
+              {
+                xmlns: "http://www.w3.org/2000/svg",
+                fill: "none",
+                viewBox: "0 0 24 24",
+                strokeWidth: 1.5,
+                stroke: "currentColor",
+                "aria-hidden": "true",
+                "data-slot": "icon",
+                ref: t,
+                "aria-labelledby": n,
+              },
+              a,
+            ),
+            r ? s.createElement("title", { id: n }, r) : null,
+            s.createElement("path", {
+              strokeLinecap: "round",
+              strokeLinejoin: "round",
+              d: "M9 12.75 11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 0 1-1.043 3.296 3.745 3.745 0 0 1-3.296 1.043A3.745 3.745 0 0 1 12 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 0 1-3.296-1.043 3.745 3.745 0 0 1-1.043-3.296A3.745 3.745 0 0 1 3 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 0 1 1.043-3.296 3.746 3.746 0 0 1 3.296-1.043A3.746 3.746 0 0 1 12 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 0 1 3.296 1.043 3.746 3.746 0 0 1 1.043 3.296A3.745 3.745 0 0 1 21 12Z",
+            }),
+          );
+        }),
+        u = () => {
+          let e = { initial: { opacity: 0, y: 20 }, animate: { opacity: 1, y: 0 } };
+          return (0, n.jsx)("div", {
+            className: "bg-gradient-to-b from-gray-50 to-white",
+            children: (0, n.jsxs)(a.P.div, {
+              initial: "initial",
+              whileInView: "animate",
+              viewport: { once: !0, margin: "-100px" },
+              className: "max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16",
+              children: [
+                (0, n.jsxs)(a.P.div, {
+                  variants: e,
+                  className: "text-center mb-16",
+                  children: [
+                    (0, n.jsx)("h1", {
+                      className:
+                        "text-4xl md:text-5xl font-bold bg-gradient-to-r from-[#00C6F9] to-blue-600 bg-clip-text text-transparent mb-6",
+                      children: "Annual Maintenance Program",
+                    }),
+                    (0, n.jsx)("p", {
+                      className: "text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed",
+                      children: "Protect your investment and enjoy year-round peace of mind with our comprehensive maintenance solution.",
+                    }),
+                  ],
+                }),
+                (0, n.jsx)(a.P.div, {
+                  variants: e,
+                  className: "grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-20",
+                  children: [
+                    { title: "Save Money", icon: l, text: "Average 35% off regular pricing" },
+                    { title: "Save Time", icon: o, text: "We handle scheduling & reminders" },
+                    { title: "Health & Safety", icon: c, text: "Reduce allergens & hazards" },
+                    { title: "VIP Treatment", icon: d, text: "Priority scheduling & special offers" },
+                  ].map((e, t) => {
+                    let { title: r, icon: a, text: i } = e;
+                    return (0, n.jsxs)(
+                      "div",
+                      {
+                        className: "bg-white p-6 rounded-xl shadow-lg border border-gray-100",
+                        children: [
+                          (0, n.jsx)(a, { className: "h-12 w-12 text-[#00C6F9] mb-4" }),
+                          (0, n.jsx)("h3", { className: "text-xl font-semibold mb-2 text-gray-700", children: r }),
+                          (0, n.jsx)("p", { className: "text-gray-600", children: i }),
+                        ],
+                      },
+                      t,
+                    );
+                  }),
+                }),
+                (0, n.jsxs)(a.P.div, {
+                  variants: e,
+                  className: "space-y-12",
+                  children: [
+                    (0, n.jsxs)("section", {
+                      children: [
+                        (0, n.jsx)("h2", {
+                          className: "text-3xl font-bold text-gray-900 mb-6 pl-4 border-l-4 border-[#00C6F9]",
+                          children: "Comprehensive Care Package",
+                        }),
+                        (0, n.jsx)("div", {
+                          className: "bg-white rounded-2xl p-8 shadow-lg",
+                          children: (0, n.jsxs)("div", {
+                            className: "grid md:grid-cols-2 gap-8",
+                            children: [
+                              (0, n.jsxs)("div", {
+                                children: [
+                                  (0, n.jsx)("h3", { className: "text-2xl font-semibold mb-4 text-gray-800", children: "How It Works" }),
+                                  (0, n.jsx)("ul", {
+                                    className: "space-y-4",
+                                    children: [
+                                      "Free property assessment & customized plan",
+                                      "Flexible scheduling (monthly, quarterly, annually)",
+                                      "Automated reminders & priority booking",
+                                      "Dedicated account manager",
+                                    ].map((e, t) =>
+                                      (0, n.jsxs)(
+                                        "li",
+                                        {
+                                          className: "flex items-start space-x-3",
+                                          children: [
+                                            (0, n.jsx)(m, { className: "h-6 w-6 text-green-500 flex-shrink-0" }),
+                                            (0, n.jsx)("span", { className: "text-gray-600", children: e }),
+                                          ],
+                                        },
+                                        t,
+                                      ),
+                                    ),
+                                  }),
+                                ],
+                              }),
+                              (0, n.jsxs)("div", {
+                                children: [
+                                  (0, n.jsx)("h3", {
+                                    className: "text-2xl font-semibold mb-4 text-gray-800",
+                                    children: "Included Services",
+                                  }),
+                                  (0, n.jsx)("div", {
+                                    className: "overflow-hidden rounded-lg border border-gray-200",
+                                    children: (0, n.jsx)("table", {
+                                      className: "w-full",
+                                      children: (0, n.jsx)("tbody", {
+                                        className: "divide-y divide-gray-200",
+                                        children: [
+                                          ["Pressure Washing", "1x/year"],
+                                          ["House Washing", "1x/year"],
+                                          ["Roof Washing", "1x/year"],
+                                          ["Window Cleaning", "Custom"],
+                                          ["Gutter Cleaning", "2x/year"],
+                                        ].map((e, t) => {
+                                          let [r, a] = e;
+                                          return (0, n.jsxs)(
+                                            "tr",
+                                            {
+                                              children: [
+                                                (0, n.jsx)("td", { className: "px-4 py-3 font-medium text-gray-900", children: r }),
+                                                (0, n.jsx)("td", { className: "px-4 py-3 text-gray-600", children: a }),
+                                              ],
+                                            },
+                                            t,
+                                          );
+                                        }),
+                                      }),
+                                    }),
+                                  }),
+                                ],
+                              }),
+                            ],
+                          }),
+                        }),
+                      ],
+                    }),
+                    [
+                      {
+                        title: "Pressure Washing",
+                        benefits: [
+                          "Restores surfaces to like-new condition",
+                          "Eliminates safety hazards",
+                          "Enhances curb appeal",
+                          "Prevents long-term damage",
+                        ],
+                      },
+                      {
+                        title: "House Washing",
+                        benefits: ["Protects siding & surfaces", "Improves indoor air quality", "Maintains property value"],
+                      },
+                      {
+                        title: "Roof Washing",
+                        benefits: ["Extends roof lifespan", "Improves energy efficiency", "Enhances visual appeal"],
+                      },
+                      { title: "Window Cleaning", benefits: ["Maximizes natural light", "Protects glass surfaces", "Boosts curb appeal"] },
+                      { title: "Gutter Cleaning", benefits: ["Prevents water damage", "Reduces pest infestations", "Extends gutter life"] },
+                    ].map((e, t) =>
+                      (0, n.jsxs)(
+                        "section",
+                        {
+                          children: [
+                            (0, n.jsx)("h3", { className: "text-2xl font-semibold text-gray-900 mb-4", children: e.title }),
+                            (0, n.jsx)("div", {
+                              className: "grid sm:grid-cols-2 lg:grid-cols-4 gap-4",
+                              children: e.benefits.map((e, t) =>
+                                (0, n.jsx)(
+                                  "div",
+                                  {
+                                    className: "bg-gray-50 p-4 rounded-lg",
+                                    children: (0, n.jsx)("p", { className: "text-gray-700", children: e }),
+                                  },
+                                  t,
+                                ),
+                              ),
+                            }),
+                          ],
+                        },
+                        t,
+                      ),
+                    ),
+                    (0, n.jsxs)(a.P.div, {
+                      initial: { scale: 0.95 },
+                      whileInView: { scale: 1 },
+                      className: "bg-gradient-to-r from-[#00C6F9] to-blue-600 rounded-2xl p-8 text-center text-white shadow-xl",
+                      children: [
+                        (0, n.jsx)("h2", { className: "text-3xl font-bold mb-4", children: "Ready to Get Started?" }),
+                        (0, n.jsx)("p", { className: "text-xl mb-8", children: "Join our community of satisfied homeowners" }),
+                        (0, n.jsx)("button", {
+                          className: "bg-white text-[#00C6F9] px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors",
+                          children: "Schedule Free Consultation",
+                        }),
+                      ],
+                    }),
+                  ],
+                }),
+              ],
+            }),
+          });
+        },
+        x = () =>
+          (0, n.jsxs)("div", {
+            children: [
+              (0, n.jsxs)("div", {
+                className:
+                  "relative flex items-center justify-center min-h-[60vh] bg-gradient-to-r from-[#00C6F9] to-white bg-center bg-no-repeat bg-cover z-0",
+                children: [
+                  (0, n.jsx)("div", {
+                    className:
+                      "absolute inset-0 bg-[url('/images/pages-bg.jpg')] bg-center bg-no-repeat bg-cover opacity-[0.26] transition-all duration-300",
+                  }),
+                  (0, n.jsxs)("div", {
+                    className: "relative z-10 text-center",
+                    children: [
+                      (0, n.jsx)(a.P.h1, {
+                        className: "text-white text-5xl font-bold mb-4",
+                        initial: { opacity: 0, y: -50 },
+                        whileInView: { opacity: 1, y: 0 },
+                        transition: { duration: 1, ease: "easeOut" },
+                        viewport: { once: !0 },
+                        children: "Annual Maintenance Program",
+                      }),
+                      (0, n.jsx)(a.P.div, {
+                        className: "flex justify-center text-white text-md font_barlow font-semibold text-opacity-85",
+                        initial: { opacity: 0, y: 50 },
+                        whileInView: { opacity: 1, y: 0 },
+                        transition: { duration: 1, ease: "easeOut", delay: 0.5 },
+                        viewport: { once: !0 },
+                        children: (0, n.jsxs)("div", {
+                          className: "flex gap-2 items-center",
+                          children: [
+                            "About Us",
+                            (0, n.jsx)(a.P.span, {
+                              initial: { opacity: 0, y: 50 },
+                              whileInView: { opacity: 1, y: 0 },
+                              transition: { duration: 1, ease: "easeOut", delay: 0.8 },
+                              viewport: { once: !0 },
+                              children: (0, n.jsx)(i.eW4, { className: "text-lg text-sky-300" }),
+                            }),
+                            "Annual Maintenance Program",
+                          ],
+                        }),
+                      }),
+                    ],
+                  }),
+                ],
+              }),
+              (0, n.jsx)(u, {}),
+            ],
+          });
+    },
+  },
+  (e) => {
+    var t = (t) => e((e.s = t));
+    (e.O(0, [6711, 1741, 8441, 1684, 7358], () => t(4339)), (_N_E = e.O()));
+  },
+]);
