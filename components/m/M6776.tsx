@@ -1,0 +1,318 @@
+// @ts-nocheck
+/* eslint-disable */
+"use client";
+// Unbundled from igtpw.com chunk app__pressure-washing__page-f9e1ce1f75d6445b.js, webpack module 6776.
+import dynamic from "next/dynamic";
+import { motion } from "framer-motion";
+import { FaLongArrowAltRight } from "react-icons/fa";
+import { A as M6851_v5_A } from "./M6851_v5";
+import lottie_comp_15_1 from "@/lib/lottie/m/M6776-comp-15.json";
+
+let l = lottie_comp_15_1,
+  CM_ = dynamic(() => import("lottie-react"), {
+    loadableGenerated: {
+      webpack: () => [3770],
+    },
+    ssr: !1,
+  }),
+  CX_ = () => {
+    let i = {
+      offscreen: {
+        opacity: 0,
+        y: 50,
+      },
+      onscreen: {
+        opacity: 1,
+        y: 0,
+        transition: {
+          duration: 0.6,
+        },
+      },
+    };
+    return (
+      <div className="bg-gradient-to-b from-gray-50 to-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+          <motion.div
+            initial="offscreen"
+            whileInView="onscreen"
+            viewport={{
+              once: !0,
+              amount: 0.5,
+            }}
+            className="text-center mb-16"
+          >
+            <h2 className="text-4xl font-bold bg-gradient-to-r from-[#00C6F9] to-blue-600 bg-clip-text text-transparent mb-6">
+              {"Professional Pressure Washing in Cincinnati"}
+            </h2>
+            <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
+              {
+                "At I Got The Power Washer, we provide more than just standard pressure washing. Our advanced techniques and high-output equipment ensure a deep, thorough clean while protecting your surfaces for the long term."
+              }
+            </p>
+            <div className="flex justify-center mb-12">
+              <CM_ animationData={l} loop={!0} autoplay={!0} className="w-64 h-64 sm:w-80 sm:h-80" />
+            </div>
+          </motion.div>
+          <motion.section
+            variants={i}
+            initial="offscreen"
+            whileInView="onscreen"
+            viewport={{
+              once: !0,
+            }}
+            className="mb-20"
+          >
+            <div className="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
+              <h3 className="text-3xl font-semibold text-gray-800 mb-6">{"Best Cincinnati Pressure Washing Company - Our Vision"}</h3>
+              <p className="text-lg text-gray-700 leading-relaxed mb-8">
+                {
+                  "I Got Power Washer is the name of trust and peerless services when it comes to the pressure washing business in Cincinnati. We are a team of highly trained professionals with years of professional experience. We aim to create a healthy and clean community, and our service providers love cleaning, so every wash is washed with love and passion."
+                }
+              </p>
+              <div className="grid md:grid-cols-2 gap-12 items-center">
+                <div className="space-y-6">
+                  <div>
+                    <h4 className="text-2xl font-semibold text-gray-800 mb-4">{"Remote Jobs Available"}</h4>
+                    <p className="text-gray-700 leading-relaxed">
+                      {
+                        "No water source? No problem. We can haul our own water for jobs in remote areas where access is limited. Our high-capacity water transport system allows us to complete thorough cleanings anywhere. Additional charges may apply for this service."
+                      }
+                    </p>
+                  </div>
+                  <img src="/images/305.png" alt="Pressure Washing" className="rounded-xl shadow-lg hover:shadow-xl transition-shadow" />
+                </div>
+                <div className="space-y-6">
+                  <div>
+                    <h4 className="text-2xl font-semibold text-gray-800 mb-4">{"Why Choose Us"}</h4>
+                    <ul className="space-y-4">
+                      <li className="flex items-start space-x-3">
+                        <div className="flex-shrink-0 w-6 h-6 bg-[#00C6F9] rounded-full mt-1" />
+                        <div className="text-black">
+                          <strong className="text-black">{"High-Performance Equipment:"}</strong>
+                          {
+                            " We use industry-leading pressure washers with up to 23 GPM output, cleaning efficiently without surface damage."
+                          }
+                        </div>
+                      </li>
+                      <li className="flex items-start space-x-3">
+                        <div className="flex-shrink-0 w-6 h-6 bg-[#00C6F9] rounded-full mt-1" />
+                        <div className="text-black">
+                          <strong className="text-black">{"Post-Treatment Protection:"}</strong>
+                          {" Our specialized treatment eliminates organic growth at the root, preventing premature buildup."}
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                  <img
+                    src="/images/299-1024x683-1.png"
+                    alt="House Washing"
+                    className="rounded-xl shadow-lg hover:shadow-xl transition-shadow"
+                  />
+                </div>
+              </div>
+            </div>
+          </motion.section>
+          <motion.section
+            variants={i}
+            initial="offscreen"
+            whileInView="onscreen"
+            viewport={{
+              once: !0,
+            }}
+            className="mb-20"
+          >
+            <div className="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
+              <h2 className="text-3xl font-bold text-gray-800 mb-8">{"Comprehensive Pressure Washing Services"}</h2>
+              <div className="grid md:grid-cols-2 gap-8">
+                <div>
+                  <p className="text-lg text-gray-700 leading-relaxed mb-6">
+                    {
+                      "We are committed to delivering perfection with our pressure wash services. From small residential jobs to large commercial projects, we offer:"
+                    }
+                  </p>
+                  <ul className="columns-2 gap-8 text-black">
+                    {[
+                      "Roof cleaning",
+                      "Fence cleaning",
+                      "House clean",
+                      "Solar panel cleaning",
+                      "Stain removals",
+                      "Sealing services",
+                      "Fleet cleaning",
+                    ].map((i, a) => (
+                      <li className="flex items-center mb-3" key={a}>
+                        <svg className="w-4 h-4 text-[#00C6F9] mr-2" fill="currentColor" viewBox="0 0 20 20">
+                          <path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" />
+                        </svg>
+                        {i}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+                <div className="space-y-6">
+                  <h3 className="text-2xl font-semibold text-gray-800">{"Service Areas"}</h3>
+                  <ul className="grid grid-cols-2 gap-4 text-black">
+                    {["Hamilton County", "Clermont County", "Butler County", "Warren County", "Montgomery County"].map((i, a) => (
+                      <li className="flex items-center bg-gray-50 p-3 rounded-lg" key={a}>
+                        <span className="text-[#00C6F9] mr-2">{"▹"}</span>
+                        {i}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </motion.section>
+          <motion.section
+            variants={i}
+            initial="offscreen"
+            whileInView="onscreen"
+            viewport={{
+              once: !0,
+            }}
+            className="mb-20"
+          >
+            <div className="bg-white rounded-2xl p-8 shadow-lg border border-gray-100">
+              <h2 className="text-3xl font-bold text-gray-800 mb-8">{"Advanced Cleaning Technology"}</h2>
+              <div className="grid md:grid-cols-2 gap-8">
+                <div className="space-y-6">
+                  <p className="text-gray-700 leading-relaxed">{"Our service offerings rely on cutting-edge equipment including:"}</p>
+                  <ul className="space-y-4">
+                    <li className="flex items-start text-black">
+                      <div className="bg-[#00C6F9] text-white p-2 rounded-lg mr-4">{"\uD83D\uDD25"}</div>
+                      <div>
+                        <strong className="text-black">{"Hot/Cold Washers:"}</strong>
+                        {" For grease removal and general cleaning"}
+                      </div>
+                    </li>
+                    <li className="flex items-start">
+                      <div className="bg-[#00C6F9] text-white p-2 rounded-lg mr-4">{"\uD83D\uDEBF"}</div>
+                      <div className="text-black">
+                        <strong className="text-black">{"High-Pressure Nozzles:"}</strong>
+                        {" Up to 4000 PSI force"}
+                      </div>
+                    </li>
+                    <li className="flex items-start">
+                      <div className="bg-[#00C6F9] text-white p-2 rounded-lg mr-4">{"\uD83D\uDE9A"}</div>
+                      <div className="text-black">
+                        <strong className="text-black">{"Specialized Fleet:"}</strong>
+                        {" Mobile cleaning solutions"}
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <img src="/images/effff.jpg" alt="Cleaning Technology" className="rounded-xl shadow-lg hover:shadow-xl transition-shadow" />
+              </div>
+            </div>
+          </motion.section>
+          <motion.section
+            variants={i}
+            initial="offscreen"
+            whileInView="onscreen"
+            viewport={{
+              once: !0,
+            }}
+          >
+            <div className="bg-gradient-to-r from-[#00C6F9] to-blue-600 p-8 rounded-2xl text-white">
+              <blockquote className="text-xl italic mb-6">
+                {"“My walkway went from black and green to white—I couldn’t believe the difference! The results speak for themselves!”"}
+              </blockquote>
+              <p className="text-lg font-semibold">
+                {
+                  "“Andrew had my filthy house looking brand new in just a couple of hours. My brick went from black to glistening red—thank you so much!”"
+                }
+              </p>
+            </div>
+          </motion.section>
+        </div>
+      </div>
+    );
+  },
+  u = () => (
+    <div>
+      <div className="relative flex items-center justify-center min-h-[60vh] bg-[#00C6F9] to-white bg-center bg-no-repeat bg-cover z-0">
+        <div className="absolute inset-0 bg-[url('/images/pages-bg.jpg')] bg-center bg-no-repeat bg-cover opacity-[0.26] transition-all duration-300" />
+        <div className="relative z-10 text-center">
+          <motion.h1
+            className="text-white text-5xl font-bold mb-4"
+            initial={{
+              opacity: 0,
+              y: -50,
+            }}
+            whileInView={{
+              opacity: 1,
+              y: 0,
+            }}
+            transition={{
+              duration: 1,
+              ease: "easeOut",
+            }}
+            viewport={{
+              once: !0,
+            }}
+          >
+            {"Top-Quality Pressure Washing Services in Cincinnati, Ohio"}
+          </motion.h1>
+          <motion.div
+            className="flex justify-center text-white text-md font_barlow font-semibold text-opacity-85"
+            initial={{
+              opacity: 0,
+              y: 50,
+            }}
+            whileInView={{
+              opacity: 1,
+              y: 0,
+            }}
+            transition={{
+              duration: 1,
+              ease: "easeOut",
+              delay: 0.5,
+            }}
+            viewport={{
+              once: !0,
+            }}
+          >
+            <div className="flex gap-2 items-center">
+              {"Residential"}
+              <motion.span
+                initial={{
+                  opacity: 0,
+                  y: 50,
+                }}
+                whileInView={{
+                  opacity: 1,
+                  y: 0,
+                }}
+                transition={{
+                  duration: 1,
+                  ease: "easeOut",
+                  delay: 0.8,
+                }}
+                viewport={{
+                  once: !0,
+                }}
+              >
+                <FaLongArrowAltRight className="text-lg text-sky-300" />
+              </motion.span>
+              {"Pressure Washing"}
+            </div>
+          </motion.div>
+        </div>
+      </div>
+      <CX_ />
+      <M6851_v5_A
+        images={[
+          {
+            before: "/images/1.jpeg",
+            after: "/images/2.jpeg",
+          },
+          {
+            before: "/images/3.jpeg",
+            after: "/images/4.jpeg",
+          },
+        ]}
+      />
+    </div>
+  );
+
+export default u;
