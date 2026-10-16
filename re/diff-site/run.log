@@ -55,3 +55,33 @@
 /fence-washing                    768  h 2396/2396  px 0 (0%)  boxes 0/26  ERR console: Failed to load resource: the server responded with a status of 400 (Bad Request)
 /fence-washing                    390  h 3417/3417  px 0 (0%)  boxes 0/26  ERR console: Failed to load resource: the server responded with a status of 400 (Bad Request)
 /gallery                         1440  h 8252/8252  px 4091 (0.034%)  boxes 0/57
+/gallery                         1024  h 6862/6863  px 14766 (0.206%)  boxes 0/57
+/gallery                          768  h 6607/6607  px 0 (0%)  boxes 0/57
+/gallery                          390  h 9684/9684  px 0 (0%)  boxes 0/57
+/gas-station                     1440  h 2209/2209  px 0 (0%)  boxes 0/25
+/gas-station                     1024  h 2452/2452  px 0 (0%)  boxes 0/25
+/gas-station                      768  h 2519/2519  px 0 (0%)  boxes 0/25
+/gas-station                      390  h 3595/3595  px 0 (0%)  boxes 0/25
+/get-estimate                    1440  h 2295/2295  px 0 (0%)  boxes 0/24
+/get-estimate                    1024  h 2342/2342  px 0 (0%)  boxes 0/24
+/get-estimate                     768  h 2429/2429  px 0 (0%)  boxes 0/24
+/get-estimate                     390  h 3364/3364  px 0 (0%)  boxes 0/24
+/graffiti-removal                1440  h 2057/2057  px 0 (0%)  boxes 0/23
+/graffiti-removal                1024  h 2272/2272  px 0 (0%)  boxes 0/23
+/graffiti-removal                 768  h 2375/2375  px 0 (0%)  boxes 0/23
+/graffiti-removal                 390  h 3403/3403  px 0 (0%)  boxes 0/23
+/grease-removal                  1440  h 2057/2057  px 0 (0%)  boxes 0/23
+/grease-removal                  1024  h 2300/2300  px 0 (0%)  boxes 0/23
+/grease-removal                   768  h 2375/2375  px 0 (0%)  boxes 0/23
+/grease-removal                   390  h 3427/3427  px 0 (0%)  boxes 0/23
+/gum-removal                     1440  h 2057/2057  px 0 (0%)  boxes 0/23
+/gum-removal                     1024  h 2272/2272  px 0 (0%)  boxes 0/23
+/gum-removal                      768  h 2375/2375  px 0 (0%)  boxes 0/23
+/gum-removal                      390  h 3403/3403  px 0 (0%)  boxes 0/23
+/gutter-cleaning                 1440  h 2836/2836  px 0 (0%)  boxes 0/31
+/gutter-cleaning                 1024  h 2931/2931  px 0 (0%)  boxes 0/31
+/gutter-cleaning                  768  h 3086/3086  px 0 (0%)  boxes 0/31
+/gutter-cleaning                  390  h 4655/4655  px 0 (0%)  boxes 0/31
+/house-washing                   1440  h 5006/5006  px 0 (0%)  boxes 0/40
+/house-washing                   1024  h 4842/4842  px 0 (0%)  boxes 0/40
+/house-washing                    768  h 5230/5230  px 2 (0%)  boxes 0/40  ERR console: Permissions policy violation: compute-pressure is not allowed in this document.
