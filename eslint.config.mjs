@@ -10,7 +10,7 @@ const compat = new FlatCompat({
 });
 
 const eslintConfig = [
-  // Machine-unbundled modules from the original site and reverse-engineering material.
+  // Machine-unbundled modules from the original site and   reverse-engineering material.
   { ignores: ["components/m/**", "re/**"] },
   ...compat.extends("next/core-web-vitals", "next/typescript"),
   // The original site uses plain <a> elements for all navigation; kept for DOM parity.
