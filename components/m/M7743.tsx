@@ -94,13 +94,7 @@ let CC_ = (e) => {
     useEffect(() => {
       h(!0);
     }, []);
-    let v = async (e, s) =>
-        (
-          await a
-            .e(5518)
-            .then(a.bind(a, 5518))
-            .then((e) => e.default)
-        ).send("service_hfg808d", s, e, "lXocWKHRdG0LTuRkR"),
+    let v = async (e, s) => (await import("@/lib/emailjs").then((e) => e.default)).send("service_hfg808d", s, e, "lXocWKHRdG0LTuRkR"),
       C = async (s) => {
         if (p) {
           y(!0);

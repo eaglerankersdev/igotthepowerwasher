@@ -38,10 +38,7 @@ let d = () => {
       h(!0);
       try {
         var s;
-        let r = await a
-            .e(5518)
-            .then(a.bind(a, 5518))
-            .then((e) => e.default),
+        let r = await import("@/lib/emailjs").then((e) => e.default),
           t = null === (s = e.resume) || void 0 === s ? void 0 : s[0];
         if (!t) throw Error("Resume is required");
         if (

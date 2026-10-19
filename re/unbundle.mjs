@@ -224,10 +224,12 @@ function convertModule(id) {
       fnPath.traverse({
         CallExpression(p) {
           const n = p.node;
-          if (t.isMemberExpression(n.callee) && t.isIdentifier(n.callee.property, { name: "then" }) && t.isCallExpression(n.callee.object) && generate(n.callee.object).code.startsWith("Promise.all")) {
+          if (t.isMemberExpression(n.callee) && t.isIdentifier(n.callee.property, { name: "then" }) && t.isCallExpression(n.callee.object) && (generate(n.callee.object).code.startsWith("Promise.all") || /^\w+\.e\(\d+\)$/.test(generate(n.callee.object).code))) {
             const arg = n.arguments[0];
             const src = generate(arg).code;
-            const m = src.match(/\.bind\(\w+, (\d+), \d+\)/);
+            const m = src.match(/\.bind\(\w+, (\d+)(?:, \d+)?\)/);
+            if (m && m[1] === "5518") { p.replaceWith(t.callExpression(t.import(), [t.stringLiteral("@/lib/emailjs")])); return; }
+            if (m && m[1] === "8153") { p.replaceWith(t.callExpression(t.import(), [t.stringLiteral("@lottiefiles/react-lottie-player")])); return; }
             if (m && m[1] === "3770") {
               p.replaceWith(t.callExpression(t.import(), [t.stringLiteral("lottie-react")]));
               return;

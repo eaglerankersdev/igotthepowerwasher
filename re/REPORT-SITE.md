@@ -78,3 +78,19 @@ This preserves every class string, copy text, prop value, animation setting and 
 ## 7. Verification
 
 See `re/diff-site/summary.json` and the verification section appended below after each run.
+
+## 8. Verification results (2026-10-19)
+
+Original vs clone, Playwright Chromium, DPR 1, after an identical scroll pass. Lottie SVGs, video and iframes are hidden in both captures, and the homepage logo marquee animation is frozen in both.
+
+| Result | Routes × widths (1440, 1024, 768, 390) |
+|---|---|
+| 0 differing pixels, identical height, all element boxes within 1 px | 38 routes plus the 404 page |
+| `/gallery` 1440 and 1024 | 1 px vertical shift of the footer bottom line from sub-pixel page height (0.03% and 0.2% of pixels). 768 and 390 are identical. |
+| `/house-washing` 768 | 2 differing pixels |
+
+Homepage element boxes inside the marquee differ because they are measured while moving. Its pixels match after freezing.
+
+Behaviour: loader timeline, overlay, blur and Lottie sizing at 1440 and 390 match; empty-submit validation on all four forms matches; 25/25 nav, dropdown, mobile menu, slider and hover checks match on `/pressure-washing`.
+
+Fixes found by verification: missing assets with parentheses in their names (Google review avatars), conflicting module variants across deploys, server-rendered heroes on `/about-us` and `/career` recovered from the RSC payload, and the `@lottiefiles/react-lottie-player` and EmailJS dynamic imports.

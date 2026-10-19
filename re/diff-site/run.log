@@ -102,3 +102,61 @@
 /post-construction-clean-up      1024  h 2327/2327  px 0 (0%)  boxes 0/27
 /post-construction-clean-up       768  h 2790/2790  px 0 (0%)  boxes 0/27
 /post-construction-clean-up       390  h 3445/3445  px 0 (0%)  boxes 0/27
+/pressure-washing                1440  h 5092/5092  px 0 (0%)  boxes 0/42
+/pressure-washing                1024  h 4740/4740  px 0 (0%)  boxes 0/42
+/pressure-washing                 768  h 4680/4680  px 0 (0%)  boxes 0/42
+/pressure-washing                 390  h 7417/7417  px 0 (0%)  boxes 0/42
+/residential-gallery             1440  h 3539/3539  px 0 (0%)  boxes 0/35
+/residential-gallery             1024  h 3137/3137  px 0 (0%)  boxes 0/35
+/residential-gallery              768  h 3254/3254  px 0 (0%)  boxes 0/35
+/residential-gallery              390  h 4486/4486  px 0 (0%)  boxes 0/35
+/restaurant                      1440  h 2057/2057  px 0 (0%)  boxes 0/23
+/restaurant                      1024  h 2328/2328  px 0 (0%)  boxes 0/23
+/restaurant                       768  h 2399/2399  px 0 (0%)  boxes 0/23
+/restaurant                       390  h 3451/3451  px 0 (0%)  boxes 0/23
+/reviews                         1440  h 1950/1950  px 0 (0%)  boxes 0/36
+/reviews                         1024  h 2082/2082  px 0 (0%)  boxes 0/36
+/reviews                          768  h 2261/2261  px 0 (0%)  boxes 0/36
+/reviews                          390  h 3361/3361  px 0 (0%)  boxes 0/36
+/roof-washing                    1440  h 2400/2400  px 0 (0%)  boxes 0/25
+/roof-washing                    1024  h 2447/2447  px 0 (0%)  boxes 0/25
+/roof-washing                     768  h 3089/3089  px 0 (0%)  boxes 0/25
+/roof-washing                     390  h 4089/4089  px 0 (0%)  boxes 0/25
+/rust-removal                    1440  h 2105/2105  px 0 (0%)  boxes 0/24
+/rust-removal                    1024  h 2348/2348  px 0 (0%)  boxes 0/24
+/rust-removal                     768  h 2471/2471  px 0 (0%)  boxes 0/24
+/rust-removal                     390  h 3451/3451  px 0 (0%)  boxes 0/24
+/satisfaction-guarantee-policy   1440  h 2164/2164  px 0 (0%)  boxes 0/37
+/satisfaction-guarantee-policy   1024  h 2259/2259  px 0 (0%)  boxes 0/37
+/satisfaction-guarantee-policy    768  h 2678/2678  px 0 (0%)  boxes 0/37
+/satisfaction-guarantee-policy    390  h 3797/3797  px 0 (0%)  boxes 0/37
+/seal-solutions                  1440  h 4072/4072  px 0 (0%)  boxes 0/58
+/seal-solutions                  1024  h 4204/4204  px 0 (0%)  boxes 0/58
+/seal-solutions                   768  h 4967/4967  px 0 (0%)  boxes 0/58
+/seal-solutions                   390  h 7231/7231  px 0 (0%)  boxes 0/58
+/services                        1440  h 4624/4624  px 0 (0%)  boxes 0/76
+/services                        1024  h 4981/4981  px 0 (0%)  boxes 0/76
+/services                         768  h 5532/5532  px 0 (0%)  boxes 0/76
+/services                         390  h 9297/9339  px 187136 (5.138%)  boxes 9/76
+/stain-removal                   1440  h 2720/2720  px 0 (0%)  boxes 0/37
+/stain-removal                   1024  h 2883/2883  px 0 (0%)  boxes 0/37
+/stain-removal                    768  h 3942/3942  px 0 (0%)  boxes 0/37
+/stain-removal                    390  h 5189/5189  px 0 (0%)  boxes 0/37
+/sweeping-cleaning               1440  h 2105/2105  px 0 (0%)  boxes 0/24
+/sweeping-cleaning               1024  h 2292/2292  px 0 (0%)  boxes 0/24
+/sweeping-cleaning                768  h 2423/2423  px 0 (0%)  boxes 0/24
+/sweeping-cleaning               390  FAILED TimeoutError: page.goto: Timeout 90000ms exceeded.
+Call log:
+[2m  - navigating to "https://www.igtpw.com/sweeping-clean
+/the-clean-team                  1440  h 5088/5088  px 0 (0%)  boxes 0/49
+/the-clean-team                  1024  h 5370/5370  px 0 (0%)  boxes 0/49
+/the-clean-team                   768  h 6417/6417  px 0 (0%)  boxes 0/49
+/the-clean-team                   390  h 8472/8472  px 0 (0%)  boxes 0/49
+/window-cleaning-cincinnati      1440  h 2560/900  px 1696622 (46.024%)  boxes 24/24  ERR ReferenceError: n is not defined
+/window-cleaning-cincinnati      1024  h 2539/900  px 1188884 (45.727%)  boxes 24/24  ERR ReferenceError: n is not defined
+/window-cleaning-cincinnati       768  h 3102/900  px 1028233 (42.388%)  boxes 24/24  ERR ReferenceError: n is not defined
+/window-cleaning-cincinnati       390  h 3829/900  px 819176 (54.856%)  boxes 24/24  ERR ReferenceError: n is not defined
+/blogs                           1440  h 1496/1496  px 0 (0%)  boxes 0/18
+/blogs                           1024  h 1543/1543  px 0 (0%)  boxes 0/18
+/blogs                            768  h 1630/1630  px 0 (0%)  boxes 0/18
+/blogs                            390  h 2301/2301  px 0 (0%)  boxes 0/18

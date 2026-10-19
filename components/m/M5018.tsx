@@ -10,19 +10,12 @@ import { motion } from "framer-motion";
 import lottie_comp_5_1 from "@/lib/lottie/m/M5018-comp-5.json";
 
 let x = lottie_comp_5_1,
-  CU_ = dynamic(
-    () =>
-      n
-        .e(3078)
-        .then(n.bind(n, 8153))
-        .then((i) => i.Player),
-    {
-      loadableGenerated: {
-        webpack: () => [8153],
-      },
-      ssr: !1,
+  CU_ = dynamic(() => import("@lottiefiles/react-lottie-player").then((i) => i.Player), {
+    loadableGenerated: {
+      webpack: () => [8153],
     },
-  ),
+    ssr: !1,
+  }),
   CK_ = () => (
     <section className={styles.section}>
       <div className={styles.container}>
