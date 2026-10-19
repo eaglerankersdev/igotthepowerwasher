@@ -7,7 +7,7 @@ import { PNG } from "pngjs";
 import pixelmatch from "pixelmatch";
 
 const ORIG = "https://www.igtpw.com";
-const CLONE = "http://localhost:3000";
+const CLONE = process.env.CLONE || "http://localhost:3000";
 const WIDTHS = (process.argv[3] || "1440,1024,768,390").split(",").map(Number);
 const mm = JSON.parse(fs.readFileSync("site/module-map.json", "utf8"));
 const filter = process.argv[2] && process.argv[2] !== "all" ? process.argv[2] : null;
