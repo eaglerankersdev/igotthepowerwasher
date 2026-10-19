@@ -1,36 +1,6 @@
 [
  {
   "route": "/",
-  "w": 1440,
-  "hOrig": 8032,
-  "hClone": 8032,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 118,
-  "boxMismatches": 36,
-  "firstMismatch": {
-   "i": 26,
-   "orig": {
-    "tag": "IMG",
-    "text": "Google Fonts logo",
-    "x": -1126,
-    "y": 3519,
-    "w": 106,
-    "h": 80
-   },
-   "clone": {
-    "tag": "IMG",
-    "text": "Google Fonts logo",
-    "x": -1130,
-    "y": 3519,
-    "w": 106,
-    "h": 80
-   }
-  },
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/",
   "w": 1024,
   "hOrig": 7851,
   "hClone": 7851,
@@ -90,48 +60,6 @@
   "cloneOnlyErrors": []
  },
  {
-  "route": "/",
-  "w": 390,
-  "hOrig": 12985,
-  "hClone": 12985,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 118,
-  "boxMismatches": 36,
-  "firstMismatch": {
-   "i": 26,
-   "orig": {
-    "tag": "IMG",
-    "text": "Google Fonts logo",
-    "x": -196,
-    "y": 5745,
-    "w": 106,
-    "h": 80
-   },
-   "clone": {
-    "tag": "IMG",
-    "text": "Google Fonts logo",
-    "x": -202,
-    "y": 5745,
-    "w": 106,
-    "h": 80
-   }
-  },
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/about-us",
-  "w": 1440,
-  "hOrig": 4265,
-  "hClone": 4265,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 40,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
   "route": "/about-us",
   "w": 1024,
   "hOrig": 4362,
@@ -148,18 +76,6 @@
   "w": 768,
   "hOrig": 4871,
   "hClone": 4871,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 40,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/about-us",
-  "w": 390,
-  "hOrig": 6790,
-  "hClone": 6790,
   "pixelDiff": 0,
   "pct": 0,
   "elements": 40,
@@ -1185,18 +1101,6 @@
  },
  {
   "route": "/pressure-washing",
-  "w": 1440,
-  "hOrig": 5092,
-  "hClone": 5092,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 42,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/pressure-washing",
   "w": 1024,
   "hOrig": 4740,
   "hClone": 4740,
@@ -1212,18 +1116,6 @@
   "w": 768,
   "hOrig": 4680,
   "hClone": 4680,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 42,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/pressure-washing",
-  "w": 390,
-  "hOrig": 7417,
-  "hClone": 7417,
   "pixelDiff": 0,
   "pct": 0,
   "elements": 42,
@@ -1713,18 +1605,6 @@
  },
  {
   "route": "/window-cleaning-cincinnati",
-  "w": 1440,
-  "hOrig": 2560,
-  "hClone": 2560,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/window-cleaning-cincinnati",
   "w": 1024,
   "hOrig": 2539,
   "hClone": 2539,
@@ -1740,18 +1620,6 @@
   "w": 768,
   "hOrig": 3102,
   "hClone": 3102,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/window-cleaning-cincinnati",
-  "w": 390,
-  "hOrig": 3829,
-  "hClone": 3829,
   "pixelDiff": 0,
   "pct": 0,
   "elements": 24,
@@ -1995,6 +1863,138 @@
   "pixelDiff": 0,
   "pct": 0,
   "elements": 40,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/",
+  "w": 1440,
+  "hOrig": 8032,
+  "hClone": 8032,
+  "pixelDiff": 0,
+  "pct": 0,
+  "elements": 118,
+  "boxMismatches": 36,
+  "firstMismatch": {
+   "i": 26,
+   "orig": {
+    "tag": "IMG",
+    "text": "Google Fonts logo",
+    "x": -1127,
+    "y": 3519,
+    "w": 106,
+    "h": 80
+   },
+   "clone": {
+    "tag": "IMG",
+    "text": "Google Fonts logo",
+    "x": -1132,
+    "y": 3519,
+    "w": 106,
+    "h": 80
+   }
+  },
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/",
+  "w": 390,
+  "hOrig": 12985,
+  "hClone": 12985,
+  "pixelDiff": 0,
+  "pct": 0,
+  "elements": 118,
+  "boxMismatches": 36,
+  "firstMismatch": {
+   "i": 26,
+   "orig": {
+    "tag": "IMG",
+    "text": "Google Fonts logo",
+    "x": -189,
+    "y": 5745,
+    "w": 106,
+    "h": 80
+   },
+   "clone": {
+    "tag": "IMG",
+    "text": "Google Fonts logo",
+    "x": -206,
+    "y": 5745,
+    "w": 106,
+    "h": 80
+   }
+  },
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/about-us",
+  "w": 1440,
+  "hOrig": 4265,
+  "hClone": 4265,
+  "pixelDiff": 0,
+  "pct": 0,
+  "elements": 40,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/about-us",
+  "w": 390,
+  "hOrig": 6790,
+  "hClone": 6790,
+  "pixelDiff": 0,
+  "pct": 0,
+  "elements": 40,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/window-cleaning-cincinnati",
+  "w": 1440,
+  "hOrig": 2560,
+  "hClone": 2560,
+  "pixelDiff": 0,
+  "pct": 0,
+  "elements": 24,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/window-cleaning-cincinnati",
+  "w": 390,
+  "hOrig": 3829,
+  "hClone": 3829,
+  "pixelDiff": 0,
+  "pct": 0,
+  "elements": 24,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/pressure-washing",
+  "w": 1440,
+  "hOrig": 5092,
+  "hClone": 5092,
+  "pixelDiff": 0,
+  "pct": 0,
+  "elements": 42,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/pressure-washing",
+  "w": 390,
+  "hOrig": 7417,
+  "hClone": 7417,
+  "pixelDiff": 0,
+  "pct": 0,
+  "elements": 42,
   "boxMismatches": 0,
   "firstMismatch": null,
   "cloneOnlyErrors": []
