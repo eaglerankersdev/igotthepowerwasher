@@ -1,28 +1,28 @@
 [
  {
   "route": "/",
-  "w": 1024,
-  "hOrig": 7851,
-  "hClone": 7851,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 118,
+  "w": 1440,
+  "hOrig": 8032,
+  "hClone": 8032,
+  "pixelDiff": 1879,
+  "pct": 0.016,
+  "elements": 122,
   "boxMismatches": 36,
   "firstMismatch": {
-   "i": 26,
+   "i": 29,
    "orig": {
     "tag": "IMG",
     "text": "Google Fonts logo",
-    "x": -1132,
-    "y": 3247,
+    "x": -769,
+    "y": 3519,
     "w": 106,
     "h": 80
    },
    "clone": {
     "tag": "IMG",
     "text": "Google Fonts logo",
-    "x": -1134,
-    "y": 3247,
+    "x": -778,
+    "y": 3519,
     "w": 106,
     "h": 80
    }
@@ -31,28 +31,28 @@
  },
  {
   "route": "/",
-  "w": 768,
-  "hOrig": 7872,
-  "hClone": 7872,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 118,
+  "w": 390,
+  "hOrig": 13413,
+  "hClone": 13413,
+  "pixelDiff": 569,
+  "pct": 0.011,
+  "elements": 122,
   "boxMismatches": 36,
   "firstMismatch": {
-   "i": 26,
+   "i": 29,
    "orig": {
     "tag": "IMG",
     "text": "Google Fonts logo",
-    "x": -280,
-    "y": 2959,
+    "x": -724,
+    "y": 5745,
     "w": 106,
     "h": 80
    },
    "clone": {
     "tag": "IMG",
     "text": "Google Fonts logo",
-    "x": -315,
-    "y": 2959,
+    "x": -751,
+    "y": 5745,
     "w": 106,
     "h": 80
    }
@@ -61,558 +61,394 @@
  },
  {
   "route": "/about-us",
-  "w": 1024,
-  "hOrig": 4362,
-  "hClone": 4362,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 40,
+  "w": 1440,
+  "hOrig": 4265,
+  "hClone": 4265,
+  "pixelDiff": 364,
+  "pct": 0.006,
+  "elements": 44,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/about-us",
-  "w": 768,
-  "hOrig": 4871,
-  "hClone": 4871,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 40,
+  "w": 390,
+  "hOrig": 7217,
+  "hClone": 7217,
+  "pixelDiff": 364,
+  "pct": 0.013,
+  "elements": 44,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/annual-maintenance-program",
   "w": 1440,
   "hOrig": 3217,
   "hClone": 3217,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 60,
+  "pixelDiff": 364,
+  "pct": 0.008,
+  "elements": 64,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/annual-maintenance-program",
-  "w": 1024,
-  "hOrig": 3264,
-  "hClone": 3264,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 60,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/annual-maintenance-program",
-  "w": 768,
-  "hOrig": 3869,
-  "hClone": 3869,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 60,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/annual-maintenance-program",
   "w": 390,
-  "hOrig": 5845,
-  "hClone": 5845,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 60,
+  "hOrig": 6273,
+  "hClone": 6273,
+  "pixelDiff": 364,
+  "pct": 0.015,
+  "elements": 64,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/building-wash",
   "w": 1440,
   "hOrig": 2456,
   "hClone": 2456,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 30,
+  "pixelDiff": 478,
+  "pct": 0.014,
+  "elements": 34,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/building-wash",
-  "w": 1024,
-  "hOrig": 2727,
-  "hClone": 2727,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 30,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/building-wash",
-  "w": 768,
-  "hOrig": 3286,
-  "hClone": 3286,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 30,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/building-wash",
   "w": 390,
-  "hOrig": 4605,
-  "hClone": 4605,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 30,
+  "hOrig": 5033,
+  "hClone": 5033,
+  "pixelDiff": 672,
+  "pct": 0.034,
+  "elements": 34,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/career",
   "w": 1440,
   "hOrig": 2019,
   "hClone": 2019,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
+  "pixelDiff": 364,
+  "pct": 0.013,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/career",
-  "w": 1024,
-  "hOrig": 2066,
-  "hClone": 2066,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/career",
-  "w": 768,
-  "hOrig": 2153,
-  "hClone": 2153,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/career",
   "w": 390,
-  "hOrig": 3064,
-  "hClone": 3064,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
+  "hOrig": 3492,
+  "hClone": 3492,
+  "pixelDiff": 356,
+  "pct": 0.026,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/commercial-gallery",
   "w": 1440,
   "hOrig": 5849,
   "hClone": 5849,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 39,
+  "pixelDiff": 843,
+  "pct": 0.01,
+  "elements": 43,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/commercial-gallery",
-  "w": 1024,
-  "hOrig": 4909,
-  "hClone": 4909,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 39,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/commercial-gallery",
-  "w": 768,
-  "hOrig": 4622,
-  "hClone": 4622,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 39,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/commercial-gallery",
   "w": 390,
-  "hOrig": 7139,
-  "hClone": 7139,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 39,
+  "hOrig": 7567,
+  "hClone": 7567,
+  "pixelDiff": 356,
+  "pct": 0.011,
+  "elements": 43,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/commercial-gutter-cleaning",
   "w": 1440,
   "hOrig": 1864,
   "hClone": 1864,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
+  "pixelDiff": 364,
+  "pct": 0.014,
+  "elements": 29,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/commercial-gutter-cleaning",
-  "w": 1024,
-  "hOrig": 2051,
-  "hClone": 2051,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/commercial-gutter-cleaning",
-  "w": 768,
-  "hOrig": 2570,
-  "hClone": 2570,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/commercial-gutter-cleaning",
   "w": 390,
-  "hOrig": 3569,
-  "hClone": 3569,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
+  "hOrig": 3997,
+  "hClone": 3997,
+  "pixelDiff": 598,
+  "pct": 0.038,
+  "elements": 29,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/commercial-pressure-washing",
   "w": 1440,
   "hOrig": 2480,
   "hClone": 2480,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 26,
+  "pixelDiff": 3174,
+  "pct": 0.089,
+  "elements": 30,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/commercial-pressure-washing",
-  "w": 1024,
-  "hOrig": 2527,
-  "hClone": 2527,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 26,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/commercial-pressure-washing",
-  "w": 768,
-  "hOrig": 3274,
-  "hClone": 3274,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 26,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/commercial-pressure-washing",
   "w": 390,
-  "hOrig": 4369,
-  "hClone": 4369,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 26,
+  "hOrig": 4797,
+  "hClone": 4797,
+  "pixelDiff": 1640,
+  "pct": 0.088,
+  "elements": 30,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/commercial-window-cleaning",
   "w": 1440,
   "hOrig": 2161,
   "hClone": 2161,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
+  "pixelDiff": 499,
+  "pct": 0.016,
+  "elements": 28,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/commercial-window-cleaning",
-  "w": 1024,
-  "hOrig": 2477,
-  "hClone": 2477,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/commercial-window-cleaning",
-  "w": 768,
-  "hOrig": 2471,
-  "hClone": 2471,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/commercial-window-cleaning",
   "w": 390,
-  "hOrig": 3584,
-  "hClone": 3584,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
+  "hOrig": 4012,
+  "hClone": 4012,
+  "pixelDiff": 437,
+  "pct": 0.028,
+  "elements": 28,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/concrete-pressure-washing",
   "w": 1440,
   "hOrig": 2168,
   "hClone": 2168,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
+  "pixelDiff": 364,
+  "pct": 0.012,
+  "elements": 29,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/concrete-pressure-washing",
-  "w": 1024,
-  "hOrig": 2215,
-  "hClone": 2215,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/concrete-pressure-washing",
-  "w": 768,
-  "hOrig": 2438,
-  "hClone": 2438,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/concrete-pressure-washing",
   "w": 390,
-  "hOrig": 3525,
-  "hClone": 3525,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
+  "hOrig": 3953,
+  "hClone": 3953,
+  "pixelDiff": 356,
+  "pct": 0.021,
+  "elements": 29,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/concrete-sealing",
+  "w": 1440,
+  "hOrig": 4497,
+  "hClone": 4497,
+  "pixelDiff": 528,
+  "pct": 0.008,
+  "elements": 49,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)",
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/concrete-sealing",
+  "w": 390,
+  "hOrig": 7896,
+  "hClone": 7897,
+  "pixelDiff": 19377,
+  "pct": 0.629,
+  "elements": 49,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)",
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/contact-us",
   "w": 1440,
   "hOrig": 2555,
   "hClone": 2555,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 35,
+  "pixelDiff": 364,
+  "pct": 0.01,
+  "elements": 39,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/contact-us",
-  "w": 1024,
-  "hOrig": 2686,
-  "hClone": 2686,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 35,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/contact-us",
-  "w": 768,
-  "hOrig": 3297,
-  "hClone": 3297,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 35,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/contact-us",
   "w": 390,
-  "hOrig": 4256,
-  "hClone": 4256,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 35,
+  "hOrig": 4684,
+  "hClone": 4684,
+  "pixelDiff": 356,
+  "pct": 0.019,
+  "elements": 39,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/efflorescence-removal",
   "w": 1440,
   "hOrig": 2133,
   "hClone": 2133,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
+  "pixelDiff": 979,
+  "pct": 0.032,
+  "elements": 28,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/efflorescence-removal",
-  "w": 1024,
-  "hOrig": 2376,
-  "hClone": 2376,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/efflorescence-removal",
-  "w": 768,
-  "hOrig": 2423,
-  "hClone": 2423,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/efflorescence-removal",
   "w": 390,
-  "hOrig": 3499,
-  "hClone": 3499,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
+  "hOrig": 3927,
+  "hClone": 3927,
+  "pixelDiff": 801,
+  "pct": 0.052,
+  "elements": 28,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/fence-washing",
   "w": 1440,
   "hOrig": 2055,
   "hClone": 2055,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 26,
+  "pixelDiff": 364,
+  "pct": 0.012,
+  "elements": 30,
   "boxMismatches": 0,
   "firstMismatch": null,
   "cloneOnlyErrors": [
-   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
-  ]
- },
- {
-  "route": "/fence-washing",
-  "w": 1024,
-  "hOrig": 2283,
-  "hClone": 2283,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 26,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": [
-   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
-  ]
- },
- {
-  "route": "/fence-washing",
-  "w": 768,
-  "hOrig": 2396,
-  "hClone": 2396,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 26,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)",
    "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
   ]
  },
  {
   "route": "/fence-washing",
   "w": 390,
-  "hOrig": 3417,
-  "hClone": 3417,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 26,
+  "hOrig": 3845,
+  "hClone": 3845,
+  "pixelDiff": 356,
+  "pct": 0.022,
+  "elements": 30,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)",
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/gallery",
+  "w": 1440,
+  "hOrig": 8252,
+  "hClone": 8252,
+  "pixelDiff": 2402,
+  "pct": 0.02,
+  "elements": 61,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/gallery",
+  "w": 390,
+  "hOrig": 10112,
+  "hClone": 10112,
+  "pixelDiff": 365,
+  "pct": 0.008,
+  "elements": 61,
   "boxMismatches": 0,
   "firstMismatch": null,
   "cloneOnlyErrors": [
@@ -624,1379 +460,695 @@
   "w": 1440,
   "hOrig": 2209,
   "hClone": 2209,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
+  "pixelDiff": 413,
+  "pct": 0.013,
+  "elements": 29,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gas-station",
-  "w": 1024,
-  "hOrig": 2452,
-  "hClone": 2452,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gas-station",
-  "w": 768,
-  "hOrig": 2519,
-  "hClone": 2519,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/gas-station",
   "w": 390,
-  "hOrig": 3595,
-  "hClone": 3595,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
+  "hOrig": 4023,
+  "hClone": 4023,
+  "pixelDiff": 473,
+  "pct": 0.03,
+  "elements": 29,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/get-estimate",
   "w": 1440,
   "hOrig": 2295,
   "hClone": 2295,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
+  "pixelDiff": 364,
+  "pct": 0.011,
+  "elements": 28,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/get-estimate",
-  "w": 1024,
-  "hOrig": 2342,
-  "hClone": 2342,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/get-estimate",
-  "w": 768,
-  "hOrig": 2429,
-  "hClone": 2429,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/get-estimate",
   "w": 390,
-  "hOrig": 3364,
-  "hClone": 3364,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
+  "hOrig": 3792,
+  "hClone": 3792,
+  "pixelDiff": 356,
+  "pct": 0.024,
+  "elements": 28,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/graffiti-removal",
   "w": 1440,
   "hOrig": 2057,
   "hClone": 2057,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
+  "pixelDiff": 418,
+  "pct": 0.014,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/graffiti-removal",
-  "w": 1024,
-  "hOrig": 2272,
-  "hClone": 2272,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/graffiti-removal",
-  "w": 768,
-  "hOrig": 2375,
-  "hClone": 2375,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/graffiti-removal",
   "w": 390,
-  "hOrig": 3403,
-  "hClone": 3403,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
+  "hOrig": 3831,
+  "hClone": 3831,
+  "pixelDiff": 411,
+  "pct": 0.028,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/grease-removal",
   "w": 1440,
   "hOrig": 2057,
   "hClone": 2057,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
+  "pixelDiff": 364,
+  "pct": 0.012,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/grease-removal",
-  "w": 1024,
-  "hOrig": 2300,
-  "hClone": 2300,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/grease-removal",
-  "w": 768,
-  "hOrig": 2375,
-  "hClone": 2375,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/grease-removal",
   "w": 390,
-  "hOrig": 3427,
-  "hClone": 3427,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
+  "hOrig": 3855,
+  "hClone": 3855,
+  "pixelDiff": 368,
+  "pct": 0.024,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/gum-removal",
   "w": 1440,
   "hOrig": 2057,
   "hClone": 2057,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
+  "pixelDiff": 418,
+  "pct": 0.014,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gum-removal",
-  "w": 1024,
-  "hOrig": 2272,
-  "hClone": 2272,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gum-removal",
-  "w": 768,
-  "hOrig": 2375,
-  "hClone": 2375,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/gum-removal",
   "w": 390,
-  "hOrig": 3403,
-  "hClone": 3403,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
+  "hOrig": 3831,
+  "hClone": 3831,
+  "pixelDiff": 411,
+  "pct": 0.028,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/gutter-cleaning",
   "w": 1440,
   "hOrig": 2836,
   "hClone": 2836,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 31,
+  "pixelDiff": 453,
+  "pct": 0.011,
+  "elements": 35,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gutter-cleaning",
-  "w": 1024,
-  "hOrig": 2931,
-  "hClone": 2931,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 31,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gutter-cleaning",
-  "w": 768,
-  "hOrig": 3086,
-  "hClone": 3086,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 31,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/gutter-cleaning",
   "w": 390,
-  "hOrig": 4655,
-  "hClone": 4655,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 31,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/oil-removal",
-  "w": 1440,
-  "hOrig": 2085,
-  "hClone": 2085,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/oil-removal",
-  "w": 1024,
-  "hOrig": 2356,
-  "hClone": 2356,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/oil-removal",
-  "w": 768,
-  "hOrig": 2399,
-  "hClone": 2399,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/oil-removal",
-  "w": 390,
-  "hOrig": 3427,
-  "hClone": 3427,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/parking-lot-maintenance",
-  "w": 1440,
-  "hOrig": 2957,
-  "hClone": 2957,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 33,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/parking-lot-maintenance",
-  "w": 1024,
-  "hOrig": 3316,
-  "hClone": 3316,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 33,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/parking-lot-maintenance",
-  "w": 768,
-  "hOrig": 3231,
-  "hClone": 3231,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 33,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/parking-lot-maintenance",
-  "w": 390,
-  "hOrig": 4883,
-  "hClone": 4883,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 33,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/parking-lot-washing",
-  "w": 1440,
-  "hOrig": 2001,
-  "hClone": 2001,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/parking-lot-washing",
-  "w": 1024,
-  "hOrig": 2216,
-  "hClone": 2216,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/parking-lot-washing",
-  "w": 768,
-  "hOrig": 2351,
-  "hClone": 2351,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/parking-lot-washing",
-  "w": 390,
-  "hOrig": 3355,
-  "hClone": 3355,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/post-construction-clean-up",
-  "w": 1440,
-  "hOrig": 2096,
-  "hClone": 2096,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 27,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/post-construction-clean-up",
-  "w": 1024,
-  "hOrig": 2327,
-  "hClone": 2327,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 27,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/post-construction-clean-up",
-  "w": 768,
-  "hOrig": 2790,
-  "hClone": 2790,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 27,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/post-construction-clean-up",
-  "w": 390,
-  "hOrig": 3445,
-  "hClone": 3445,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 27,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/pressure-washing",
-  "w": 1024,
-  "hOrig": 4740,
-  "hClone": 4740,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 42,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/pressure-washing",
-  "w": 768,
-  "hOrig": 4680,
-  "hClone": 4680,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 42,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/residential-gallery",
-  "w": 1440,
-  "hOrig": 3539,
-  "hClone": 3539,
-  "pixelDiff": 0,
-  "pct": 0,
+  "hOrig": 5083,
+  "hClone": 5083,
+  "pixelDiff": 438,
+  "pct": 0.022,
   "elements": 35,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/residential-gallery",
-  "w": 1024,
-  "hOrig": 3137,
-  "hClone": 3137,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 35,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/residential-gallery",
-  "w": 768,
-  "hOrig": 3254,
-  "hClone": 3254,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 35,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/residential-gallery",
-  "w": 390,
-  "hOrig": 4486,
-  "hClone": 4486,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 35,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/restaurant",
-  "w": 1440,
-  "hOrig": 2057,
-  "hClone": 2057,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/restaurant",
-  "w": 1024,
-  "hOrig": 2328,
-  "hClone": 2328,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/restaurant",
-  "w": 768,
-  "hOrig": 2399,
-  "hClone": 2399,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/restaurant",
-  "w": 390,
-  "hOrig": 3451,
-  "hClone": 3451,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 23,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/reviews",
-  "w": 1440,
-  "hOrig": 1950,
-  "hClone": 1950,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 36,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/reviews",
-  "w": 1024,
-  "hOrig": 2082,
-  "hClone": 2082,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 36,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/reviews",
-  "w": 768,
-  "hOrig": 2261,
-  "hClone": 2261,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 36,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/reviews",
-  "w": 390,
-  "hOrig": 3361,
-  "hClone": 3361,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 36,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/roof-washing",
-  "w": 1440,
-  "hOrig": 2400,
-  "hClone": 2400,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/roof-washing",
-  "w": 1024,
-  "hOrig": 2447,
-  "hClone": 2447,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/roof-washing",
-  "w": 768,
-  "hOrig": 3089,
-  "hClone": 3089,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/roof-washing",
-  "w": 390,
-  "hOrig": 4089,
-  "hClone": 4089,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 25,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/rust-removal",
-  "w": 1440,
-  "hOrig": 2105,
-  "hClone": 2105,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/rust-removal",
-  "w": 1024,
-  "hOrig": 2348,
-  "hClone": 2348,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/rust-removal",
-  "w": 768,
-  "hOrig": 2471,
-  "hClone": 2471,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/rust-removal",
-  "w": 390,
-  "hOrig": 3451,
-  "hClone": 3451,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/satisfaction-guarantee-policy",
-  "w": 1440,
-  "hOrig": 2164,
-  "hClone": 2164,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 37,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/satisfaction-guarantee-policy",
-  "w": 1024,
-  "hOrig": 2259,
-  "hClone": 2259,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 37,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/satisfaction-guarantee-policy",
-  "w": 768,
-  "hOrig": 2678,
-  "hClone": 2678,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 37,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/satisfaction-guarantee-policy",
-  "w": 390,
-  "hOrig": 3797,
-  "hClone": 3797,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 37,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/seal-solutions",
-  "w": 1440,
-  "hOrig": 4072,
-  "hClone": 4072,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 58,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/seal-solutions",
-  "w": 1024,
-  "hOrig": 4204,
-  "hClone": 4204,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 58,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/seal-solutions",
-  "w": 768,
-  "hOrig": 4967,
-  "hClone": 4967,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 58,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/seal-solutions",
-  "w": 390,
-  "hOrig": 7231,
-  "hClone": 7231,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 58,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/stain-removal",
-  "w": 1440,
-  "hOrig": 2720,
-  "hClone": 2720,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 37,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/stain-removal",
-  "w": 1024,
-  "hOrig": 2883,
-  "hClone": 2883,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 37,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/stain-removal",
-  "w": 768,
-  "hOrig": 3942,
-  "hClone": 3942,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 37,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/stain-removal",
-  "w": 390,
-  "hOrig": 5189,
-  "hClone": 5189,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 37,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/the-clean-team",
-  "w": 1440,
-  "hOrig": 5088,
-  "hClone": 5088,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 49,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/the-clean-team",
-  "w": 1024,
-  "hOrig": 5370,
-  "hClone": 5370,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 49,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/the-clean-team",
-  "w": 768,
-  "hOrig": 6417,
-  "hClone": 6417,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 49,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/the-clean-team",
-  "w": 390,
-  "hOrig": 8472,
-  "hClone": 8472,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 49,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/blogs",
-  "w": 1440,
-  "hOrig": 1496,
-  "hClone": 1496,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 18,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/blogs",
-  "w": 1024,
-  "hOrig": 1543,
-  "hClone": 1543,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 18,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/blogs",
-  "w": 768,
-  "hOrig": 1630,
-  "hClone": 1630,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 18,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/blogs",
-  "w": 390,
-  "hOrig": 2301,
-  "hClone": 2301,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 18,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/window-cleaning-cincinnati",
-  "w": 1024,
-  "hOrig": 2539,
-  "hClone": 2539,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/window-cleaning-cincinnati",
-  "w": 768,
-  "hOrig": 3102,
-  "hClone": 3102,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/services",
-  "w": 1440,
-  "hOrig": 4624,
-  "hClone": 4624,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 76,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/services",
-  "w": 1024,
-  "hOrig": 4981,
-  "hClone": 4981,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 76,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/services",
-  "w": 768,
-  "hOrig": 5532,
-  "hClone": 5532,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 76,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/services",
-  "w": 390,
-  "hOrig": 9339,
-  "hClone": 9339,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 76,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gallery",
-  "w": 1440,
-  "hOrig": 8252,
-  "hClone": 8252,
-  "pixelDiff": 4091,
-  "pct": 0.034,
-  "elements": 57,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gallery",
-  "w": 1024,
-  "hOrig": 6862,
-  "hClone": 6863,
-  "pixelDiff": 14766,
-  "pct": 0.206,
-  "elements": 57,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gallery",
-  "w": 768,
-  "hOrig": 6607,
-  "hClone": 6607,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 57,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/gallery",
-  "w": 390,
-  "hOrig": 9684,
-  "hClone": 9684,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 57,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/concrete-sealing",
-  "w": 1440,
-  "hOrig": 4497,
-  "hClone": 4497,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 45,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/concrete-sealing",
-  "w": 1024,
-  "hOrig": 4634,
-  "hClone": 4634,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 45,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/concrete-sealing",
-  "w": 768,
-  "hOrig": 5042,
-  "hClone": 5042,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 45,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/concrete-sealing",
-  "w": 390,
-  "hOrig": 7469,
-  "hClone": 7469,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 45,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/sweeping-cleaning",
-  "w": 1440,
-  "hOrig": 2105,
-  "hClone": 2105,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/sweeping-cleaning",
-  "w": 1024,
-  "hOrig": 2292,
-  "hClone": 2292,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/sweeping-cleaning",
-  "w": 768,
-  "hOrig": 2423,
-  "hClone": 2423,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/sweeping-cleaning",
-  "w": 390,
-  "hOrig": 3427,
-  "hClone": 3427,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/house-washing",
   "w": 1440,
   "hOrig": 5006,
   "hClone": 5006,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 40,
+  "pixelDiff": 1055,
+  "pct": 0.015,
+  "elements": 44,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/house-washing",
-  "w": 1024,
-  "hOrig": 4842,
-  "hClone": 4842,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 40,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/house-washing",
-  "w": 768,
-  "hOrig": 5230,
-  "hClone": 5230,
-  "pixelDiff": 2,
-  "pct": 0,
-  "elements": 40,
-  "boxMismatches": 0,
-  "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/house-washing",
   "w": 390,
-  "hOrig": 6727,
-  "hClone": 6727,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 40,
+  "hOrig": 7155,
+  "hClone": 7155,
+  "pixelDiff": 368,
+  "pct": 0.013,
+  "elements": 44,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
-  "route": "/about-us",
+  "route": "/oil-removal",
   "w": 1440,
-  "hOrig": 4265,
-  "hClone": 4265,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 40,
+  "hOrig": 2085,
+  "hClone": 2085,
+  "pixelDiff": 364,
+  "pct": 0.012,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
-  "route": "/about-us",
+  "route": "/oil-removal",
   "w": 390,
-  "hOrig": 6790,
-  "hClone": 6790,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 40,
+  "hOrig": 3855,
+  "hClone": 3855,
+  "pixelDiff": 374,
+  "pct": 0.025,
+  "elements": 27,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/parking-lot-maintenance",
+  "w": 1440,
+  "hOrig": 2957,
+  "hClone": 2957,
+  "pixelDiff": 443,
+  "pct": 0.01,
+  "elements": 37,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/parking-lot-maintenance",
+  "w": 390,
+  "hOrig": 5311,
+  "hClone": 5311,
+  "pixelDiff": 591,
+  "pct": 0.029,
+  "elements": 37,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/parking-lot-washing",
+  "w": 1440,
+  "hOrig": 2001,
+  "hClone": 2001,
+  "pixelDiff": 384,
+  "pct": 0.013,
+  "elements": 27,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/parking-lot-washing",
+  "w": 390,
+  "hOrig": 3783,
+  "hClone": 3783,
+  "pixelDiff": 389,
+  "pct": 0.026,
+  "elements": 27,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/post-construction-clean-up",
+  "w": 1440,
+  "hOrig": 2096,
+  "hClone": 2096,
+  "pixelDiff": 602,
+  "pct": 0.02,
+  "elements": 31,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/post-construction-clean-up",
+  "w": 390,
+  "hOrig": 3873,
+  "hClone": 3873,
+  "pixelDiff": 460,
+  "pct": 0.03,
+  "elements": 31,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/pressure-washing",
   "w": 1440,
   "hOrig": 5092,
   "hClone": 5092,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 42,
+  "pixelDiff": 424,
+  "pct": 0.006,
+  "elements": 46,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/pressure-washing",
   "w": 390,
-  "hOrig": 7417,
-  "hClone": 7417,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 42,
+  "hOrig": 7845,
+  "hClone": 7845,
+  "pixelDiff": 356,
+  "pct": 0.012,
+  "elements": 46,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/residential-gallery",
+  "w": 1440,
+  "hOrig": 3539,
+  "hClone": 3539,
+  "pixelDiff": 1923,
+  "pct": 0.038,
+  "elements": 39,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/residential-gallery",
+  "w": 390,
+  "hOrig": 4913,
+  "hClone": 4913,
+  "pixelDiff": 365,
+  "pct": 0.018,
+  "elements": 39,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/restaurant",
+  "w": 1440,
+  "hOrig": 2057,
+  "hClone": 2057,
+  "pixelDiff": 364,
+  "pct": 0.012,
+  "elements": 27,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/restaurant",
+  "w": 390,
+  "hOrig": 3879,
+  "hClone": 3879,
+  "pixelDiff": 374,
+  "pct": 0.025,
+  "elements": 27,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/reviews",
+  "w": 1440,
+  "hOrig": 1950,
+  "hClone": 1950,
+  "pixelDiff": 358,
+  "pct": 0.013,
+  "elements": 40,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/reviews",
+  "w": 390,
+  "hOrig": 3789,
+  "hClone": 3789,
+  "pixelDiff": 365,
+  "pct": 0.025,
+  "elements": 40,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/roof-washing",
+  "w": 1440,
+  "hOrig": 2400,
+  "hClone": 2400,
+  "pixelDiff": 7033,
+  "pct": 0.204,
+  "elements": 29,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/roof-washing",
+  "w": 390,
+  "hOrig": 4517,
+  "hClone": 4517,
+  "pixelDiff": 2778,
+  "pct": 0.158,
+  "elements": 29,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/rust-removal",
+  "w": 1440,
+  "hOrig": 2105,
+  "hClone": 2105,
+  "pixelDiff": 390,
+  "pct": 0.013,
+  "elements": 28,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/rust-removal",
+  "w": 390,
+  "hOrig": 3879,
+  "hClone": 3879,
+  "pixelDiff": 373,
+  "pct": 0.025,
+  "elements": 28,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/satisfaction-guarantee-policy",
+  "w": 1440,
+  "hOrig": 2156,
+  "hClone": 2156,
+  "pixelDiff": 364,
+  "pct": 0.012,
+  "elements": 41,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/satisfaction-guarantee-policy",
+  "w": 390,
+  "hOrig": 4217,
+  "hClone": 4217,
+  "pixelDiff": 356,
+  "pct": 0.022,
+  "elements": 41,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/seal-solutions",
+  "w": 1440,
+  "hOrig": 4072,
+  "hClone": 4072,
+  "pixelDiff": 887,
+  "pct": 0.015,
+  "elements": 62,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/seal-solutions",
+  "w": 390,
+  "hOrig": 7659,
+  "hClone": 7659,
+  "pixelDiff": 1895,
+  "pct": 0.063,
+  "elements": 62,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/services",
+  "w": 1440,
+  "hOrig": 4624,
+  "hClone": 4624,
+  "pixelDiff": 383,
+  "pct": 0.006,
+  "elements": 80,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/services",
+  "w": 390,
+  "hOrig": 9767,
+  "hClone": 9767,
+  "pixelDiff": 819,
+  "pct": 0.022,
+  "elements": 80,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/stain-removal",
+  "w": 1440,
+  "hOrig": 2720,
+  "hClone": 2720,
+  "pixelDiff": 689,
+  "pct": 0.018,
+  "elements": 41,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/stain-removal",
+  "w": 390,
+  "hOrig": 5617,
+  "hClone": 5617,
+  "pixelDiff": 1458,
+  "pct": 0.067,
+  "elements": 41,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/sweeping-cleaning",
+  "w": 1440,
+  "hOrig": 2105,
+  "hClone": 2105,
+  "pixelDiff": 449,
+  "pct": 0.015,
+  "elements": 28,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/sweeping-cleaning",
+  "w": 390,
+  "hOrig": 3855,
+  "hClone": 3855,
+  "pixelDiff": 409,
+  "pct": 0.027,
+  "elements": 28,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/the-clean-team",
+  "w": 1440,
+  "hOrig": 5088,
+  "hClone": 5088,
+  "pixelDiff": 634,
+  "pct": 0.009,
+  "elements": 53,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/the-clean-team",
+  "w": 390,
+  "hOrig": 8900,
+  "hClone": 8900,
+  "pixelDiff": 481,
+  "pct": 0.014,
+  "elements": 53,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/window-cleaning-cincinnati",
   "w": 1440,
   "hOrig": 2560,
   "hClone": 2560,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
+  "pixelDiff": 842,
+  "pct": 0.023,
+  "elements": 28,
   "boxMismatches": 0,
   "firstMismatch": null,
-  "cloneOnlyErrors": []
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
  },
  {
   "route": "/window-cleaning-cincinnati",
   "w": 390,
-  "hOrig": 3829,
-  "hClone": 3829,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 24,
+  "hOrig": 4257,
+  "hClone": 4257,
+  "pixelDiff": 511,
+  "pct": 0.031,
+  "elements": 28,
+  "boxMismatches": 0,
+  "firstMismatch": null,
+  "cloneOnlyErrors": [
+   "console: Failed to load resource: the server responded with a status of 400 (Bad Request)"
+  ]
+ },
+ {
+  "route": "/blogs",
+  "w": 1440,
+  "hOrig": 1496,
+  "hClone": 1496,
+  "pixelDiff": 363,
+  "pct": 0.017,
+  "elements": 22,
   "boxMismatches": 0,
   "firstMismatch": null,
   "cloneOnlyErrors": []
  },
  {
-  "route": "/",
-  "w": 1440,
-  "hOrig": 8032,
-  "hClone": 8032,
-  "pixelDiff": 16322,
-  "pct": 0.141,
-  "elements": 118,
-  "boxMismatches": 119,
-  "firstMismatch": {
-   "i": 3,
-   "orig": {
-    "tag": "BUTTON",
-    "text": "About Us",
-    "x": 402,
-    "y": 72,
-    "w": 114,
-    "h": 40
-   },
-   "clone": {
-    "tag": "BUTTON",
-    "text": "",
-    "x": 485,
-    "y": 80,
-    "w": 24,
-    "h": 24
-   }
-  },
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/",
+  "route": "/blogs",
   "w": 390,
-  "hOrig": 12985,
-  "hClone": 13413,
-  "pixelDiff": 221794,
-  "pct": 4.24,
-  "elements": 118,
-  "boxMismatches": 116,
-  "firstMismatch": {
-   "i": 2,
-   "orig": {
-    "tag": "BUTTON",
-    "text": "Open main menu",
-    "x": 334,
-    "y": 72,
-    "w": 40,
-    "h": 40
-   },
-   "clone": {
-    "tag": "BUTTON",
-    "text": "Open main menu",
-    "x": 330,
-    "y": 70,
-    "w": 44,
-    "h": 44
-   }
-  },
+  "hOrig": 2729,
+  "hClone": 2729,
+  "pixelDiff": 356,
+  "pct": 0.033,
+  "elements": 22,
+  "boxMismatches": 0,
+  "firstMismatch": null,
   "cloneOnlyErrors": []
  }
 ]

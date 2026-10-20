@@ -87,6 +87,7 @@ let r = lottie_lfvideo2lottie_1,
           <div className="aspect-video w-full">
             <iframe
               src="https://www.youtube.com/embed/9HCBvY0djoQ?si=QctJReAhfIJavetc"
+              loading="lazy"
               title="YouTube video player"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               allowFullScreen={!0}

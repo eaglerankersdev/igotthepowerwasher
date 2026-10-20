@@ -6,7 +6,7 @@ import path from "node:path";
 import { PNG } from "pngjs";
 import pixelmatch from "pixelmatch";
 
-const ORIG = "https://www.igtpw.com";
+const ORIG = process.env.ORIG || "https://www.igtpw.com";
 const CLONE = process.env.CLONE || "http://localhost:3000";
 const WIDTHS = (process.argv[3] || "1440,1024,768,390").split(",").map(Number);
 const mm = JSON.parse(fs.readFileSync("site/module-map.json", "utf8"));
