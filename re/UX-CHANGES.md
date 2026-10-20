@@ -22,3 +22,11 @@ Open items for the owner:
 - Footer links to Privacy Policy, Terms of Service, Blogs and Quality Guarantee lead to 404 pages on the original too. They need real content.
 - The Contact page lists contact@igotthepowerwasher.com while the footer lists igotthepowerwasher@gmail.com. Confirm which is correct.
 - Large white hero headings on #00C6F9 are below 3:1. They keep the original look.
+
+## Banner readability (2026-10-20)
+
+| Banner | Before | After |
+|---|---|---|
+| Solid cyan (35 pages) | #00C6F9, white text 2.0:1 | #0099C9, 3.3:1 (passes for large headings) |
+| Cyan-to-white gradient (about-us, annual-maintenance-program, the-clean-team) | #00C6F9 → white, heading area ≈ 1.5–2.0:1 | #008FBE → #00A8D8, ≥ 3.0:1 across the heading |
+| Breadcrumb under the heading | 16px semibold (small text, needs 4.5:1) | 19px bold (large text, 3:1 applies) |

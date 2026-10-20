@@ -102,9 +102,19 @@ a.bg-\[\#00C6F9\].text-white:hover,
 button.bg-\[\#00C6F9\].text-white:hover {
   background-color: #0369a1;
 }
-/* The hero bands keep the original cyan field. */
+/* Page banners: white headings need >= 3:1. #00C6F9 gives 2.0:1, so the banner field is
+   deepened within the same cyan (#0099C9 = 3.3:1). The fading banners keep their gradient,
+   shifted so the heading area stays readable. */
 .min-h-\[60vh\].bg-\[\#00C6F9\] {
-  background-color: #00c6f9;
+  background-color: #0099c9;
+}
+.min-h-\[60vh\].bg-gradient-to-r.from-\[\#00C6F9\] {
+  background-image: linear-gradient(to right, #008fbe, #00a8d8);
+}
+/* Breadcrumb under the banner heading: large-text size so 3:1 applies. */
+.min-h-\[60vh\] .font_barlow.text-white {
+  font-size: 1.1875rem;
+  font-weight: 700;
 }
 
 }
