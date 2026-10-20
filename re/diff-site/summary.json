@@ -1868,66 +1868,6 @@
   "cloneOnlyErrors": []
  },
  {
-  "route": "/",
-  "w": 1440,
-  "hOrig": 8032,
-  "hClone": 8032,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 118,
-  "boxMismatches": 36,
-  "firstMismatch": {
-   "i": 26,
-   "orig": {
-    "tag": "IMG",
-    "text": "Google Fonts logo",
-    "x": -1128,
-    "y": 3519,
-    "w": 106,
-    "h": 80
-   },
-   "clone": {
-    "tag": "IMG",
-    "text": "Google Fonts logo",
-    "x": -1132,
-    "y": 3519,
-    "w": 106,
-    "h": 80
-   }
-  },
-  "cloneOnlyErrors": []
- },
- {
-  "route": "/",
-  "w": 390,
-  "hOrig": 12985,
-  "hClone": 12985,
-  "pixelDiff": 0,
-  "pct": 0,
-  "elements": 118,
-  "boxMismatches": 36,
-  "firstMismatch": {
-   "i": 26,
-   "orig": {
-    "tag": "IMG",
-    "text": "Google Fonts logo",
-    "x": -196,
-    "y": 5745,
-    "w": 106,
-    "h": 80
-   },
-   "clone": {
-    "tag": "IMG",
-    "text": "Google Fonts logo",
-    "x": -210,
-    "y": 5745,
-    "w": 106,
-    "h": 80
-   }
-  },
-  "cloneOnlyErrors": []
- },
- {
   "route": "/about-us",
   "w": 1440,
   "hOrig": 4265,
@@ -1997,6 +1937,66 @@
   "elements": 24,
   "boxMismatches": 0,
   "firstMismatch": null,
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/",
+  "w": 1440,
+  "hOrig": 8032,
+  "hClone": 8032,
+  "pixelDiff": 16322,
+  "pct": 0.141,
+  "elements": 118,
+  "boxMismatches": 119,
+  "firstMismatch": {
+   "i": 3,
+   "orig": {
+    "tag": "BUTTON",
+    "text": "About Us",
+    "x": 402,
+    "y": 72,
+    "w": 114,
+    "h": 40
+   },
+   "clone": {
+    "tag": "BUTTON",
+    "text": "",
+    "x": 485,
+    "y": 80,
+    "w": 24,
+    "h": 24
+   }
+  },
+  "cloneOnlyErrors": []
+ },
+ {
+  "route": "/",
+  "w": 390,
+  "hOrig": 12985,
+  "hClone": 13413,
+  "pixelDiff": 221794,
+  "pct": 4.24,
+  "elements": 118,
+  "boxMismatches": 116,
+  "firstMismatch": {
+   "i": 2,
+   "orig": {
+    "tag": "BUTTON",
+    "text": "Open main menu",
+    "x": 334,
+    "y": 72,
+    "w": 40,
+    "h": 40
+   },
+   "clone": {
+    "tag": "BUTTON",
+    "text": "Open main menu",
+    "x": 330,
+    "y": 70,
+    "w": 44,
+    "h": 44
+   }
+  },
   "cloneOnlyErrors": []
  }
 ]

@@ -216,16 +216,3 @@ p {
   text-wrap: pretty;
 }
 
-/* Homepage hero photo: fit the whole photo in the first screen below the 184px header
-   instead of running past the fold (it was 1080px tall at 1440px wide). */
-/* Full width like the original; the photo fills the first screen and trims evenly top/bottom. */
-.home-hero {
-  aspect-ratio: auto;
-  height: max(320px, calc(100svh - var(--nav-h, 184px)));
-  max-height: 75vw; /* never taller than the photo's own 4:3 shape */
-}
-.home-hero img {
-  object-fit: cover !important;
-  object-position: center 15% !important;
-  border-radius: 0 !important;
-}
