@@ -202,3 +202,12 @@ h3 {
 p {
   text-wrap: pretty;
 }
+
+/* Homepage hero photo: fit the whole photo in the first screen below the 184px header
+   instead of running past the fold (it was 1080px tall at 1440px wide). */
+.home-hero {
+  max-height: max(320px, calc(100svh - var(--nav-h, 184px)));
+}
+.home-hero img {
+  object-position: center top !important;
+}

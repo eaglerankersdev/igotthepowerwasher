@@ -773,7 +773,7 @@ function AE() {
         <C$_
           src="/images/Web-1-1536x1152 (1).webp"
           alt="Professional pressure washing services in Cincinnati"
-          className="aspect-[4/3] w-full"
+          className="aspect-[4/3] w-full home-hero"
           priority={!0}
         />
         <H />

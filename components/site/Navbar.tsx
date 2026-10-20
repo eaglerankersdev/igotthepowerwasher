@@ -31,6 +31,17 @@ export default function Navbar() {
     setOpenSub(null);
   }, []);
 
+  // Publish the real header height so first-screen layouts (homepage hero) can fit below it.
+  useEffect(() => {
+    const el = navRef.current;
+    if (!el) return;
+    const set = () => document.documentElement.style.setProperty("--nav-h", `${el.offsetHeight}px`);
+    set();
+    const ro = new ResizeObserver(set);
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
+
   useEffect(() => {
     const onClick = (e: MouseEvent) => {
       // composedPath() keeps nodes that a re-render detached during this click (e.g. the icon swap).
