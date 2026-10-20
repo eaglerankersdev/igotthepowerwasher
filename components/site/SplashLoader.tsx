@@ -86,7 +86,7 @@ export default function SplashLoader() {
           e.stopPropagation();
           finish();
         }}
-        className="absolute bottom-6 right-6 z-10 rounded-full bg-white/95 px-5 py-2.5 text-sm font-medium text-gray-800 shadow-md ring-1 ring-gray-200 hover:bg-white hover:text-black focus:outline-none focus-visible:ring-2 focus-visible:ring-[#0284C7] transition"
+        className="absolute bottom-6 right-6 z-10 rounded-full bg-white/95 px-5 py-2.5 text-sm font-medium text-gray-800 shadow-md ring-1 ring-gray-200 hover:bg-white hover:text-black focus:outline-none focus-visible:ring-2 focus-visible:ring-[#027BBA] transition"
       >
         Skip intro
       </button>

@@ -30,3 +30,12 @@ Open items for the owner:
 | Solid cyan (35 pages) | #00C6F9, white text 2.0:1 | #0099C9, 3.3:1 (passes for large headings) |
 | Cyan-to-white gradient (about-us, annual-maintenance-program, the-clean-team) | #00C6F9 → white, heading area ≈ 1.5–2.0:1 | #008FBE → #00A8D8, ≥ 3.0:1 across the heading |
 | Breadcrumb under the heading | 16px semibold (small text, needs 4.5:1) | 19px bold (large text, 3:1 applies) |
+
+## Visibility sweep (2026-10-21)
+
+- **Dark-mode bug (inherited from the original):** under OS dark mode the stylesheet turned the page ground black and default text #EDEDED, while sections stayed white. Tables (Annual Maintenance frequency table), form dropdown options, and any section without its own colours became unreadable on 24 pages. The site now always uses its light scheme.
+- **Readable cyan corrected:** #0284C7 measured 4.1:1, not 4.5:1. Replaced by #027BBA (4.62:1).
+- **White text on bright cyan surfaces** now on #027BBA: service-card panels (services, seal-solutions, stain-removal, parking-lot-maintenance), "View All Google Reviews", the gutter-cleaning phone button, before/after badges, icon tiles, roof-washing callouts and CTA, window-cleaning heading and CTA, team-circle names and roles.
+- Concrete-sealing photo captions: stronger dark strip (60%).
+- Verified with an automated contrast scan of every text node on all 39 pages in light and dark mode: 0 failures.
+- **Homepage hero:** full width restored; fills the first screen and trims from the bottom (crop anchored at 15%) so the sign and headline stay complete.

@@ -15,11 +15,11 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* The site is designed for light surfaces only. The original flipped the page ground to black
+   and default text to #EDEDED under OS dark mode, which made tables, form options and every
+   section without its own background unreadable. Keep the light scheme for everyone. */
+:root {
+  color-scheme: light;
 }
 
 body {
@@ -90,17 +90,30 @@ html.intro-seen .intro-splash {
    buttons that carry white text use a deeper cyan (4.5:1+). */
 .text-\[\#00C6F9\],
 .text-\[\#00c6f9\] {
-  color: #0284c7;
+  color: #027bba;
 }
 a.bg-\[\#00C6F9\].text-white,
 button.bg-\[\#00C6F9\].text-white,
 .bg-\[\#00C6F9\].text-white.text-xs,
 .bg-\[\#00C6F9\].text-white.rounded {
-  background-color: #0284c7;
+  background-color: #027bba;
 }
 a.bg-\[\#00C6F9\].text-white:hover,
 button.bg-\[\#00C6F9\].text-white:hover {
   background-color: #0369a1;
+}
+/* Every remaining bright-cyan surface that carries white text (service-card panels, review and
+   phone buttons, slider badges, icon tiles) uses the readable cyan; hover goes one step deeper. */
+.bg-\[\#00C6F9\].text-white:not(.min-h-\[60vh\]),
+.bg-\[\#00c6f9\].text-white:not(.min-h-\[60vh\]) {
+  background-color: #027bba;
+}
+.group:hover .group-hover\:bg-\[\#0099cc\].text-white,
+.bg-\[\#00c6f9\].text-white:hover {
+  background-color: #03649a;
+}
+.text-sky-600 {
+  color: #0277b5;
 }
 /* Page banners: white headings need >= 3:1. #00C6F9 gives 2.0:1, so the banner field is
    deepened within the same cyan (#0099C9 = 3.3:1). The fading banners keep their gradient,
@@ -121,7 +134,7 @@ button.bg-\[\#00C6F9\].text-white:hover {
 
 /* Visible, consistent keyboard focus everywhere. */
 :where(a, button, input, select, textarea, summary, [tabindex]):focus-visible {
-  outline: 3px solid #0284c7;
+  outline: 3px solid #027bba;
   outline-offset: 2px;
   border-radius: 6px;
 }
@@ -139,7 +152,7 @@ input[type="range"].cursor-ew-resize:focus-visible {
   outline: none;
 }
 input[type="range"].cursor-ew-resize:focus-visible ~ .rounded-full {
-  box-shadow: 0 0 0 4px #0284c7, 0 4px 12px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 0 0 4px #027bba, 0 4px 12px rgba(0, 0, 0, 0.25);
 }
 
 /* Dropdown entrance. */
@@ -178,7 +191,7 @@ input[type="range"].cursor-ew-resize:focus-visible ~ .rounded-full {
   left: 12px;
   top: -60px;
   z-index: 100;
-  background: #0284c7;
+  background: #027bba;
   color: #fff;
   padding: 10px 16px;
   border-radius: 8px;
@@ -205,9 +218,14 @@ p {
 
 /* Homepage hero photo: fit the whole photo in the first screen below the 184px header
    instead of running past the fold (it was 1080px tall at 1440px wide). */
+/* Full width like the original; the photo fills the first screen and trims evenly top/bottom. */
 .home-hero {
-  max-height: max(320px, calc(100svh - var(--nav-h, 184px)));
+  aspect-ratio: auto;
+  height: max(320px, calc(100svh - var(--nav-h, 184px)));
+  max-height: 75vw; /* never taller than the photo's own 4:3 shape */
 }
 .home-hero img {
-  object-position: center top !important;
+  object-fit: cover !important;
+  object-position: center 15% !important;
+  border-radius: 0 !important;
 }

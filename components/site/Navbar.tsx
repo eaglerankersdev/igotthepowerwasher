@@ -78,7 +78,7 @@ export default function Navbar() {
   };
 
   const linkBase = "flex items-center py-2 px-3 rounded-md transition-colors duration-150";
-  const linkColor = (active: boolean) => (active ? "text-[#0284C7] font-semibold" : "text-[#0284C7] hover:text-[#80a2d4]");
+  const linkColor = (active: boolean) => (active ? "text-[#027BBA] font-semibold" : "text-[#027BBA] hover:text-[#80a2d4]");
 
   const renderDropdown = (item: NavItem) => (
     <div
@@ -86,7 +86,7 @@ export default function Navbar() {
       role="menu"
       className={`absolute z-30 mt-1 text-sm bg-white border border-sky-300 rounded-lg shadow-md nav-pop ${item.key === "commercial" ? "min-w-[200px]" : "w-auto"}`}
     >
-      <ul className="p-4 space-y-4 text-[#0284C7] whitespace-nowrap">
+      <ul className="p-4 space-y-4 text-[#027BBA] whitespace-nowrap">
         {item.children!.map((c) =>
           c.children ? (
             <li key={c.href} className="relative" role="none">
@@ -110,7 +110,7 @@ export default function Navbar() {
               </div>
               {openSub === c.href && (
                 <div className="lg:absolute lg:left-full lg:top-0 z-30 mt-3 lg:mt-0 lg:ml-4 min-w-[220px] bg-white border border-sky-300 rounded-lg shadow-md nav-pop">
-                  <ul className="p-4 space-y-4 text-[#0284C7] whitespace-nowrap">
+                  <ul className="p-4 space-y-4 text-[#027BBA] whitespace-nowrap">
                     {c.children.map((g) => (
                       <li key={g.href} role="none">
                         <a role="menuitem" href={g.href} className={`hover:underline underline-offset-4 ${isActive(path, g.href) ? "font-semibold" : ""}`} aria-current={isActive(path, g.href) ? "page" : undefined}>
@@ -154,7 +154,7 @@ export default function Navbar() {
         <div className="flex items-center lg:order-2 space-x-1 lg:space-x-2 rtl:space-x-reverse">
           <a
             href="/get-estimate"
-            className="text-white bg-[#0284C7] hover:bg-blue-600 active:scale-[0.98] focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 md:px-5 md:py-2.5 focus:outline-none transition"
+            className="text-white bg-[#027BBA] hover:bg-blue-600 active:scale-[0.98] focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 md:px-5 md:py-2.5 focus:outline-none transition"
           >
             Free Estimate
           </a>
@@ -166,7 +166,7 @@ export default function Navbar() {
             }}
             aria-expanded={mobileOpen}
             aria-controls={`${menuId}-mobile`}
-            className="inline-flex items-center p-2 w-11 h-11 justify-center text-sm text-[#0284C7] rounded-lg lg:hidden hover:bg-sky-50 focus:outline-none focus:ring-2 focus:ring-sky-400"
+            className="inline-flex items-center p-2 w-11 h-11 justify-center text-sm text-[#027BBA] rounded-lg lg:hidden hover:bg-sky-50 focus:outline-none focus:ring-2 focus:ring-sky-400"
           >
             <span className="sr-only">{mobileOpen ? "Close main menu" : "Open main menu"}</span>
             {mobileOpen ? <FaTimes className="w-5 h-5" aria-hidden /> : <FaBars className="w-5 h-5" aria-hidden />}

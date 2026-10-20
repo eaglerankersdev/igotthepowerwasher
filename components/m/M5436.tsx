@@ -184,7 +184,7 @@ let c = () => (
               loading="lazy"
             />
           </div>
-          <div className="absolute inset-x-0 bottom-0 bg-black/40 p-4 text-center backdrop-blur-sm">
+          <div className="absolute inset-x-0 bottom-0 bg-black/60 p-4 text-center">
             <p className="text-sm font-semibold text-white lg:text-base">{e.caption}</p>
           </div>
         </motion.div>

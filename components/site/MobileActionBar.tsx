@@ -29,7 +29,7 @@ export default function MobileActionBar() {
         <a
           href={PHONE_TEL}
           tabIndex={visible ? 0 : -1}
-          className="flex items-center justify-center gap-2 h-12 rounded-lg border border-[#0284C7] text-[#0284C7] font-semibold text-sm active:scale-[0.98] transition"
+          className="flex items-center justify-center gap-2 h-12 rounded-lg border border-[#027BBA] text-[#027BBA] font-semibold text-sm active:scale-[0.98] transition"
           aria-label={`Call ${PHONE_DISPLAY}`}
         >
           <FaPhoneAlt aria-hidden /> Call now
@@ -37,7 +37,7 @@ export default function MobileActionBar() {
         <a
           href="/get-estimate"
           tabIndex={visible ? 0 : -1}
-          className="flex items-center justify-center gap-2 h-12 rounded-lg bg-[#0284C7] text-white font-semibold text-sm active:scale-[0.98] transition"
+          className="flex items-center justify-center gap-2 h-12 rounded-lg bg-[#027BBA] text-white font-semibold text-sm active:scale-[0.98] transition"
         >
           <FaCalendarCheck aria-hidden /> Free Estimate
         </a>
