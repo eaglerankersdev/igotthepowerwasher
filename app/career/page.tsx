@@ -1,5 +1,13 @@
 // Route /career: server component reconstructed from the original RSC payload (re/site/html/career.html).
+import type { Metadata } from "next";
 import M8261 from "@/components/m/M8261";
+
+export const metadata: Metadata = {
+  title: "Careers",
+  description: "Careers by I Got The Power Washer in Cincinnati, Ohio. 5-star rated quality. Call (513) 570-0355 for a free estimate.",
+  alternates: { canonical: "/career" },
+};
+
 
 export default function RoutePage() {
   return (

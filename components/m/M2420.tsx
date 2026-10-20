@@ -13,7 +13,7 @@ import { useAnimation, motion } from "framer-motion";
 import Image from "next/image";
 import { A as M7743_A } from "./M7743";
 import { A as M6725_A } from "./M6725";
-import lottie_lfvideo2lottie_1 from "@/lib/lottie/m/M2420-lfvideo2lottie.json";
+import SplashLoader from "@/components/site/SplashLoader";
 
 let Q = {
     src: "/media/01 (1).jpg",
@@ -764,60 +764,12 @@ let C$_ = (A) => {
         />
       </div>
     );
-  },
-  AA = lottie_lfvideo2lottie_1,
-  AI = dynamic(() => import("lottie-react"), {
-    loadableGenerated: {
-      webpack: () => [3770],
-    },
-    ssr: !1,
-    loading: () => <div className="w-24 h-24 bg-gray-200 rounded-full animate-pulse" />,
-  }),
-  Ai = (A) => {
-    let { onFinish: I } = A,
-      i = useRef(),
-      [Z, y] = useState(() => typeof window !== "undefined" && window.innerWidth <= 768);
-    return (
-      useEffect(() => {
-        let A = () => {
-          y(window.innerWidth <= 768);
-        };
-        return (window.addEventListener("resize", A), () => window.removeEventListener("resize", A));
-      }, []),
-      (
-        <div className="fixed inset-0 flex items-center justify-center w-screen h-screen bg-transparent">
-          <div className="relative w-full h-full">
-            <AI
-              lottieRef={i}
-              animationData={AA}
-              loop={!1}
-              onComplete={I}
-              style={{
-                width: "150vw",
-                height: "150vh",
-                transform: "translate(-50%, -50%) scale(".concat(Z ? 1.25 : 1.5, ")"),
-                position: "absolute",
-                top: "50%",
-                left: "50%",
-                transformOrigin: "center center",
-              }}
-              className="overflow-visible"
-            />
-          </div>
-        </div>
-      )
-    );
   };
 function AE() {
-  let [A, I] = useState(!0);
   return (
     <div className="relative">
-      {A && (
-        <div className="fixed inset-0 z-50 bg-white/90 backdrop-blur-sm">
-          <Ai onFinish={() => I(!1)} />
-        </div>
-      )}
-      <div className={"transition-all duration-500 ".concat(A ? "blur-sm" : "blur-none")}>
+      <SplashLoader />
+      <div>
         <C$_
           src="/images/Web-1-1536x1152 (1).webp"
           alt="Professional pressure washing services in Cincinnati"

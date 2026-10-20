@@ -76,13 +76,12 @@ let CR_ = (i) => {
       <div className="absolute top-2 left-2 bg-[#00C6F9] text-white text-xs px-2 py-1 rounded z-10">{"Before"}</div>
       <div className="absolute top-2 right-2 bg-[#00C6F9] text-white text-xs px-2 py-1 rounded z-10">{"After"}</div>
       <div className="absolute inset-0 z-20">
-        <input
-          type="range"
+        <input aria-label="Drag to compare before and after" type="range"
           min="0"
           max="100"
           value={r}
           onChange={(i) => o(Number(i.target.value))}
-          className="absolute top-1/2 left-0 w-full h-full opacity-0 cursor-ew-resize"
+          className="absolute inset-0 w-full h-full opacity-0 cursor-ew-resize touch-pan-y"
         />
         <div
           className="absolute top-0 left-0 w-1 bg-white h-full pointer-events-none"

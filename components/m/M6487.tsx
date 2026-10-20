@@ -28,7 +28,7 @@ let r = () => (
             once: !0,
           }}
         >
-          {"Professional Graffiti Removal Services in Cincinnati, Ohio"}
+          {"Professional Gum Removal Services in Cincinnati, Ohio"}
         </motion.h1>
         <motion.div
           className="flex justify-center text-white text-md font_barlow font-semibold text-opacity-85"

@@ -3,6 +3,7 @@
 "use client";
 // Unbundled from igtpw.com chunk app__satisfaction-guarantee-policy__page-f4fc362cb0c9192d.js, webpack module 7473.
 import { motion } from "framer-motion";
+import { FaCheckCircle, FaExclamationTriangle, FaStar, FaTint } from "react-icons/fa";
 
 let n = () => (
   <div>
@@ -93,23 +94,23 @@ let n = () => (
           <div className="space-y-6">
             {[
               {
-                icon: "\uD83D\uDCA7",
+                icon: <FaTint aria-hidden />,
                 title: "Complete Organic Removal",
                 content: "100% removal of algae, moss, and dirt through our professional cleaning services",
               },
               {
-                icon: "✨",
+                icon: <FaStar aria-hidden />,
                 title: "Streak-Free Windows",
                 content: "Crystal-clear results guaranteed for pristine views",
               },
               {
-                icon: "\uD83C\uDF00",
+                icon: <FaCheckCircle aria-hidden />,
                 title: "Fully Functional Gutters",
                 content: "Complete debris removal while preserving gutter integrity",
               },
             ].map((e, t) => (
               <div className="flex gap-4" key={t}>
-                <span className="text-2xl">{e.icon}</span>
+                <span className="text-2xl text-[#0284C7] mt-1 shrink-0">{e.icon}</span>
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900">{e.title}</h4>
                   <p className="text-gray-600">{e.content}</p>
@@ -169,7 +170,7 @@ let n = () => (
               },
             ].map((e, t) => (
               <div className="flex gap-4" key={t}>
-                <span className="text-2xl text-red-500">{"⚠️"}</span>
+                <span className="text-2xl text-red-500 mt-1 shrink-0"><FaExclamationTriangle aria-hidden /></span>
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900">{e.title}</h4>
                   <p className="text-gray-600">{e.content}</p>
@@ -181,7 +182,7 @@ let n = () => (
       </div>
       <div className="mt-12 text-center">
         <div className="inline-flex items-center gap-3 bg-[#00C6F9]/10 px-6 py-3 rounded-full">
-          <span className="text-2xl">{"✅"}</span>
+          <span className="text-2xl text-green-600"><FaCheckCircle aria-hidden /></span>
           <span className="font-semibold text-[#00C6F9]">{"Satisfaction Guaranteed"}</span>
         </div>
       </div>

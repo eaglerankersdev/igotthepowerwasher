@@ -2,11 +2,13 @@
 /* eslint-disable */
 "use client";
 // Unbundled from igtpw.com chunk 7743-87efd38f77d379ee.js, webpack module 7743.
-import { useState, useEffect } from "react";
+import { useState, useEffect, useId } from "react";
 import { useForm } from "react-hook-form";
 import { toast } from "react-toastify";
 import { motion, AnimatePresence } from "framer-motion";
 import { FiHome, FiBriefcase, FiUser, FiPhone, FiMail, FiMapPin, FiMessageSquare, FiClock } from "react-icons/fi";
+const __ac = { fullName: "name", phoneNumber: "tel", email: "email", address: "street-address", suite: "address-line2", businessName: "organization", companyAddress: "street-address" };
+
 
 let CC_ = (e) => {
     let { value: s, current: a, onChange: t, icon: l, label: i } = e;
@@ -27,48 +29,59 @@ let CC_ = (e) => {
   },
   CM_ = (e) => {
     let { label: s, icon: a, type: t, placeholder: l, error: i, ...n } = e;
+    const fid = useId();
     return (
       <div className="space-y-1">
-        <label className="flex items-center gap-2 text-gray-700 font-medium">
+        <label htmlFor={fid} className="flex items-center gap-2 text-gray-700 font-medium">
           {a && <span className="text-[#00C6F9]">{a}</span>}
           {s}
         </label>
         <input
+          id={fid}
           type={t}
           placeholder={l}
-          className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-[#00C6F9] focus:border-transparent transition-all"
+          autoComplete={__ac[n.name]}
+          aria-invalid={!!i}
+          aria-describedby={i ? fid + "-err" : undefined}
+          className={"w-full px-4 py-3 border rounded-xl focus:ring-2 focus:ring-[#00C6F9] focus:border-transparent transition-all " + (i ? "border-red-400 bg-red-50/40" : "border-gray-200")}
           {...n}
         />
-        {i && <p className="text-red-500 text-sm mt-1">{i.message}</p>}
+        {i && <p id={fid + "-err"} role="alert" className="text-red-600 text-sm mt-1">{i.message}</p>}
       </div>
     );
   },
   CX_ = (e) => {
     let { label: s, icon: a, placeholder: t, error: l, ...i } = e;
+    const fid = useId();
     return (
       <div className="space-y-1">
-        <label className="flex items-center gap-2 text-gray-700 font-medium">
+        <label htmlFor={fid} className="flex items-center gap-2 text-gray-700 font-medium">
           {a && <span className="text-[#00C6F9]">{a}</span>}
           {s}
         </label>
         <textarea
+          id={fid}
           placeholder={t}
-          className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-[#00C6F9] focus:border-transparent transition-all h-32"
+          aria-invalid={!!l}
+          aria-describedby={l ? fid + "-err" : undefined}
+          className={"w-full px-4 py-3 border rounded-xl focus:ring-2 focus:ring-[#00C6F9] focus:border-transparent transition-all h-32 " + (l ? "border-red-400 bg-red-50/40" : "border-gray-200")}
           {...i}
         />
-        {l && <p className="text-red-500 text-sm mt-1">{l.message}</p>}
+        {l && <p id={fid + "-err"} role="alert" className="text-red-600 text-sm mt-1">{l.message}</p>}
       </div>
     );
   },
   CU_ = (e) => {
     let { label: s, icon: a, options: t, ...l } = e;
+    const fid = useId();
     return (
       <div className="space-y-1">
-        <label className="flex items-center gap-2 text-gray-700 font-medium">
+        <label htmlFor={fid} className="flex items-center gap-2 text-gray-700 font-medium">
           {a && <span className="text-[#00C6F9]">{a}</span>}
           {s}
         </label>
         <select
+          id={fid}
           className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-[#00C6F9] focus:border-transparent transition-all appearance-none"
           {...l}
         >
@@ -282,13 +295,14 @@ let CC_ = (e) => {
               <motion.button
                 type="submit"
                 disabled={b}
+                aria-busy={b}
                 whileHover={{
                   scale: 1.02,
                 }}
                 whileTap={{
                   scale: 0.98,
                 }}
-                className="w-full bg-gradient-to-r from-[#00C6F9] to-cyan-600 text-white py-4 px-6 rounded-xl font-semibold text-lg shadow-lg hover:shadow-xl transition-all"
+                className="w-full bg-gradient-to-r from-[#00C6F9] to-cyan-600 text-white py-4 px-6 rounded-xl font-semibold text-lg shadow-lg hover:shadow-xl transition-all disabled:opacity-60 disabled:cursor-wait"
               >
                 {b ? "Sending Request..." : "Send Free Estimate Request"}
               </motion.button>

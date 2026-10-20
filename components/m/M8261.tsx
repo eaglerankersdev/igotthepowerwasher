@@ -97,41 +97,41 @@ let d = () => {
       <form onSubmit={m(y)} className="space-y-6">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="space-y-2">
-            <label className="block text-gray-700 font-medium flex items-center gap-1">
+            <label htmlFor="career-firstName" className="block text-gray-700 font-medium flex items-center gap-1">
               <FiUser className="text-[#00C6F9]" />
               {"First Name "}
               <span className="text-red-500">{"*"}</span>
             </label>
             <input
               type="text"
-              {...c("firstName", {
+              id="career-firstName" autoComplete="given-name" {...c("firstName", {
                 required: "First Name is required",
               })}
               className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-[#00C6F9] focus:border-transparent transition-all"
               placeholder="John"
             />
             {p.firstName && (
-              <p className="text-red-500 text-sm flex items-center gap-1 mt-1">
+              <p role="alert" className="text-red-600 text-sm flex items-center gap-1 mt-1">
                 <FiAlertCircle className="inline" /> {p.firstName.message}
               </p>
             )}
           </div>
           <div className="space-y-2">
-            <label className="block text-gray-700 font-medium flex items-center gap-1">
+            <label htmlFor="career-lastName" className="block text-gray-700 font-medium flex items-center gap-1">
               <FiUser className="text-[#00C6F9]" />
               {"Last Name "}
               <span className="text-red-500">{"*"}</span>
             </label>
             <input
               type="text"
-              {...c("lastName", {
+              id="career-lastName" autoComplete="family-name" {...c("lastName", {
                 required: "Last Name is required",
               })}
               className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-[#00C6F9] focus:border-transparent transition-all"
               placeholder="Doe"
             />
             {p.lastName && (
-              <p className="text-red-500 text-sm flex items-center gap-1 mt-1">
+              <p role="alert" className="text-red-600 text-sm flex items-center gap-1 mt-1">
                 <FiAlertCircle className="inline" /> {p.lastName.message}
               </p>
             )}
@@ -139,14 +139,14 @@ let d = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="space-y-2">
-            <label className="block text-gray-700 font-medium flex items-center gap-1">
+            <label htmlFor="career-email" className="block text-gray-700 font-medium flex items-center gap-1">
               <FiMail className="text-[#00C6F9]" />
               {"Email Address "}
               <span className="text-red-500">{"*"}</span>
             </label>
             <input
               type="email"
-              {...c("email", {
+              id="career-email" autoComplete="email" {...c("email", {
                 required: "Email is required",
                 pattern: {
                   value: /^[^\s@]+@[^\s@]+\.[^\s@]+$/,
@@ -157,20 +157,20 @@ let d = () => {
               placeholder="john@example.com"
             />
             {p.email && (
-              <p className="text-red-500 text-sm flex items-center gap-1 mt-1">
+              <p role="alert" className="text-red-600 text-sm flex items-center gap-1 mt-1">
                 <FiAlertCircle className="inline" /> {p.email.message}
               </p>
             )}
           </div>
           <div className="space-y-2">
-            <label className="block text-gray-700 font-medium flex items-center gap-1">
+            <label htmlFor="career-phone" className="block text-gray-700 font-medium flex items-center gap-1">
               <FiPhone className="text-[#00C6F9]" />
               {"Phone Number "}
               <span className="text-red-500">{"*"}</span>
             </label>
             <input
               type="tel"
-              {...c("phone", {
+              id="career-phone" autoComplete="tel" {...c("phone", {
                 required: "Phone Number is required",
                 pattern: {
                   value: /^\+?[1-9]\d{1,14}$/,
@@ -181,26 +181,26 @@ let d = () => {
               placeholder="(555) 123-4567"
             />
             {p.phone && (
-              <p className="text-red-500 text-sm flex items-center gap-1 mt-1">
+              <p role="alert" className="text-red-600 text-sm flex items-center gap-1 mt-1">
                 <FiAlertCircle className="inline" /> {p.phone.message}
               </p>
             )}
           </div>
         </div>
         <div className="space-y-2">
-          <label className="block text-gray-700 font-medium flex items-center gap-1">
+          <label htmlFor="career-message" className="block text-gray-700 font-medium flex items-center gap-1">
             <FiFileText className="text-[#00C6F9]" />
             {"Cover Letter"}
           </label>
           <textarea
-            {...c("message")}
+            id="career-message" {...c("message")}
             className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:ring-2 focus:ring-[#00C6F9] focus:border-transparent transition-all"
             rows="4"
             placeholder="Tell us why you'd be a great fit..."
           />
         </div>
         <div className="space-y-2">
-          <label className="block text-gray-700 font-medium flex items-center gap-1">
+          <label htmlFor="career-resume" className="block text-gray-700 font-medium flex items-center gap-1">
             <FiFileText className="text-[#00C6F9]" />
             {"Upload Resume (PDF/DOC) "}
             <span className="text-red-500">{"*"}</span>
@@ -208,7 +208,7 @@ let d = () => {
           <div className="relative border-2 border-dashed border-gray-200 rounded-xl p-6 text-center hover:border-[#00C6F9] transition-colors">
             <input
               type="file"
-              {...c("resume", {
+              id="career-resume" {...c("resume", {
                 required: "Resume is required",
                 validate: {
                   fileSize: (e) => {
@@ -249,7 +249,7 @@ let d = () => {
             </p>
           </div>
           {p.resume && (
-            <p className="text-red-500 text-sm flex items-center gap-1 mt-1">
+            <p role="alert" className="text-red-600 text-sm flex items-center gap-1 mt-1">
               <FiAlertCircle className="inline" /> {p.resume.message}
             </p>
           )}

@@ -1,0 +1,11 @@
+import { chromium } from "playwright";
+const b=await chromium.launch();const c=await b.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true});const p=await c.newPage();
+p.on('pageerror',e=>console.log('pageerror',String(e).slice(0,300)));
+await p.goto("http://localhost:3000/contact-us",{waitUntil:"networkidle"});await p.waitForTimeout(1500);
+console.log('hydrated', await p.evaluate(()=>Object.keys(document.querySelector('nav')).some(k=>k.startsWith('__react'))));
+const btn=p.locator('nav button:has(.sr-only)');
+const box=await btn.boundingBox(); console.log('box',box);
+console.log('top element at button center', await p.evaluate(({x,y})=>{const e=document.elementFromPoint(x,y);return e.tagName+' '+(e.className&&e.className.baseVal!==undefined?e.className.baseVal:e.className).toString().slice(0,80)},{x:box.x+box.width/2,y:box.y+box.height/2}));
+await btn.click();await p.waitForTimeout(400);
+console.log('after click expanded', await btn.getAttribute('aria-expanded'));
+await b.close();

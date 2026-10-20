@@ -4,6 +4,7 @@
 // Unbundled from igtpw.com chunk app__pressure-washing__page-f9e1ce1f75d6445b.js, webpack module 6776.
 import dynamic from "next/dynamic";
 import { motion } from "framer-motion";
+import { FaFire, FaShower, FaTruck } from "react-icons/fa";
 import { FaLongArrowAltRight } from "react-icons/fa";
 import { A as M6851_v5_A } from "./M6851_v5";
 import lottie_comp_15_1 from "@/lib/lottie/m/M6776-comp-15.json";
@@ -179,21 +180,21 @@ let l = lottie_comp_15_1,
                   <p className="text-gray-700 leading-relaxed">{"Our service offerings rely on cutting-edge equipment including:"}</p>
                   <ul className="space-y-4">
                     <li className="flex items-start text-black">
-                      <div className="bg-[#00C6F9] text-white p-2 rounded-lg mr-4">{"\uD83D\uDD25"}</div>
+                      <div className="bg-[#00C6F9] text-white p-2 rounded-lg mr-4 shrink-0 w-9 h-9 flex items-center justify-center"><FaFire aria-hidden /></div>
                       <div>
                         <strong className="text-black">{"Hot/Cold Washers:"}</strong>
                         {" For grease removal and general cleaning"}
                       </div>
                     </li>
                     <li className="flex items-start">
-                      <div className="bg-[#00C6F9] text-white p-2 rounded-lg mr-4">{"\uD83D\uDEBF"}</div>
+                      <div className="bg-[#00C6F9] text-white p-2 rounded-lg mr-4 shrink-0 w-9 h-9 flex items-center justify-center"><FaShower aria-hidden /></div>
                       <div className="text-black">
                         <strong className="text-black">{"High-Pressure Nozzles:"}</strong>
                         {" Up to 4000 PSI force"}
                       </div>
                     </li>
                     <li className="flex items-start">
-                      <div className="bg-[#00C6F9] text-white p-2 rounded-lg mr-4">{"\uD83D\uDE9A"}</div>
+                      <div className="bg-[#00C6F9] text-white p-2 rounded-lg mr-4 shrink-0 w-9 h-9 flex items-center justify-center"><FaTruck aria-hidden /></div>
                       <div className="text-black">
                         <strong className="text-black">{"Specialized Fleet:"}</strong>
                         {" Mobile cleaning solutions"}

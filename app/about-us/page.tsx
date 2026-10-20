@@ -1,5 +1,13 @@
 // Route /about-us: server component reconstructed from the original RSC payload (re/site/html/about-us.html).
+import type { Metadata } from "next";
 import M5434 from "@/components/m/M5434";
+
+export const metadata: Metadata = {
+  title: "About Us",
+  description: "About Us by I Got The Power Washer in Cincinnati, Ohio. 5-star rated quality. Call (513) 570-0355 for a free estimate.",
+  alternates: { canonical: "/about-us" },
+};
+
 
 export default function RoutePage() {
   return (

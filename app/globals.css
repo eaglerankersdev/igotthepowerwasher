@@ -51,3 +51,144 @@ h6 {
 p {
   font-family: Barlow, sans-serif !important;
 }
+
+/* ===================================================================
+   UX refinement layer (2026-10). The original look is preserved; these
+   rules only fix readability, focus, motion and consistency site-wide.
+   Original UI: git tag original-clone-v1 / branch backup/original-clone.
+   =================================================================== */
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+html.intro-lock {
+  overflow: hidden;
+}
+/* Returning visitors and reduced-motion users never see the intro, even before hydration. */
+html.intro-seen .intro-splash {
+  display: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .intro-splash {
+    display: none;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@layer utilities {
+/* Readable brand cyan: #00C6F9 stays for fields and decoration; text and filled
+   buttons that carry white text use a deeper cyan (4.5:1+). */
+.text-\[\#00C6F9\],
+.text-\[\#00c6f9\] {
+  color: #0284c7;
+}
+a.bg-\[\#00C6F9\].text-white,
+button.bg-\[\#00C6F9\].text-white,
+.bg-\[\#00C6F9\].text-white.text-xs,
+.bg-\[\#00C6F9\].text-white.rounded {
+  background-color: #0284c7;
+}
+a.bg-\[\#00C6F9\].text-white:hover,
+button.bg-\[\#00C6F9\].text-white:hover {
+  background-color: #0369a1;
+}
+/* The hero bands keep the original cyan field. */
+.min-h-\[60vh\].bg-\[\#00C6F9\] {
+  background-color: #00c6f9;
+}
+
+}
+
+/* Visible, consistent keyboard focus everywhere. */
+:where(a, button, input, select, textarea, summary, [tabindex]):focus-visible {
+  outline: 3px solid #0284c7;
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+:where(button, [role="button"], summary, select, label[for], input[type="checkbox"], input[type="radio"]) {
+  cursor: pointer;
+}
+a,
+button {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+/* Before/after sliders: show the handle focus when the hidden range input is focused. */
+input[type="range"].cursor-ew-resize:focus-visible {
+  outline: none;
+}
+input[type="range"].cursor-ew-resize:focus-visible ~ .rounded-full {
+  box-shadow: 0 0 0 4px #0284c7, 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+/* Dropdown entrance. */
+@keyframes nav-pop {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.nav-pop {
+  animation: nav-pop 140ms ease-out;
+}
+
+/* Footer: comfortable tap targets on phones, same look on desktop. */
+@media (max-width: 767px) {
+  footer .text-xs a {
+    display: inline-block;
+    padding-block: 6px;
+  }
+  footer .text-xs {
+    font-size: 0.8125rem;
+  }
+  /* Room for the mobile action bar so it never covers the footer. */
+  footer {
+    padding-bottom: 96px !important;
+  }
+}
+
+/* Skip link. */
+.skip-link {
+  position: absolute;
+  left: 12px;
+  top: -60px;
+  z-index: 100;
+  background: #0284c7;
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: top 150ms ease-out;
+}
+.skip-link:focus {
+  top: 12px;
+}
+
+/* Images never overflow their columns; long words in content wrap instead of overflowing. */
+img {
+  max-width: 100%;
+}
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+p {
+  text-wrap: pretty;
+}
